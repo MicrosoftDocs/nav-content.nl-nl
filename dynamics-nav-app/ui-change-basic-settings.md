@@ -7,46 +7,46 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ef0204fca3d139c64a0277b4e1d6d15fd0873248
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: e5adc922d37685321369a947a7e94d5ee69e21af
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="changing-basic-settings"></a>Basisinstellingen wijzigen
-In het venster **Mijn instellingen** kunt u basisinstellingen bekijken en wijzigen voor de Dynamics NAV-webclient.  
+# <a name="changing-basic-settings"></a><span data-ttu-id="f4a54-102">Basisinstellingen wijzigen</span><span class="sxs-lookup"><span data-stu-id="f4a54-102">Changing Basic Settings</span></span>
+<span data-ttu-id="f4a54-103">In het venster **Mijn instellingen** kunt u basisinstellingen bekijken en wijzigen voor de Dynamics NAV-webclient.</span><span class="sxs-lookup"><span data-stu-id="f4a54-103">In the **My Settings** window, you can see and change basic settings for the Dynamics NAV Web client.</span></span>  
 
-## <a name="role-center"></a>Rolcentrum
-Het rolcentrum vertegenwoordigt de startpagina, een pagina die is ontworpen voor de vereisten van de rol. Op de startpagina hebt u een overzicht van het bedrijf. Aan de linkerkant ziet u een navigatiebalk die u gemakkelijk toegang geeft aan klanten, leveranciers, artikelen, enzovoort.
+## <a name="role-center"></a><span data-ttu-id="f4a54-104">Rolcentrum</span><span class="sxs-lookup"><span data-stu-id="f4a54-104">Role Center</span></span>
+<span data-ttu-id="f4a54-105">Het rolcentrum vertegenwoordigt de startpagina, een pagina die is ontworpen voor de vereisten van de rol.</span><span class="sxs-lookup"><span data-stu-id="f4a54-105">The Role Center represents the Home page, a starting page that is designed for the needs of the role.</span></span> <span data-ttu-id="f4a54-106">Op de startpagina hebt u een overzicht van het bedrijf.</span><span class="sxs-lookup"><span data-stu-id="f4a54-106">On the Home page, you have an overview of the business.</span></span> <span data-ttu-id="f4a54-107">Aan de linkerkant ziet u een navigatiebalk die u gemakkelijk toegang geeft aan klanten, leveranciers, artikelen, enzovoort.</span><span class="sxs-lookup"><span data-stu-id="f4a54-107">To the left you see a navigation bar that gives you easy access to customers, vendors, items, and so on.</span></span>
 
-In het midden vindt u de tegels Activiteiten. Bij Activiteiten worden actuele gegevens weergegeven en u kunt klikken en tikken op de activiteiten voor gemakkelijke toegang tot het geselecteerde document. De KPI´s (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven.
+<span data-ttu-id="f4a54-108">In het midden vindt u de tegels Activiteiten.</span><span class="sxs-lookup"><span data-stu-id="f4a54-108">In the center you find the Activities tiles.</span></span> <span data-ttu-id="f4a54-109">Bij Activiteiten worden actuele gegevens weergegeven en u kunt klikken en tikken op de activiteiten voor gemakkelijke toegang tot het geselecteerde document.</span><span class="sxs-lookup"><span data-stu-id="f4a54-109">Activities show current data and can be clicked or tapped for easy access to the selected document.</span></span> <span data-ttu-id="f4a54-110">De KPI´s (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven.</span><span class="sxs-lookup"><span data-stu-id="f4a54-110">The Key Performance Indicators can be set up to display a selected chart for a visual representation of, for example, cash flow or income and expenses.</span></span>
 
-U kunt ook een lijst met favoriete klanten maken op de startpagina voor de accounts met wie u vaak zaken doet of aan wie u speciale aandacht moet geven. Gebruik de pijlen om een deel van de pagina samen te vouwen en meer ruimte te maken om specifieke gegevens weer te geven. Boven aan de startpagina vindt u alle acties die op de huidige inhoud kunnen worden toegepast. Dit kan ook worden samengevouwen en u hoeft alleen te klikken of te tikken binnen het samengevouwen gebied om het opnieuw weer te geven.
+<span data-ttu-id="f4a54-111">U kunt ook een lijst met favoriete klanten maken op de startpagina voor de accounts met wie u vaak zaken doet of aan wie u speciale aandacht moet geven.</span><span class="sxs-lookup"><span data-stu-id="f4a54-111">You can also build up a list of Favorite Customers on the Home page for accounts that you do business with often or need to pay special attention to.</span></span> <span data-ttu-id="f4a54-112">Gebruik de pijlen om een deel van de pagina samen te vouwen en meer ruimte te maken om specifieke gegevens weer te geven.</span><span class="sxs-lookup"><span data-stu-id="f4a54-112">Use the arrows to collapse part of the page and make more room to show specific data.</span></span> <span data-ttu-id="f4a54-113">Boven aan de startpagina vindt u alle acties die op de huidige inhoud kunnen worden toegepast.</span><span class="sxs-lookup"><span data-stu-id="f4a54-113">At the top of the Home page you will find all of the actions that can be applied to the current content.</span></span> <span data-ttu-id="f4a54-114">Dit kan ook worden samengevouwen en u hoeft alleen te klikken of te tikken binnen het samengevouwen gebied om het opnieuw weer te geven.</span><span class="sxs-lookup"><span data-stu-id="f4a54-114">This too can be collapsed and you only need to click or tap within the collapsed area to view it again.</span></span>
 
-Het standaardrolcentrum is **Verkooporderverwerker**, maar u kunt een ander rolcentrum selecteren dat beter aan uw behoeften voldoet. Zie [Procedure: Het rolcentrum wijzigen](ui-change-role.md) voor meer informatie.
+<span data-ttu-id="f4a54-115">Het standaardrolcentrum is **Verkooporderverwerker**, maar u kunt een ander rolcentrum selecteren dat beter aan uw behoeften voldoet.</span><span class="sxs-lookup"><span data-stu-id="f4a54-115">The default Role Center is **Sales Order Processor**, but you can select another Role Center that fits your needs better.</span></span> <span data-ttu-id="f4a54-116">Zie [Procedure: Het rolcentrum wijzigen](ui-change-role.md) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="f4a54-116">For more information, see [How to: Change the Role Center](ui-change-role.md).</span></span>
 
-## <a name="company"></a>Bedrijf
-Een bedrijf werkt als een container voor gegevens in Dynamics NAV. Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd.
+## <a name="company"></a><span data-ttu-id="f4a54-117">Bedrijf</span><span class="sxs-lookup"><span data-stu-id="f4a54-117">Company</span></span>
+<span data-ttu-id="f4a54-118">Een bedrijf werkt als een container voor gegevens in Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="f4a54-118">A company functions as a container for data in Dynamics NAV.</span></span> <span data-ttu-id="f4a54-119">Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd.</span><span class="sxs-lookup"><span data-stu-id="f4a54-119">There can be multiple companies in a database, but only one can be selected at a time.</span></span>
 
-Het bedrijf CRONUS US is het standaardbedrijf. Het bevat alleen demonstratiegegevens.   
+<span data-ttu-id="f4a54-120">Het bedrijf CRONUS US is het standaardbedrijf.</span><span class="sxs-lookup"><span data-stu-id="f4a54-120">The CRONUS US company is the default company.</span></span> <span data-ttu-id="f4a54-121">Het bevat alleen demonstratiegegevens.</span><span class="sxs-lookup"><span data-stu-id="f4a54-121">It contains demonstration data only.</span></span>   
 
-## <a name="work-date"></a>Werkdatum
-De standaardwerkdatum is meestal de datum van vandaag. U moet de werkdatum mogelijk tijdelijk wijzigen om taken te kunnen uitvoeren, zoals het voltooien van transacties voor een datum die niet de huidige datum is.
+## <a name="work-date"></a><span data-ttu-id="f4a54-122">Werkdatum</span><span class="sxs-lookup"><span data-stu-id="f4a54-122">Work date</span></span>
+<span data-ttu-id="f4a54-123">De standaardwerkdatum is meestal de datum van vandaag.</span><span class="sxs-lookup"><span data-stu-id="f4a54-123">The default work date is usually today's date.</span></span> <span data-ttu-id="f4a54-124">U moet de werkdatum mogelijk tijdelijk wijzigen om taken te kunnen uitvoeren, zoals het voltooien van transacties voor een datum die niet de huidige datum is.</span><span class="sxs-lookup"><span data-stu-id="f4a54-124">You may have to temporarily change the work date to be able to perform tasks, such as completing transactions for a date that is not the current date.</span></span>
 
-**Tip**: als u de werkdatum snel in een datumveld wilt invoeren, typt u **w**. Als u de huidige datum snel in het datumveld wilt invoeren, typt u **t**.
+<span data-ttu-id="f4a54-125">**Tip**: als u de werkdatum snel in een datumveld wilt invoeren, typt u **w**.</span><span class="sxs-lookup"><span data-stu-id="f4a54-125">**Tip**: Type **w** to quickly enter the work date in a date field.</span></span> <span data-ttu-id="f4a54-126">Als u de huidige datum snel in het datumveld wilt invoeren, typt u **t**.</span><span class="sxs-lookup"><span data-stu-id="f4a54-126">Write **t** to quickly enter the current date in the date field.</span></span>
 
-**Belangrijk**: de werkdatum wordt pas gewijzigd als u het bedrijf sluit of als u de datum verandert. Als u een ander bedrijf opent of hetzelfde bedrijf de dag erop weer opent en nog steeds een andere werkdatum moet gebruiken, moet u de werkdatum opnieuw instellen.
+<span data-ttu-id="f4a54-127">**Belangrijk**: de werkdatum wordt pas gewijzigd als u het bedrijf sluit of als u de datum verandert.</span><span class="sxs-lookup"><span data-stu-id="f4a54-127">**Important**: The work date is only changed until you close the company or until the date changes.</span></span> <span data-ttu-id="f4a54-128">Als u een ander bedrijf opent of hetzelfde bedrijf de dag erop weer opent en nog steeds een andere werkdatum moet gebruiken, moet u de werkdatum opnieuw instellen.</span><span class="sxs-lookup"><span data-stu-id="f4a54-128">If you open a different company or open the same company the next day and still have to use a different work date, then you must set the work date again.</span></span>
 
-## <a name="region-and-language"></a>Regio en taal
-Hier kunt u, de regio, de taal en de tijdzone wijzigen. Met de regionale instellingen wordt de indeling van gegevens bepaald, zoals datums, tijden, getallen, valuta, enzovoort. De tijdzone geeft de tijdzone op die op datum- en tijdgegevens wordt toegepast of die u weergeeft of invoert in Dynamics NAV. U moet zich af- en weer aanmelden om de wijziging te laten ingaan.
+## <a name="region-and-language"></a><span data-ttu-id="f4a54-129">Regio en taal</span><span class="sxs-lookup"><span data-stu-id="f4a54-129">Region and language</span></span>
+<span data-ttu-id="f4a54-130">Hier kunt u, de regio, de taal en de tijdzone wijzigen.</span><span class="sxs-lookup"><span data-stu-id="f4a54-130">Here you can change the region, language, and time zone.</span></span> <span data-ttu-id="f4a54-131">Met de regionale instellingen wordt de indeling van gegevens bepaald, zoals datums, tijden, getallen, valuta, enzovoort.</span><span class="sxs-lookup"><span data-stu-id="f4a54-131">The regional settings determine the format of data such as dates, times, numbers, currency, and so on.</span></span> <span data-ttu-id="f4a54-132">De tijdzone geeft de tijdzone op die op datum- en tijdgegevens wordt toegepast of die u weergeeft of invoert in Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="f4a54-132">The time zone specifies the time zone that is applied to date and time data that you view or enter in Dynamics NAV.</span></span> <span data-ttu-id="f4a54-133">U moet zich af- en weer aanmelden om de wijziging te laten ingaan.</span><span class="sxs-lookup"><span data-stu-id="f4a54-133">You need to sign out and sign in again for the change to take effect.</span></span>
 
-## <a name="confirmation-dialogs"></a>Bevestigingsdialoogvensters
-Gebruik de opties in deze sectie als u bepaalde extra controles wilt opgeven voor boekingsdocumenten. Deze opties worden standaard ingeschakeld, maar u kunt de selectievakjes uitschakelen om te voorkomen dat u specifieke waarschuwingen of berichten krijgt.
+## <a name="confirmation-dialogs"></a><span data-ttu-id="f4a54-134">Bevestigingsdialoogvensters</span><span class="sxs-lookup"><span data-stu-id="f4a54-134">Confirmation dialogs</span></span>
+<span data-ttu-id="f4a54-135">Gebruik de opties in deze sectie als u bepaalde extra controles wilt opgeven voor boekingsdocumenten.</span><span class="sxs-lookup"><span data-stu-id="f4a54-135">Use the options in this section if you want to specify some additional checks for posting documents.</span></span> <span data-ttu-id="f4a54-136">Deze opties worden standaard ingeschakeld, maar u kunt de selectievakjes uitschakelen om te voorkomen dat u specifieke waarschuwingen of berichten krijgt.</span><span class="sxs-lookup"><span data-stu-id="f4a54-136">These options are checked as standard, but you can clear the check boxes to avoid getting specific warnings or messages.</span></span>
 
-## <a name="see-also"></a>Zie ook
-[Werken met Dynamics NAV](ui-work-product.md)  
-[Procedure: Het rolcentrum wijzigen](ui-change-role.md)  
+## <a name="see-also"></a><span data-ttu-id="f4a54-137">Zie ook</span><span class="sxs-lookup"><span data-stu-id="f4a54-137">See Also</span></span>
+[<span data-ttu-id="f4a54-138">Werken met Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f4a54-138">Work with Dynamics NAV</span></span>](ui-work-product.md)  
+[<span data-ttu-id="f4a54-139">Procedure: Het rolcentrum wijzigen</span><span class="sxs-lookup"><span data-stu-id="f4a54-139">How to: Change the Role Center</span></span>](ui-change-role.md)  
 

@@ -7,88 +7,88 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: e4135aa801b0b507b5f179d02a240a7554ed45cd
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: bde70a8febc561b68908b1da2729fff59b105fd9
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-use-approval-workflows"></a>Procedure: Goedkeuringswerkstromen gebruiken
-Wanneer een record, zoals een inkoopdocument of klantenkaart, door iemand in uw organisatie moet worden goedgekeurd, stuurt u een goedkeuringsaanvraag als onderdeel van een werkstroom. Op basis van de instellingen van de werkstroom krijgt de betreffende fiatteur vervolgens het bericht dat hij of zij de record moet goedkeuren.
+# <a name="how-to-use-approval-workflows"></a><span data-ttu-id="fa29e-102">Procedure: Goedkeuringswerkstromen gebruiken</span><span class="sxs-lookup"><span data-stu-id="fa29e-102">How to: Use Approval Workflows</span></span>
+<span data-ttu-id="fa29e-103">Wanneer een record, zoals een inkoopdocument of klantenkaart, door iemand in uw organisatie moet worden goedgekeurd, stuurt u een goedkeuringsaanvraag als onderdeel van een werkstroom.</span><span class="sxs-lookup"><span data-stu-id="fa29e-103">When a record, such as a purchase document or a customer card, needs to be approved by someone in your organization, you send an approval request as part of a workflow.</span></span> <span data-ttu-id="fa29e-104">Op basis van de instellingen van de werkstroom krijgt de betreffende fiatteur vervolgens het bericht dat hij of zij de record moet goedkeuren.</span><span class="sxs-lookup"><span data-stu-id="fa29e-104">Based on how the workflow is set up, the appropriate approver is then notified that the record requires their approval.</span></span>
 
-Kerngoedkeuringswerkstromen voor inkoopdocumenten, verkoopdocumenten, betalingsdagboeken, klantenkaarten en artikelkaarten zijn gereed om als begeleide instellingen te dienen. Zie voor meer informatie [Welkom bij Dynamics NAV](across-get-started.md).
+<span data-ttu-id="fa29e-105">Kerngoedkeuringswerkstromen voor inkoopdocumenten, verkoopdocumenten, betalingsdagboeken, klantenkaarten en artikelkaarten zijn gereed om als begeleide instellingen te dienen.</span><span class="sxs-lookup"><span data-stu-id="fa29e-105">Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup.</span></span> <span data-ttu-id="fa29e-106">Zie voor meer informatie [Welkom bij Dynamics NAV](across-get-started.md).</span><span class="sxs-lookup"><span data-stu-id="fa29e-106">For more information, see [Welcome to Dynamics NAV](across-get-started.md).</span></span>
 
-## <a name="to-request-approval-of-a-record"></a>Goedkeuring van een record aanvragen
-De volgende taak wordt uitgevoerd door een fiatteurgebruiker.
+## <a name="to-request-approval-of-a-record"></a><span data-ttu-id="fa29e-107">Goedkeuring van een record aanvragen</span><span class="sxs-lookup"><span data-stu-id="fa29e-107">To request approval of a record</span></span>
+<span data-ttu-id="fa29e-108">De volgende taak wordt uitgevoerd door een fiatteurgebruiker.</span><span class="sxs-lookup"><span data-stu-id="fa29e-108">The following task is performed by an approval user.</span></span>
 
-1. Kies in het venster met de record de actie **Goedkeuringsaanvraag verzenden**.
-2. Als u al uw goedkeuringsaanvragen wilt zien, kiest u in de rechterbovenhoek weergeven het pictogram **Zoeken naar pagina of rapport**, voert u **Posten met goedkeuringsaanvraag** in en kiest u de gerelateerde koppeling.
+1. <span data-ttu-id="fa29e-109">Kies in het venster met de record de actie **Goedkeuringsaanvraag verzenden**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-109">In the window that presents the record, choose the **Send Approval Request** action.</span></span>
+2. <span data-ttu-id="fa29e-110">Als u al uw goedkeuringsaanvragen wilt zien, kiest u in de rechterbovenhoek weergeven het pictogram **Zoeken naar pagina of rapport**, voert u **Posten met goedkeuringsaanvraag** in en kiest u de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="fa29e-110">To see all your approval requests, in the top right corner, choose the **Search for Page or Report** icon, enter **Approval Request Entries**, and then choose the related link.</span></span>
 
-De status van de goedkeuringsvermelding wordt bijgewerkt van **Gemaakt** naar **Open**. De status van de record, bijvoorbeeld een inkoopfactuur, wordt bijgewerkt van **Open** naar **Wacht op goedkeuring** en blijft voor verwerking vergrendeld totdat alle fiatteurs de record hebben goedgekeurd.
+<span data-ttu-id="fa29e-111">De status van de goedkeuringsvermelding wordt bijgewerkt van **Gemaakt** naar **Open**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-111">The status of the approval entry is updated from **Created** to **Open**.</span></span> <span data-ttu-id="fa29e-112">De status van de record, bijvoorbeeld een inkoopfactuur, wordt bijgewerkt van **Open** naar **Wacht op goedkeuring** en blijft voor verwerking vergrendeld totdat alle fiatteurs de record hebben goedgekeurd.</span><span class="sxs-lookup"><span data-stu-id="fa29e-112">The status of the record, for example a purchase invoice, is updated from **Open** to **Pending Approval** and remains locked for processing until all approvers have approved the record.</span></span>
 
-Als de fiatteur de record heeft goedgekeurd, wordt de status gewijzigd in **Vrijgegeven**. U kunt dan uw taken met de record voortzetten.
+<span data-ttu-id="fa29e-113">Als de fiatteur de record heeft goedgekeurd, wordt de status gewijzigd in **Vrijgegeven**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-113">When the approver has approved the record, the status changes to **Released**.</span></span> <span data-ttu-id="fa29e-114">U kunt dan uw taken met de record voortzetten.</span><span class="sxs-lookup"><span data-stu-id="fa29e-114">You can then continue your tasks with the record.</span></span>
 
-## <a name="to-cancel-requests-for-approval"></a>Aanvragen voor goedkeuring annuleren
-De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.
+## <a name="to-cancel-requests-for-approval"></a><span data-ttu-id="fa29e-115">Aanvragen voor goedkeuring annuleren</span><span class="sxs-lookup"><span data-stu-id="fa29e-115">To cancel requests for approval</span></span>
+<span data-ttu-id="fa29e-116">De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.</span><span class="sxs-lookup"><span data-stu-id="fa29e-116">The following task is performed by an approval user with approver rights.</span></span>
 
-Het kan voorkomen dat een klant wijzigingen wil aanbrengen in een order nadat deze is ingediend ter goedkeuring. In dit geval kunt u het goedkeuringsproces annuleren en de noodzakelijke wijzigingen aanbrengen aan de order voordat u opnieuw goedkeuring aanvraagt.
+<span data-ttu-id="fa29e-117">Het kan voorkomen dat een klant wijzigingen wil aanbrengen in een order nadat deze is ingediend ter goedkeuring.</span><span class="sxs-lookup"><span data-stu-id="fa29e-117">A customer may want to change an order after it has been submitted for approval.</span></span> <span data-ttu-id="fa29e-118">In dit geval kunt u het goedkeuringsproces annuleren en de noodzakelijke wijzigingen aanbrengen aan de order voordat u opnieuw goedkeuring aanvraagt.</span><span class="sxs-lookup"><span data-stu-id="fa29e-118">In this case, you can cancel the approval process and make the necessary changes to the order before you request approval again.</span></span>
 
-1. Kies in het venster dat wordt weergegeven, de record en kies de actie **Goedkeuringsaanvraag annuleren**.
+1. <span data-ttu-id="fa29e-119">Kies in het venster dat wordt weergegeven, de record en kies de actie **Goedkeuringsaanvraag annuleren**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-119">In the window that displays the record, choose the **Cancel Approval Request** action.</span></span>
 
-Als de goedkeuringsaanvraag is geannuleerd, wordt de status voor de gerelateerde goedkeuringspost veranderd in **Geannuleerd**. De status van de record wordt bijgewerkt van **Wacht op goedkeuring** naar **Open**. Het goedkeuringsproces kan vervolgens opnieuw beginnen.
+<span data-ttu-id="fa29e-120">Als de goedkeuringsaanvraag is geannuleerd, wordt de status voor de gerelateerde goedkeuringspost veranderd in **Geannuleerd**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-120">When the approval request has been canceled, the status of the related approval entry is changed to **Canceled**.</span></span> <span data-ttu-id="fa29e-121">De status van de record wordt bijgewerkt van **Wacht op goedkeuring** naar **Open**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-121">The status of the record is updated from **Pending Approval** to **Open**.</span></span> <span data-ttu-id="fa29e-122">Het goedkeuringsproces kan vervolgens opnieuw beginnen.</span><span class="sxs-lookup"><span data-stu-id="fa29e-122">The approval process can then start again.</span></span>
 
-## <a name="to-make-minor-changes-to-approved-records"></a>Kleine wijzigingen in goedgekeurde records aanbrengen
-Als u een kleine wijziging in een record wilt maken nadat deze is goedgekeurd, kunt u de record openen, de wijziging aanbrengen, en dan vrijgeven. Voor kleine wijzigingen kunt u dit met de knoppen **Opnieuw openen** en **Vrijgeven** doen.
+## <a name="to-make-minor-changes-to-approved-records"></a><span data-ttu-id="fa29e-123">Kleine wijzigingen in goedgekeurde records aanbrengen</span><span class="sxs-lookup"><span data-stu-id="fa29e-123">To make minor changes to approved records</span></span>
+<span data-ttu-id="fa29e-124">Als u een kleine wijziging in een record wilt maken nadat deze is goedgekeurd, kunt u de record openen, de wijziging aanbrengen, en dan vrijgeven.</span><span class="sxs-lookup"><span data-stu-id="fa29e-124">If you want to make a minor change to a record after it has been approved, you can reopen the record, make the change, and then release it.</span></span> <span data-ttu-id="fa29e-125">Voor kleine wijzigingen kunt u dit met de knoppen **Opnieuw openen** en **Vrijgeven** doen.</span><span class="sxs-lookup"><span data-stu-id="fa29e-125">For minor changes, you do this with the **Reopen** and **Release** buttons.</span></span>
 
-1. Open het venster met de record, bijvoorbeeld een inkoopfactuur, en kies de actie **Opnieuw openen**.
+1. <span data-ttu-id="fa29e-126">Open het venster met de record, bijvoorbeeld een inkoopfactuur, en kies de actie **Opnieuw openen**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-126">Open the window that displays the record, such as a purchase invoice, and then choose the **Reopen** action.</span></span>
 
-    Het veld **Documentstatus** wordt gewijzigd in Open.
-3. Breng de gewenste wijzigingen aan in de record, bijvoorbeeld het adres van de leverancier.
-4. Kies de actie **Vrijgeven**.
+    <span data-ttu-id="fa29e-127">Het veld **Documentstatus** wordt gewijzigd in Open.</span><span class="sxs-lookup"><span data-stu-id="fa29e-127">The **Document Status** field is changed to Open.</span></span>
+3. <span data-ttu-id="fa29e-128">Breng de gewenste wijzigingen aan in de record, bijvoorbeeld het adres van de leverancier.</span><span class="sxs-lookup"><span data-stu-id="fa29e-128">Make the necessary changes on the record, such as the vendor’s address.</span></span>
+4. <span data-ttu-id="fa29e-129">Kies de actie **Vrijgeven**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-129">Choose the **Release** action.</span></span>
 
-Wanneer u de bronrecord opnieuw opent, blijft de status van de gerelateerde goedkeuringspost Goedgekeurd in het venster **Goedkeuringsposten**.
+<span data-ttu-id="fa29e-130">Wanneer u de bronrecord opnieuw opent, blijft de status van de gerelateerde goedkeuringspost Goedgekeurd in het venster **Goedkeuringsposten**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-130">When you reopen the source record, the status of the related approval entry remains Approved in the **Approval Entries** window.</span></span>
 
-## <a name="to-approve-or-reject-requests-for-approval"></a>Aanvragen voor goedkeuring goedkeuren of afwijzen
-De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.
+## <a name="to-approve-or-reject-requests-for-approval"></a><span data-ttu-id="fa29e-131">Aanvragen voor goedkeuring goedkeuren of afwijzen</span><span class="sxs-lookup"><span data-stu-id="fa29e-131">To approve or reject requests for approval</span></span>
+<span data-ttu-id="fa29e-132">De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.</span><span class="sxs-lookup"><span data-stu-id="fa29e-132">The following task is performed by an approval user with approver rights.</span></span>
 
-U kunt goedkeuringsaanvragen verwerken in het venster **Aanvragen ter goedkeuring**, bijvoorbeeld om meerdere aanvragen tegelijk goed te keuren. U kunt ook elke aanvraag voor de gerelateerde record verwerken zoals het venster **Inkoopfactuur**, door de koppeling te kiezen in het bericht dat u ontvangt.
+<span data-ttu-id="fa29e-133">U kunt goedkeuringsaanvragen verwerken in het venster **Aanvragen ter goedkeuring**, bijvoorbeeld om meerdere aanvragen tegelijk goed te keuren.</span><span class="sxs-lookup"><span data-stu-id="fa29e-133">You can process approval requests in the **Requests to Approve** window, for example to approve multiple requests at a time.</span></span> <span data-ttu-id="fa29e-134">U kunt ook elke aanvraag voor de gerelateerde record verwerken zoals het venster **Inkoopfactuur**, door de koppeling te kiezen in het bericht dat u ontvangt.</span><span class="sxs-lookup"><span data-stu-id="fa29e-134">Alternatively, you can process each request on the related record, such as the **Purchase Invoice** window, by choosing the link in the notification that you receive.</span></span>
 
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Aanvragen ter goedkeuring** in en kies de gerelateerde koppeling.
-2. Selecteer een of meer regels voor de record of records die u wilt goedkeuren of afwijzen.
-3. Kies de actie **Goedkeuren**, **Weigeren** of **Delegeren**.
+1. <span data-ttu-id="fa29e-135">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Aanvragen ter goedkeuring** in en kies de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="fa29e-135">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="fa29e-136">Selecteer een of meer regels voor de record of records die u wilt goedkeuren of afwijzen.</span><span class="sxs-lookup"><span data-stu-id="fa29e-136">Select one or more lines for the record or records that you want to approve or reject.</span></span>
+3. <span data-ttu-id="fa29e-137">Kies de actie **Goedkeuren**, **Weigeren** of **Delegeren**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-137">Choose the **Approve**, **Reject**, or **Delegate** actions.</span></span>
 
-Wanneer een record is goedgekeurd of afgewezen, wordt de goedkeuringsstatus in het veld **Status** gewijzigd in **Goedgekeurd** of **Afgewezen**.
+<span data-ttu-id="fa29e-138">Wanneer een record is goedgekeurd of afgewezen, wordt de goedkeuringsstatus in het veld **Status** gewijzigd in **Goedgekeurd** of **Afgewezen**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-138">When a record has been approved or rejected, the approval status in the **Status** field changes to **Approved** or **Rejected**.</span></span>
 
-Als er een fiatteurhiërarchie is ingesteld, is de recordstatus **Wacht op goedkeuring** totdat alle fiatteurs de record hebben goedgekeurd. Vervolgens wordt de recordstatus gewijzigd in **Vrijgegeven**.
+<span data-ttu-id="fa29e-139">Als er een fiatteurhiërarchie is ingesteld, is de recordstatus **Wacht op goedkeuring** totdat alle fiatteurs de record hebben goedgekeurd.</span><span class="sxs-lookup"><span data-stu-id="fa29e-139">If an approver hierarchy is set up, the record status will be **Pending Approval** until all approvers have approved the record.</span></span> <span data-ttu-id="fa29e-140">Vervolgens wordt de recordstatus gewijzigd in **Vrijgegeven**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-140">Then the record status will change to **Released**.</span></span>
 
-Tegelijkertijd wordt de goedkeuringsstatus gewijzigd van **Gemaakt** in **Open** zodra een goedkeuringsaanvraag voor de record is gemaakt. Als het verzoek wordt afgewezen, wordt de goedkeuringsstatus gewijzigd in **Afgewezen**. De status blijft **Open** of **Afgewezen** totdat alle fiatteurs het verzoek hebben goedgekeurd.
+<span data-ttu-id="fa29e-141">Tegelijkertijd wordt de goedkeuringsstatus gewijzigd van **Gemaakt** in **Open** zodra een goedkeuringsaanvraag voor de record is gemaakt.</span><span class="sxs-lookup"><span data-stu-id="fa29e-141">At the same time, the approval status changes from **Created** to **Open** as soon as an approval request for the record is created.</span></span> <span data-ttu-id="fa29e-142">Als het verzoek wordt afgewezen, wordt de goedkeuringsstatus gewijzigd in **Afgewezen**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-142">If the request is rejected, the approval status changes to **Rejected**.</span></span> <span data-ttu-id="fa29e-143">De status blijft **Open** of **Afgewezen** totdat alle fiatteurs het verzoek hebben goedgekeurd.</span><span class="sxs-lookup"><span data-stu-id="fa29e-143">The status remains **Open** or **Rejected** until all approvers have approved the request.</span></span>
 
-## <a name="to-delegate-requests-for-approval"></a>Aanvragen voor goedkeuring delegeren
-De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.
+## <a name="to-delegate-requests-for-approval"></a><span data-ttu-id="fa29e-144">Aanvragen voor goedkeuring delegeren</span><span class="sxs-lookup"><span data-stu-id="fa29e-144">To delegate requests for approval</span></span>
+<span data-ttu-id="fa29e-145">De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.</span><span class="sxs-lookup"><span data-stu-id="fa29e-145">The following task is performed by an approval user with approver rights.</span></span>
 
-De aanvrager en de goedkeuringsbeheerder kunnen een goedkeuringsaanvraag delegeren aan de vervangende fiatteur om te voorkomen dat documenten zich ophopen of anderszins de werkstroom blokkeren. De vervanger kan een aangewezen vervanger, de directe fiatteur of de goedkeuringsbeheerder zijn, in die volgorde van prioriteit. Deze functie wordt doorgaans gebruikt wanneer een fiatteur niet op kantoor is en aanvragen niet kan goedkeuren voor de vervaldatum.
+<span data-ttu-id="fa29e-146">De aanvrager en de goedkeuringsbeheerder kunnen een goedkeuringsaanvraag delegeren aan de vervangende fiatteur om te voorkomen dat documenten zich ophopen of anderszins de werkstroom blokkeren.</span><span class="sxs-lookup"><span data-stu-id="fa29e-146">To prevent documents from piling up or otherwise block the workflow, the approver and the approval administrator can delegate an approval request to a substitute approver.</span></span> <span data-ttu-id="fa29e-147">De vervanger kan een aangewezen vervanger, de directe fiatteur of de goedkeuringsbeheerder zijn, in die volgorde van prioriteit.</span><span class="sxs-lookup"><span data-stu-id="fa29e-147">The substitute can either be a designated substitute, the direct approver, or the approval administrator, in that order of priority.</span></span> <span data-ttu-id="fa29e-148">Deze functie wordt doorgaans gebruikt wanneer een fiatteur niet op kantoor is en aanvragen niet kan goedkeuren voor de vervaldatum.</span><span class="sxs-lookup"><span data-stu-id="fa29e-148">You typically use this feature if an approver is out of office and is unable to approve requests before the due date.</span></span>
 
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Aanvragen ter goedkeuring** in en kies de gerelateerde koppeling.
-2. Selecteer een of meer regels voor de goedkeuringsaanvragen die u wilt delegeren aan een vervangende fiatteur, en kies vervolgens de actie **Delegeren**.
+1. <span data-ttu-id="fa29e-149">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Aanvragen ter goedkeuring** in en kies de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="fa29e-149">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="fa29e-150">Selecteer een of meer regels voor de goedkeuringsaanvragen die u wilt delegeren aan een vervangende fiatteur, en kies vervolgens de actie **Delegeren**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-150">Select one or more lines for the approval requests that you want to delegate to a substitute approver, and then choose the **Delegate** action.</span></span>
 
-Er wordt een bericht met het verzoek om de aanvraag goed te keuren, verstuurd naar de vervangende fiatteur.
+<span data-ttu-id="fa29e-151">Er wordt een bericht met het verzoek om de aanvraag goed te keuren, verstuurd naar de vervangende fiatteur.</span><span class="sxs-lookup"><span data-stu-id="fa29e-151">A notification to approve the request is sent to the substitute approver.</span></span>
 
-## <a name="to-manage-overdue-approval-requests"></a>Vervallen goedkeuringsaanvragen beheren
-De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.
+## <a name="to-manage-overdue-approval-requests"></a><span data-ttu-id="fa29e-152">Vervallen goedkeuringsaanvragen beheren</span><span class="sxs-lookup"><span data-stu-id="fa29e-152">To manage overdue approval requests</span></span>
+<span data-ttu-id="fa29e-153">De volgende taak wordt uitgevoerd door een fiatteurgebruiker met fiatteursrechten.</span><span class="sxs-lookup"><span data-stu-id="fa29e-153">The following task is performed by an approval user with approver rights.</span></span>
 
-Met regelmatige intervallen moet u gebruikers van goedkeuringswerkstromen herinneren aan vervallen goedkeuringsaanvragen waarop ze moeten reageren. Hiervoor gebruikt u de functie Berichten over achterstallige goedkeuringen verzenden.
+<span data-ttu-id="fa29e-154">Met regelmatige intervallen moet u gebruikers van goedkeuringswerkstromen herinneren aan vervallen goedkeuringsaanvragen waarop ze moeten reageren.</span><span class="sxs-lookup"><span data-stu-id="fa29e-154">At regular intervals, you must remind approval workflow users of overdue approval requests that they must react on.</span></span> <span data-ttu-id="fa29e-155">Hiervoor gebruikt u de functie Berichten over achterstallige goedkeuringen verzenden.</span><span class="sxs-lookup"><span data-stu-id="fa29e-155">You use the Send Overdue Approval Notifications function for this.</span></span>
 
-Met de functie Berichten over achterstallige goedkeuringen verzenden controleert u op alle openstaande goedkeuringsaanvragen die op dat moment achterstallig zijn. Elke fiatteur waarvoor ten minste één goedkeuringspost achterstallig is, ontvangt een bericht met een overzicht van alle achterstallige goedkeuringsaanvragen. Het bericht wordt ook verzonden naar hun fiatteurs en alle aanvragers die de achterstallige goedkeuringen hebben ingediend. Dit komt van pas wanneer de achterstallige goedkeuringspost moet worden overgedragen aan een vervanger.
+<span data-ttu-id="fa29e-156">Met de functie Berichten over achterstallige goedkeuringen verzenden controleert u op alle openstaande goedkeuringsaanvragen die op dat moment achterstallig zijn.</span><span class="sxs-lookup"><span data-stu-id="fa29e-156">The Send Overdue Approval Notifications function checks for all open approval requests that are currently overdue.</span></span> <span data-ttu-id="fa29e-157">Elke fiatteur waarvoor ten minste één goedkeuringspost achterstallig is, ontvangt een bericht met een overzicht van alle achterstallige goedkeuringsaanvragen.</span><span class="sxs-lookup"><span data-stu-id="fa29e-157">Each approver that has at least one overdue approval entry receives a notification with the list of all their overdue approval requests.</span></span> <span data-ttu-id="fa29e-158">Het bericht wordt ook verzonden naar hun fiatteurs en alle aanvragers die de achterstallige goedkeuringen hebben ingediend.</span><span class="sxs-lookup"><span data-stu-id="fa29e-158">The notification is also sent to their approver and all the requesters of the overdue approvals.</span></span> <span data-ttu-id="fa29e-159">Dit komt van pas wanneer de achterstallige goedkeuringspost moet worden overgedragen aan een vervanger.</span><span class="sxs-lookup"><span data-stu-id="fa29e-159">This helps if the overdue approval entry must be delegated to a substitute.</span></span>
 
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Vervallen goedkeuringsaanvragen** in en kies de gerelateerde koppeling.
-2. Kies in het venster **Vervallen goedkeuringsaanvragen** de actie **Berichten over vervallen goedkeuringen verzenden**.
+1. <span data-ttu-id="fa29e-160">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Vervallen goedkeuringsaanvragen** in en kies de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="fa29e-160">In the top right corner, choose the **Search for Page or Report** icon, enter **Overdue Approval Requests**, and then choose the related link.</span></span>
+2. <span data-ttu-id="fa29e-161">Kies in het venster **Vervallen goedkeuringsaanvragen** de actie **Berichten over vervallen goedkeuringen verzenden**.</span><span class="sxs-lookup"><span data-stu-id="fa29e-161">In the **Overdue Approval Requests** window, choose the **Send Overdue Approval Notifications** action.</span></span>
 
-## <a name="see-also"></a>Zie ook  
-[Verkoop beheren](sales-manage-sales.md)    
-[Inkomende documenten](across-income-documents.md)  
-[Inkoop beheren](purchasing-manage-purchasing.md)  
-[Werken met Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="fa29e-162">Zie ook</span><span class="sxs-lookup"><span data-stu-id="fa29e-162">See Also</span></span>  
+<span data-ttu-id="fa29e-163">[Verkoop beheren](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="fa29e-163">[Manage Sales](sales-manage-sales.md)  </span></span>  
+[<span data-ttu-id="fa29e-164">Inkomende documenten</span><span class="sxs-lookup"><span data-stu-id="fa29e-164">Incoming Documents</span></span>](across-income-documents.md)  
+[<span data-ttu-id="fa29e-165">Inkoop beheren</span><span class="sxs-lookup"><span data-stu-id="fa29e-165">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="fa29e-166">Werken met Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="fa29e-166">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

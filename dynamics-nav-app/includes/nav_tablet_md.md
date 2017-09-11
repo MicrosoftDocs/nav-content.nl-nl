@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Tablet-client
+<span data-ttu-id="1e3f4-101">Microsoft Dynamics NAV Tablet-client</span><span class="sxs-lookup"><span data-stu-id="1e3f4-101">Microsoft Dynamics NAV Tablet client</span></span>

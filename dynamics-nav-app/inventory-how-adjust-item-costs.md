@@ -7,50 +7,50 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59db38c159dd2810656edc668ee431c6414b9d90
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 6f582e844670b8dc67e458947392d29afb8f1d1a
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-adjust-item-costs"></a>Procedure: Artikelkosten herwaarderen   
-De kostprijs van een artikel (voorraadwaarde) dat u inkoopt en later verkoopt, kan tijdens de levensduur veranderen, bijvoorbeeld omdat vrachtkosten worden toegevoegd aan aanschafkosten nadat u het artikel hebt verkocht. Als u altijd de juiste voorraadwaarde wilt weten, moeten artikelkosten daarom regelmatig worden geherwaardeerd.
-Hierdoor worden verkoop- en winststatistieken bijgewerkt en gezorgd dat de financiële KPI's kloppen.
+# <a name="how-to-adjust-item-costs"></a><span data-ttu-id="49b76-102">Procedure: Artikelkosten herwaarderen</span><span class="sxs-lookup"><span data-stu-id="49b76-102">How to: Adjust Item Costs</span></span>   
+<span data-ttu-id="49b76-103">De kostprijs van een artikel (voorraadwaarde) dat u inkoopt en later verkoopt, kan tijdens de levensduur veranderen, bijvoorbeeld omdat vrachtkosten worden toegevoegd aan aanschafkosten nadat u het artikel hebt verkocht.</span><span class="sxs-lookup"><span data-stu-id="49b76-103">The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</span></span> <span data-ttu-id="49b76-104">Als u altijd de juiste voorraadwaarde wilt weten, moeten artikelkosten daarom regelmatig worden geherwaardeerd.</span><span class="sxs-lookup"><span data-stu-id="49b76-104">To always know the correct inventory value, item costs must therefore regularly be adjusted.</span></span>
+<span data-ttu-id="49b76-105">Hierdoor worden verkoop- en winststatistieken bijgewerkt en gezorgd dat de financiële KPI's kloppen.</span><span class="sxs-lookup"><span data-stu-id="49b76-105">This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</span></span>
 
-**Opmerking**: artikelkosten worden alleen aangepast door de waarderingsmethode FIFO. Dit betekent dat de kostprijs van een artikel de werkelijke waarden van de ontvangst van het artikel is, en dat de voorraad wordt gewaardeerd op basis van de aanname dat artikelen die het eerst in voorraad zijn geplaatst, het eerst worden verkocht.
+<span data-ttu-id="49b76-106">**Opmerking**: artikelkosten worden alleen aangepast door de waarderingsmethode FIFO.</span><span class="sxs-lookup"><span data-stu-id="49b76-106">**Note**: Item costs are adjusted by the FIFO costing method only.</span></span> <span data-ttu-id="49b76-107">Dit betekent dat de kostprijs van een artikel de werkelijke waarden van de ontvangst van het artikel is, en dat de voorraad wordt gewaardeerd op basis van de aanname dat artikelen die het eerst in voorraad zijn geplaatst, het eerst worden verkocht.</span><span class="sxs-lookup"><span data-stu-id="49b76-107">This means that an item’s unit cost is the actual value of any receipt of the item, and that inventory is valuated with the assumption that the first items placed in inventory are sold first.</span></span>
 
-De kostenherwaardering verwerkt alleen posten die nog niet zijn geherwaardeerd. Als de functie een post aantreft waarbij gewijzigde inkomende kosten moeten worden doorgeschoven naar de bijbehorende uitgaande posten, worden nieuwe waardeposten gemaakt. Deze posten zijn op de gegevens van de oorspronkelijke waardeposten gebaseerd, maar bevatten het geherwaardeerde bedrag. De kostenherwaarderingsfunctie gebruikt de boekingsdatum van de oorspronkelijke waardepost in de herwaarderingspost, tenzij die datum in een afgesloten voorraadperiode valt. In dat geval wordt de begindatum van de volgende open voorraadperiode gehanteerd. Als de voorraadperioden niet worden gebruikt, bepaalt de datum in het veld **Boeken toegest. vanaf** in het venster **Boekhoudinstellingen** wanneer de herwaarderingspost wordt geboekt.
+<span data-ttu-id="49b76-108">De kostenherwaardering verwerkt alleen posten die nog niet zijn geherwaardeerd.</span><span class="sxs-lookup"><span data-stu-id="49b76-108">The cost adjustment function processes only value entries that have not yet been adjusted.</span></span> <span data-ttu-id="49b76-109">Als de functie een post aantreft waarbij gewijzigde inkomende kosten moeten worden doorgeschoven naar de bijbehorende uitgaande posten, worden nieuwe waardeposten gemaakt. Deze posten zijn op de gegevens van de oorspronkelijke waardeposten gebaseerd, maar bevatten het geherwaardeerde bedrag.</span><span class="sxs-lookup"><span data-stu-id="49b76-109">If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</span></span> <span data-ttu-id="49b76-110">De kostenherwaarderingsfunctie gebruikt de boekingsdatum van de oorspronkelijke waardepost in de herwaarderingspost, tenzij die datum in een afgesloten voorraadperiode valt.</span><span class="sxs-lookup"><span data-stu-id="49b76-110">The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</span></span> <span data-ttu-id="49b76-111">In dat geval wordt de begindatum van de volgende open voorraadperiode gehanteerd.</span><span class="sxs-lookup"><span data-stu-id="49b76-111">In that case, the program uses the starting date of the next open inventory period.</span></span> <span data-ttu-id="49b76-112">Als de voorraadperioden niet worden gebruikt, bepaalt de datum in het veld **Boeken toegest. vanaf** in het venster **Boekhoudinstellingen** wanneer de herwaarderingspost wordt geboekt.</span><span class="sxs-lookup"><span data-stu-id="49b76-112">If inventory periods are not used, then the date in the **Allow Posting From** field in the **General Ledger Setup** window will define when the adjustment entry is posted.</span></span>
 
-**Opmerking**: nadat artikelkosten zijn geherwaardeerd, moet de voorraadwaarde worden geboekt naar het grootboek, automatisch of handmatig. Zie voor meer informatie [Procedure: Voorraadkosten naar het grootboek boeken](inventory-how-post-inventory-cost-gl.md).
+<span data-ttu-id="49b76-113">**Opmerking**: nadat artikelkosten zijn geherwaardeerd, moet de voorraadwaarde worden geboekt naar het grootboek, automatisch of handmatig.</span><span class="sxs-lookup"><span data-stu-id="49b76-113">**Note**: After item costs have been adjusted, the inventory cost must be posted to the general ledger, either automatically or manually.</span></span> <span data-ttu-id="49b76-114">Zie voor meer informatie [Procedure: Voorraadkosten naar het grootboek boeken](inventory-how-post-inventory-cost-gl.md).</span><span class="sxs-lookup"><span data-stu-id="49b76-114">For more information, see [How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md).</span></span>
 
-U kunt artikelkosten op twee manieren herwaarderen:
- - Automatisch, door het systeem kostenwijzigingen steeds te laten herwaarderen wanneer voorraadtransacties optreden.
- - Handmatig, door de batchverwerking **Kostprijs herwaarderen - Artikelposten** voor een of meer artikelen uit te voeren wanneer u weet dat de kosten ervan zijn gewijzigd.  
+<span data-ttu-id="49b76-115">U kunt artikelkosten op twee manieren herwaarderen:</span><span class="sxs-lookup"><span data-stu-id="49b76-115">You can adjust item costs in two ways:</span></span>
+ - <span data-ttu-id="49b76-116">Automatisch, door het systeem kostenwijzigingen steeds te laten herwaarderen wanneer voorraadtransacties optreden.</span><span class="sxs-lookup"><span data-stu-id="49b76-116">Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.</span></span>
+ - <span data-ttu-id="49b76-117">Handmatig, door de batchverwerking **Kostprijs herwaarderen - Artikelposten** voor een of meer artikelen uit te voeren wanneer u weet dat de kosten ervan zijn gewijzigd.</span><span class="sxs-lookup"><span data-stu-id="49b76-117">Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.</span></span>  
 
-## <a name="to-adjust-item-costs-automatically"></a>Artikelkosten automatisch herwaarderen
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Voorraadinstellingen** in en kies vervolgens de gerelateerde koppeling.
-2. Selecteer in het venster **Voorraadinstellingen** in het veld **Automatische kostenwaardering** een van de volgende waarden.
+## <a name="to-adjust-item-costs-automatically"></a><span data-ttu-id="49b76-118">Artikelkosten automatisch herwaarderen</span><span class="sxs-lookup"><span data-stu-id="49b76-118">To adjust item costs automatically</span></span>
+1. <span data-ttu-id="49b76-119">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Voorraadinstellingen** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="49b76-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.</span></span>
+2. <span data-ttu-id="49b76-120">Selecteer in het venster **Voorraadinstellingen** in het veld **Automatische kostenwaardering** een van de volgende waarden.</span><span class="sxs-lookup"><span data-stu-id="49b76-120">In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.</span></span>
 
-|Optie |Effect |
+|<span data-ttu-id="49b76-121">Optie</span><span class="sxs-lookup"><span data-stu-id="49b76-121">Option</span></span> |<span data-ttu-id="49b76-122">Effect</span><span class="sxs-lookup"><span data-stu-id="49b76-122">Behavior</span></span> |
 |-------|---------|
-|Nooit|De kostprijs wordt niet geherwaardeerd tijdens het boeken.|
-|Dag|De kostprijs wordt geherwaardeerd als de boeking binnen één dag vóór de werkdatum plaatsvindt.|
-|Week|De kostprijs wordt geherwaardeerd als de boeking binnen een week vóór de werkdatum plaatsvindt.|
-|Maand|De kostprijs wordt geherwaardeerd als de boeking binnen een maand vóór de werkdatum plaatsvindt.|
-|Kwartaal|De kostprijs wordt geherwaardeerd als de boeking binnen een kwartaal vóór de werkdatum plaatsvindt.|
-|Jaar|De kostprijs wordt geherwaardeerd als de boeking binnen een jaar vóór de werkdatum plaatsvindt.|
-|Altijd|De kostprijs wordt altijd geherwaardeerd tijdens het boeken, ongeacht de boekingsdatum.|
+|<span data-ttu-id="49b76-123">Nooit</span><span class="sxs-lookup"><span data-stu-id="49b76-123">Never</span></span>|<span data-ttu-id="49b76-124">De kostprijs wordt niet geherwaardeerd tijdens het boeken.</span><span class="sxs-lookup"><span data-stu-id="49b76-124">Costs are not adjusted when posting</span></span>|
+|<span data-ttu-id="49b76-125">Dag</span><span class="sxs-lookup"><span data-stu-id="49b76-125">Day</span></span>|<span data-ttu-id="49b76-126">De kostprijs wordt geherwaardeerd als de boeking binnen één dag vóór de werkdatum plaatsvindt.</span><span class="sxs-lookup"><span data-stu-id="49b76-126">Costs are adjusted if posting occurs within one day from the work date</span></span>|
+|<span data-ttu-id="49b76-127">Week</span><span class="sxs-lookup"><span data-stu-id="49b76-127">Week</span></span>|<span data-ttu-id="49b76-128">De kostprijs wordt geherwaardeerd als de boeking binnen een week vóór de werkdatum plaatsvindt.</span><span class="sxs-lookup"><span data-stu-id="49b76-128">Costs are adjusted if posting occurs within one week from the work date</span></span>|
+|<span data-ttu-id="49b76-129">Maand</span><span class="sxs-lookup"><span data-stu-id="49b76-129">Month</span></span>|<span data-ttu-id="49b76-130">De kostprijs wordt geherwaardeerd als de boeking binnen een maand vóór de werkdatum plaatsvindt.</span><span class="sxs-lookup"><span data-stu-id="49b76-130">Costs are adjusted if posting occurs within one month from the work date</span></span>|
+|<span data-ttu-id="49b76-131">Kwartaal</span><span class="sxs-lookup"><span data-stu-id="49b76-131">Quarter</span></span>|<span data-ttu-id="49b76-132">De kostprijs wordt geherwaardeerd als de boeking binnen een kwartaal vóór de werkdatum plaatsvindt.</span><span class="sxs-lookup"><span data-stu-id="49b76-132">Costs are adjusted if posting occurs within one quarter from the work date</span></span>|
+|<span data-ttu-id="49b76-133">Jaar</span><span class="sxs-lookup"><span data-stu-id="49b76-133">Year</span></span>|<span data-ttu-id="49b76-134">De kostprijs wordt geherwaardeerd als de boeking binnen een jaar vóór de werkdatum plaatsvindt.</span><span class="sxs-lookup"><span data-stu-id="49b76-134">Costs are adjusted if posting occurs within one year from the work date</span></span>|
+|<span data-ttu-id="49b76-135">Altijd</span><span class="sxs-lookup"><span data-stu-id="49b76-135">Always</span></span>|<span data-ttu-id="49b76-136">De kostprijs wordt altijd geherwaardeerd tijdens het boeken, ongeacht de boekingsdatum.</span><span class="sxs-lookup"><span data-stu-id="49b76-136">Costs are always adjusted when posting, irrespective of the posting date</span></span>|
 
-## <a name="to-adjust-item-costs-manually"></a>Artikelkosten handmatig herwaarderen
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Kostprijs herwaarderen - Artikelposten** in en kies vervolgens de gerelateerde koppeling.
-2. Geef in het venster **Kostprijs herwaarderen - Artikelposten** op voor welke artikelen kosten moeten worden geherwaardeerd en of de geherwaardeerde tegelijkertijd naar het grootboek worden geboekt.
+## <a name="to-adjust-item-costs-manually"></a><span data-ttu-id="49b76-137">Artikelkosten handmatig herwaarderen</span><span class="sxs-lookup"><span data-stu-id="49b76-137">To adjust item costs manually</span></span>
+1. <span data-ttu-id="49b76-138">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Kostprijs herwaarderen - Artikelposten** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="49b76-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Cost - Item Entries**, and then choose the related link.</span></span>
+2. <span data-ttu-id="49b76-139">Geef in het venster **Kostprijs herwaarderen - Artikelposten** op voor welke artikelen kosten moeten worden geherwaardeerd en of de geherwaardeerde tegelijkertijd naar het grootboek worden geboekt.</span><span class="sxs-lookup"><span data-stu-id="49b76-139">In the **Adjust Cost - Item Entries** window, specify which items to adjust costs for and whether the adjusted costs will be posted to the general ledger at the same time.</span></span>
 
-## <a name="see-also"></a>Zie ook
-[Voorraad beheren](inventory-manage-inventory.md)  
-[Procedure: voorraadkosten naar het grootboek boeken](inventory-how-post-inventory-cost-gl.md)  
-[Verkoop beheren](sales-manage-sales.md)  
-[Inkoop beheren](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="49b76-140">Zie ook</span><span class="sxs-lookup"><span data-stu-id="49b76-140">See Also</span></span>
+[<span data-ttu-id="49b76-141">Voorraad beheren</span><span class="sxs-lookup"><span data-stu-id="49b76-141">Manage Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="49b76-142">Procedure: voorraadkosten naar het grootboek boeken</span><span class="sxs-lookup"><span data-stu-id="49b76-142">How to: Post Inventory Costs to the General Ledger</span></span>](inventory-how-post-inventory-cost-gl.md)  
+[<span data-ttu-id="49b76-143">Verkoop beheren</span><span class="sxs-lookup"><span data-stu-id="49b76-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="49b76-144">Inkoop beheren</span><span class="sxs-lookup"><span data-stu-id="49b76-144">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

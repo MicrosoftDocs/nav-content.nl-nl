@@ -1,1 +1,1 @@
-CRONUS-demodatabase
+<span data-ttu-id="d52cf-101">CRONUS-demodatabase</span><span class="sxs-lookup"><span data-stu-id="d52cf-101">CRONUS demonstration database</span></span>

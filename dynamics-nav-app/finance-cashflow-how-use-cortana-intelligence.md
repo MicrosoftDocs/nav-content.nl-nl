@@ -7,72 +7,72 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f657509fc2195674db81f47bc5ae31b7ba1aa40e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 154fcaef89af0f6a131f4bcf0e9cf9a3f85f5903
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-make-predictive-cash-flow-forecasts"></a>Procedure: Voorspellende cashflowprognoses maken
-Cashflowprognoses helpen u te zorgen dat uw bedrijf over voldoende contant geld beschikt om aan de financiële verplichtingen te voldoen en ze zijn nuttig voor het bepalen van correcties. Als u bijvoorbeeld een kasoverschot hebt, kunt u mogelijk enkele schulden afbetalen, en als u krap zit, waardeert u waarschijnlijk een tijdige waarschuwing. 
+# <a name="how-to-make-predictive-cash-flow-forecasts"></a><span data-ttu-id="0eed8-102">Procedure: Voorspellende cashflowprognoses maken</span><span class="sxs-lookup"><span data-stu-id="0eed8-102">How to: Make predictive cash flow forecasts</span></span>
+<span data-ttu-id="0eed8-103">Cashflowprognoses helpen u te zorgen dat uw bedrijf over voldoende contant geld beschikt om aan de financiële verplichtingen te voldoen en ze zijn nuttig voor het bepalen van correcties.</span><span class="sxs-lookup"><span data-stu-id="0eed8-103">Cash flow forecasts help you ensure that your company has enough cash available to meet its financial obligations, and are useful for identifying adjustments.</span></span> <span data-ttu-id="0eed8-104">Als u bijvoorbeeld een kasoverschot hebt, kunt u mogelijk enkele schulden afbetalen, en als u krap zit, waardeert u waarschijnlijk een tijdige waarschuwing.</span><span class="sxs-lookup"><span data-stu-id="0eed8-104">For example, if you have a cash surplus you might pay off some debts, and you'll appreciate an early warning if times look tight.</span></span> 
 
-Cortana Intelligence gebruikt de Azure Machine Learning-service om betrouwbare, voorspellende prognoses te maken. Prognoses van Cortana Intelligence kunnen u bijvoorbeeld helpen cashtekorten te voorspellen en voorkomen. De service combineert historische gegevens met huidige boekingen voor schulden en tegoeden, inclusief boekingen met vervaldatums in de toekomst. Hieronder vallen:
-* Inkooporders
-* Verkooporders
-* Geboekte verkoop- en inkoopfacturen
-* Creditnota's.
+<span data-ttu-id="0eed8-105">Cortana Intelligence gebruikt de Azure Machine Learning-service om betrouwbare, voorspellende prognoses te maken.</span><span class="sxs-lookup"><span data-stu-id="0eed8-105">Cortana Intelligence uses the Azure Machine Learning service to make reliable, predictive forecasts.</span></span> <span data-ttu-id="0eed8-106">Prognoses van Cortana Intelligence kunnen u bijvoorbeeld helpen cashtekorten te voorspellen en voorkomen.</span><span class="sxs-lookup"><span data-stu-id="0eed8-106">For example, forecasts from Cortana Intelligence can help you predict, and avoid, cash deficits.</span></span> <span data-ttu-id="0eed8-107">De service combineert historische gegevens met huidige boekingen voor schulden en tegoeden, inclusief boekingen met vervaldatums in de toekomst.</span><span class="sxs-lookup"><span data-stu-id="0eed8-107">The service combines historical information with current postings for payables and receivables, including postings with due dates that are in the future.</span></span> <span data-ttu-id="0eed8-108">Hieronder vallen:</span><span class="sxs-lookup"><span data-stu-id="0eed8-108">These include:</span></span>
+* <span data-ttu-id="0eed8-109">Inkooporders</span><span class="sxs-lookup"><span data-stu-id="0eed8-109">Purchase orders</span></span>
+* <span data-ttu-id="0eed8-110">Verkooporders</span><span class="sxs-lookup"><span data-stu-id="0eed8-110">Sales orders</span></span>
+* <span data-ttu-id="0eed8-111">Geboekte verkoop- en inkoopfacturen</span><span class="sxs-lookup"><span data-stu-id="0eed8-111">Posted sales and purchase invoices</span></span>
+* <span data-ttu-id="0eed8-112">Creditnota's.</span><span class="sxs-lookup"><span data-stu-id="0eed8-112">Credit memos</span></span>
 
-## <a name="before-you-start"></a>Voordat u begint  
-Er staat een aantal zaken te doen voordat u Cortana Intelligence voor cashflowprognoses kunt gebruiken: 
-* Als u nog geen cashflowprognoses gebruikt, moet u het volgende instellen:
-    * Een of meer instellingen in **Cashflowinstellingen**. 
-    * Rekeningen voor tegoeden, schulden, verkooporders en inkooporders. Cortana Intelligence gebruikt de boekingen in deze rekeningen.
-    * Een of meer cashflowprognoses in **Cashflowprognose**. Neem inkooporders, verkooporders, schulden en tegoeden als bronnen op.  
-    Zoek voor meer informatie naar _cashflowprognoses_ in het Helpsysteem. 
-* Zorg dat u de API-URL en de API-sleutel weet voor de te gebruiken voorspellende webservice.  
-    U kunt Azure Machine Learning gebruiken of een andere service als u die hebt. Er is als alternatief een model genaamd _Prognosemodel voor Microsoft Dynamics NAV_ online beschikbaar in de Cortana Intelligence Gallery. Ga als volgt te werk om het model te gebruiken:
+## <a name="before-you-start"></a><span data-ttu-id="0eed8-113">Voordat u begint</span><span class="sxs-lookup"><span data-stu-id="0eed8-113">Before you start</span></span>  
+<span data-ttu-id="0eed8-114">Er staat een aantal zaken te doen voordat u Cortana Intelligence voor cashflowprognoses kunt gebruiken:</span><span class="sxs-lookup"><span data-stu-id="0eed8-114">There are a few things to do before you can use Cortana Intelligence for cash flow forecasts:</span></span> 
+* <span data-ttu-id="0eed8-115">Als u nog geen cashflowprognoses gebruikt, moet u het volgende instellen:</span><span class="sxs-lookup"><span data-stu-id="0eed8-115">If you aren't already using cash flow forecasts, you will need to set up:</span></span>
+    * <span data-ttu-id="0eed8-116">Een of meer instellingen in **Cashflowinstellingen**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-116">One or more setups in **Cash Flow Setups**.</span></span> 
+    * <span data-ttu-id="0eed8-117">Rekeningen voor tegoeden, schulden, verkooporders en inkooporders.</span><span class="sxs-lookup"><span data-stu-id="0eed8-117">Accounts for payables, receivables, sales orders, and purchase orders.</span></span> <span data-ttu-id="0eed8-118">Cortana Intelligence gebruikt de boekingen in deze rekeningen.</span><span class="sxs-lookup"><span data-stu-id="0eed8-118">Cortana Intelligence uses the postings in these accounts.</span></span>
+    * <span data-ttu-id="0eed8-119">Een of meer cashflowprognoses in **Cashflowprognose**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-119">One or more cash flow forecasts in **Cash Flow Forecast**.</span></span> <span data-ttu-id="0eed8-120">Neem inkooporders, verkooporders, schulden en tegoeden als bronnen op.</span><span class="sxs-lookup"><span data-stu-id="0eed8-120">Be sure to include purchase orders, sales orders, receivables, and payables as sources.</span></span>  
+    <span data-ttu-id="0eed8-121">Zoek voor meer informatie naar _cashflowprognoses_ in het Helpsysteem.</span><span class="sxs-lookup"><span data-stu-id="0eed8-121">For more information, search for _cash flow forecasts_ in the Help system.</span></span> 
+* <span data-ttu-id="0eed8-122">Zorg dat u de API-URL en de API-sleutel weet voor de te gebruiken voorspellende webservice.</span><span class="sxs-lookup"><span data-stu-id="0eed8-122">Know the API URL and API key for the predictive web service to use.</span></span>  
+    <span data-ttu-id="0eed8-123">U kunt Azure Machine Learning gebruiken of een andere service als u die hebt.</span><span class="sxs-lookup"><span data-stu-id="0eed8-123">You can use Azure Machine Learning or another service, if you have one.</span></span> <span data-ttu-id="0eed8-124">Er is als alternatief een model genaamd _Prognosemodel voor Microsoft Dynamics NAV_ online beschikbaar in de Cortana Intelligence Gallery.</span><span class="sxs-lookup"><span data-stu-id="0eed8-124">Alternatively, a public model named _Forecasting model for Microsoft Dynamics NAV_ is available online in the Cortana Intelligence Gallery.</span></span> <span data-ttu-id="0eed8-125">Ga als volgt te werk om het model te gebruiken:</span><span class="sxs-lookup"><span data-stu-id="0eed8-125">To use the model, follow these steps:</span></span>
 
-    1. Ga in een browser naar [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)
-    2. Zoek naar _Prognosemodel voor Microsoft Dynamics NAV_ en open het model in Azure Machine Learning Studio.
-    3. Gebruik het Microsoft-account om u aan te melden voor een werkruimte en kopieer vervolgens het model.
-    4. Voer het model uit en publiceer het als een webservice.
-    5. Noteer de API-URL en de API-sleutel. U gebruikt deze referenties wanneer u Cortana Intelligence instelt in Microsoft Dynamics NAV.  
+    1. <span data-ttu-id="0eed8-126">Ga in een browser naar [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span><span class="sxs-lookup"><span data-stu-id="0eed8-126">In a browser, go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span></span>
+    2. <span data-ttu-id="0eed8-127">Zoek naar _Prognosemodel voor Microsoft Dynamics NAV_ en open het model in Azure Machine Learning Studio.</span><span class="sxs-lookup"><span data-stu-id="0eed8-127">Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.</span></span>
+    3. <span data-ttu-id="0eed8-128">Gebruik het Microsoft-account om u aan te melden voor een werkruimte en kopieer vervolgens het model.</span><span class="sxs-lookup"><span data-stu-id="0eed8-128">Use your Microsoft account to sign up for a workspace, and then copy the model.</span></span>
+    4. <span data-ttu-id="0eed8-129">Voer het model uit en publiceer het als een webservice.</span><span class="sxs-lookup"><span data-stu-id="0eed8-129">Run the model, and publish it as a web service.</span></span>
+    5. <span data-ttu-id="0eed8-130">Noteer de API-URL en de API-sleutel.</span><span class="sxs-lookup"><span data-stu-id="0eed8-130">Make a note of the API URL and API key.</span></span> <span data-ttu-id="0eed8-131">U gebruikt deze referenties wanneer u Cortana Intelligence instelt in Microsoft Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="0eed8-131">You will use these credentials when you set up Cortana Intelligence in Microsoft Dynamics NAV.</span></span>  
 
-* Bekijk hoe vaak u de prognose berekent. De Azure Machine Learning-service heeft beperkingen betreffende gebruik. Als u bijvoorbeeld veel artikelen hebt, kan het beter zijn minder vaak te berekenen. 
-* Word toegewezen aan het rolcentrum Account. 
+* <span data-ttu-id="0eed8-132">Bekijk hoe vaak u de prognose berekent.</span><span class="sxs-lookup"><span data-stu-id="0eed8-132">Consider how often to calculate the forecast.</span></span> <span data-ttu-id="0eed8-133">De Azure Machine Learning-service heeft beperkingen betreffende gebruik.</span><span class="sxs-lookup"><span data-stu-id="0eed8-133">The Azure Machine Learning service has limitations regarding use.</span></span> <span data-ttu-id="0eed8-134">Als u bijvoorbeeld veel artikelen hebt, kan het beter zijn minder vaak te berekenen.</span><span class="sxs-lookup"><span data-stu-id="0eed8-134">For example, if you have a lot of items, it might be better to calculate less frequently.</span></span> 
+* <span data-ttu-id="0eed8-135">Word toegewezen aan het rolcentrum Account.</span><span class="sxs-lookup"><span data-stu-id="0eed8-135">Be assigned to the Accountant role center.</span></span> 
 
-## <a name="set-up-cortana-intelligence"></a>Cortana Intelligence instellen
-U kunt een begeleide instelling gebruiken om cashflowprognoses in te stellen. De gids helpt u zaken op te geven zoals hoe vaak u de prognose bijwerkt, op welke accounts deze wordt gebaseerd, wanneer u belasting betaalt en of Cortana Intelligence moet worden gebruikt.  
+## <a name="set-up-cortana-intelligence"></a><span data-ttu-id="0eed8-136">Cortana Intelligence instellen</span><span class="sxs-lookup"><span data-stu-id="0eed8-136">Set up Cortana Intelligence</span></span>
+<span data-ttu-id="0eed8-137">U kunt een begeleide instelling gebruiken om cashflowprognoses in te stellen.</span><span class="sxs-lookup"><span data-stu-id="0eed8-137">You can use an assisted setup guide to set up cash flow forecasts.</span></span> <span data-ttu-id="0eed8-138">De gids helpt u zaken op te geven zoals hoe vaak u de prognose bijwerkt, op welke accounts deze wordt gebaseerd, wanneer u belasting betaalt en of Cortana Intelligence moet worden gebruikt.</span><span class="sxs-lookup"><span data-stu-id="0eed8-138">The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.</span></span>  
 
-Als u al cashflowprognoses gebruikt en alleen Cortana Intelligence wilt inschakelen, kunt u ook een handmatig proces gebruiken. Als u zich aanmeldt, verschijnt een bericht in een blauwe balk boven in de werkruimte. Als u Cortana Intelligence direct wilt instellen, kiest u **Ja, graag**. Het bericht wordt slechts eenmaal weergegeven. Als u het afsluit, gebruikt u het handmatige proces om Cortana Intelligence in te stellen.  
+<span data-ttu-id="0eed8-139">Als u al cashflowprognoses gebruikt en alleen Cortana Intelligence wilt inschakelen, kunt u ook een handmatig proces gebruiken.</span><span class="sxs-lookup"><span data-stu-id="0eed8-139">If you are already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process.</span></span> <span data-ttu-id="0eed8-140">Als u zich aanmeldt, verschijnt een bericht in een blauwe balk boven in de werkruimte.</span><span class="sxs-lookup"><span data-stu-id="0eed8-140">When you sign in, a notification displays in a blue bar at the top of the workspace.</span></span> <span data-ttu-id="0eed8-141">Als u Cortana Intelligence direct wilt instellen, kiest u **Ja, graag**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-141">To set up Cortana Intelligence right away, choose **Yes please**.</span></span> <span data-ttu-id="0eed8-142">Het bericht wordt slechts eenmaal weergegeven.</span><span class="sxs-lookup"><span data-stu-id="0eed8-142">The message displays only once.</span></span> <span data-ttu-id="0eed8-143">Als u het afsluit, gebruikt u het handmatige proces om Cortana Intelligence in te stellen.</span><span class="sxs-lookup"><span data-stu-id="0eed8-143">If you close it, use the manual process to set up Cortana Intelligence.</span></span>  
 
-**Tip:** Overweeg u de lengte van de perioden die de service in de berekeningen gebruikt. Hoe meer gegevens u biedt, hoe nauwkeuriger de voorspellingen zullen zijn. Let ook op grote variaties in perioden. Deze zijn ook van invloed op voorspellingen. Als Cortana Intelligence niet voldoende gegevens vindt of de gegevens sterk variëren, doet de service geen voorspelling. 
+<span data-ttu-id="0eed8-144">**Tip:** Overweeg u de lengte van de perioden die de service in de berekeningen gebruikt.</span><span class="sxs-lookup"><span data-stu-id="0eed8-144">**Tip:** Consider the length of the periods that the service will use in its calculations.</span></span> <span data-ttu-id="0eed8-145">Hoe meer gegevens u biedt, hoe nauwkeuriger de voorspellingen zullen zijn.</span><span class="sxs-lookup"><span data-stu-id="0eed8-145">The more data you provide, the more accurate the predictions will be.</span></span> <span data-ttu-id="0eed8-146">Let ook op grote variaties in perioden.</span><span class="sxs-lookup"><span data-stu-id="0eed8-146">Also, watch out for large variances in periods.</span></span> <span data-ttu-id="0eed8-147">Deze zijn ook van invloed op voorspellingen.</span><span class="sxs-lookup"><span data-stu-id="0eed8-147">They will also impact predictions.</span></span> <span data-ttu-id="0eed8-148">Als Cortana Intelligence niet voldoende gegevens vindt of de gegevens sterk variëren, doet de service geen voorspelling.</span><span class="sxs-lookup"><span data-stu-id="0eed8-148">If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.</span></span> 
 
-De begeleide instelling gebruiken:
-1. Kies in het rolcentrum Accountant onder het diagram **Cashflowprognose** de actie **Begeleide instelling openen**.
-2. Vul de velden in elke stap van de gids in.
+<span data-ttu-id="0eed8-149">De begeleide instelling gebruiken:</span><span class="sxs-lookup"><span data-stu-id="0eed8-149">To use the assisted setup guide:</span></span>
+1. <span data-ttu-id="0eed8-150">Kies in het rolcentrum Accountant onder het diagram **Cashflowprognose** de actie **Begeleide instelling openen**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-150">In the Accountant role center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.</span></span>
+2. <span data-ttu-id="0eed8-151">Vul de velden in elke stap van de gids in.</span><span class="sxs-lookup"><span data-stu-id="0eed8-151">Fill in the fields as necessary in each step of the guide.</span></span>
 
-Een handmatig proces gebruiken:
-1. Zoek **Cashflowinstelling** en kies vervolgens de verwante koppeling.
-2. Vouw het sneltabblad **Cortana Intelligence** uit en vul de velden in.
+<span data-ttu-id="0eed8-152">Een handmatig proces gebruiken:</span><span class="sxs-lookup"><span data-stu-id="0eed8-152">To use a manual process:</span></span>
+1. <span data-ttu-id="0eed8-153">Zoek **Cashflowinstelling** en kies vervolgens de verwante koppeling.</span><span class="sxs-lookup"><span data-stu-id="0eed8-153">Search for **Cash Flow Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0eed8-154">Vouw het sneltabblad **Cortana Intelligence** uit en vul de velden in.</span><span class="sxs-lookup"><span data-stu-id="0eed8-154">Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.</span></span>
 
-## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a>Cortana Intelligence inschakelen voor cashflowprognoses
-1. Zoek **Cashflowinstellingen** en kies vervolgens de verwante koppeling.
-2. Kies de actie **Cashflowvoorstel**.
-3. Kies op de pagina **Cashflowvoorstel** de actie **Voorstelregels voorstellen**.  
-4. Kies onder **Op te nemen bronsoorten** het selectievakje **Cortana Intelligence-prognose**.
+## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a><span data-ttu-id="0eed8-155">Cortana Intelligence inschakelen voor cashflowprognoses</span><span class="sxs-lookup"><span data-stu-id="0eed8-155">Turn on Cortana Intelligence for cash flow forecasts</span></span>
+1. <span data-ttu-id="0eed8-156">Zoek **Cashflowinstellingen** en kies vervolgens de verwante koppeling.</span><span class="sxs-lookup"><span data-stu-id="0eed8-156">Search for **Cash Flow Forecasts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="0eed8-157">Kies de actie **Cashflowvoorstel**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-157">Choose the **Cash Flow Worksheet** action.</span></span>
+3. <span data-ttu-id="0eed8-158">Kies op de pagina **Cashflowvoorstel** de actie **Voorstelregels voorstellen**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-158">On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.</span></span>  
+4. <span data-ttu-id="0eed8-159">Kies onder **Op te nemen bronsoorten** het selectievakje **Cortana Intelligence-prognose**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-159">Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.</span></span>
 
-## <a name="investigate-a-cash-flow-forecast"></a>Een cashflowprognose onderzoeken
-Als u de gegevens achter de prognose goed wilt zien, inclusief het verschil, kiest u de kolom **Cortana Intelligence**. De eerste rij in de tabel bevat het verschil. De overige rijen worden gerangschikt op brondocument.  
+## <a name="investigate-a-cash-flow-forecast"></a><span data-ttu-id="0eed8-160">Een cashflowprognose onderzoeken</span><span class="sxs-lookup"><span data-stu-id="0eed8-160">Investigate a cash flow forecast</span></span>
+<span data-ttu-id="0eed8-161">Als u de gegevens achter de prognose goed wilt zien, inclusief het verschil, kiest u de kolom **Cortana Intelligence**.</span><span class="sxs-lookup"><span data-stu-id="0eed8-161">To take a good look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column.</span></span> <span data-ttu-id="0eed8-162">De eerste rij in de tabel bevat het verschil.</span><span class="sxs-lookup"><span data-stu-id="0eed8-162">The first row in the table displays the variance.</span></span> <span data-ttu-id="0eed8-163">De overige rijen worden gerangschikt op brondocument.</span><span class="sxs-lookup"><span data-stu-id="0eed8-163">The other rows are arranged by source document.</span></span>  
 
-U kunt bijvoorbeeld zien hoe de prognose:    
-* Bevestigde verkopen en inkopen verwerkt 
-* Schulden aftrekt en tegoeden optelt
-* Dubbele verkooporders en inkooporders overslaat
+<span data-ttu-id="0eed8-164">U kunt bijvoorbeeld zien hoe de prognose:</span><span class="sxs-lookup"><span data-stu-id="0eed8-164">For example, you can see how the forecast:</span></span>    
+* <span data-ttu-id="0eed8-165">Bevestigde verkopen en inkopen verwerkt</span><span class="sxs-lookup"><span data-stu-id="0eed8-165">Handles confirmed sales and purchases</span></span> 
+* <span data-ttu-id="0eed8-166">Schulden aftrekt en tegoeden optelt</span><span class="sxs-lookup"><span data-stu-id="0eed8-166">Subtracts payables and adds receivables</span></span>
+* <span data-ttu-id="0eed8-167">Dubbele verkooporders en inkooporders overslaat</span><span class="sxs-lookup"><span data-stu-id="0eed8-167">Skips duplicate sales orders and purchase orders</span></span>
 
-## <a name="see-also"></a>Zie ook  
-[Werken met Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="0eed8-168">Zie ook</span><span class="sxs-lookup"><span data-stu-id="0eed8-168">See Also</span></span>  
+[<span data-ttu-id="0eed8-169">Werken met Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="0eed8-169">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

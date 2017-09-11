@@ -1,1 +1,1 @@
-ontwikkelomgeving
+<span data-ttu-id="c413d-101">ontwikkelomgeving</span><span class="sxs-lookup"><span data-stu-id="c413d-101">development environment</span></span>

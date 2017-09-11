@@ -7,35 +7,35 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: d21481962689ec0258208ad920e441ee795167dd
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: fc0a710e6e814a031ae70eebb490459e14d1d3c3
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="across-business-areas"></a>Verschillende bedrijfsgebieden
+# <a name="across-business-areas"></a><span data-ttu-id="fca2c-102">Verschillende bedrijfsgebieden</span><span class="sxs-lookup"><span data-stu-id="fca2c-102">Across Business Areas</span></span>
 
-Dynamics NAV biedt speciale functionaliteit voor veelgebruikte bedrijfsgebieden, zoals financiële instelling en verkoop. Ter ondersteuning van uw bedrijfsgebiedspecifieke taken kunt u allerlei algemene bedrijfsfuncties gebruiken, zoals **Nummerreeks** en **Extensies**, die beschikbaar zijn in al deze gebieden.
+<span data-ttu-id="fca2c-103">Dynamics NAV biedt speciale functionaliteit voor veelgebruikte bedrijfsgebieden, zoals financiële instelling en verkoop.</span><span class="sxs-lookup"><span data-stu-id="fca2c-103">Dynamics NAV provides dedicated functionality for typical business areas, such as finance-setup and sales.</span></span> <span data-ttu-id="fca2c-104">Ter ondersteuning van uw bedrijfsgebiedspecifieke taken kunt u allerlei algemene bedrijfsfuncties gebruiken, zoals **Nummerreeks** en **Extensies**, die beschikbaar zijn in al deze gebieden.</span><span class="sxs-lookup"><span data-stu-id="fca2c-104">And to support your business area-specific tasks, you can use a variety of general business functionality, such as **Number Series** and **Extensions**, which is available across these areas.</span></span>
 
-De volgende tabel bevat deze algemene bedrijfsgebieden met koppelingen naar onderwerpen waarin deze worden beschreven.
+<span data-ttu-id="fca2c-105">De volgende tabel bevat deze algemene bedrijfsgebieden met koppelingen naar onderwerpen waarin deze worden beschreven.</span><span class="sxs-lookup"><span data-stu-id="fca2c-105">The following table lists these general business areas with links to topics that describe them.</span></span>
 
-|Als u dit wilt doen   |Zie   |
+|<span data-ttu-id="fca2c-106">Als u dit wilt doen</span><span class="sxs-lookup"><span data-stu-id="fca2c-106">To</span></span>   |<span data-ttu-id="fca2c-107">Zie</span><span class="sxs-lookup"><span data-stu-id="fca2c-107">See</span></span>   |
 |-----|------|
-|Wijs unieke id-codes toe aan records zoals grootboekrekeningen, klanten- en leveranciersrekeningen, facturen en documenten. Met een goed opgezet nummeringssysteem kan het bedrijf ook beter worden beheerd en geanalyseerd en kan het aantal fouten tijdens gegevensinvoer worden beperkt.|[Nummerreeksen maken](ui-create-number-series.md)|
-|Standaardteksten instellen zodat u standaardtekst kunt uitbreiden door extra regels toe te voegen en voorwaarden voor het gebruik van de extra regels kunt instellen.|[Procedure: Uitgebreide tekst definiëren](ui-how-define-ext-text.md)|
-|Wijzig Dynamics NAV door extensies te installeren die functionaliteit toevoegen, gedrag wijzigen of u toegang verlenen tot nieuwe online services.|[Dynamics NAV aanpassen met extensies](ui-extensions.md)|
-|Leer meer over het werken met dagboeken die worden gebruikt voor boeking naar grootboekrekeningen en andere rekeningen, zoals bank-, klant-, leveranciers- en VA-rekeningen.|[Algemene dagboeken beheren](ui-work-general-journals.md)|
-|Deel de inhoud van bedrijfsdocumenten snel met uw zakelijke partners, zoals doorgeven van betalingsgegevens over verkoopdocumenten aan klanten.|[Procedure: Documenten per e-mail verzenden](ui-how-send-documents-email.md)|
-|Verdeel een post in een dagboek over verschillende rekeningen wanneer u het dagboek boekt.|[Procedure: Verdeelsleutels in dagboeken gebruiken](ui-how-use-allocation-keys-general-journals.md)|
-|Plan een rapport voor uitvoering op een bepaalde datum en tijd.|[Een rapport plannen voor uitvoering](ui-schedule-report.md)|
-|Beheer verschillende soorten rapportindelingen.|[Rapportlay-outs beheren](ui-manage-report-layouts.md)|
-|Vraag om en verleen goedkeuring om bepaalde documenten en kaarten te maken of te wijzigen.|[Goedkeuringswerkstromen gebruiken](across-how-use-approval-workflows.md)|
-|Leg externe documenten vast in Dynamics NAV, inclusief de bestandsbijlagen, en maak vervolgens handmatig de gerelateerde documenten of converteer de bestanden automatisch naar elektronische documenten.|[Inkomende documenten beheren](across-income-documents.md)|
+|<span data-ttu-id="fca2c-108">Wijs unieke id-codes toe aan records zoals grootboekrekeningen, klanten- en leveranciersrekeningen, facturen en documenten.</span><span class="sxs-lookup"><span data-stu-id="fca2c-108">Assign unique identification codes to records, such as general ledger accounts, customer and vendor accounts, invoices, and documents.</span></span> <span data-ttu-id="fca2c-109">Met een goed opgezet nummeringssysteem kan het bedrijf ook beter worden beheerd en geanalyseerd en kan het aantal fouten tijdens gegevensinvoer worden beperkt.</span><span class="sxs-lookup"><span data-stu-id="fca2c-109">A well-designed numbering system also makes the company more manageable and easy to analyze and can reduce the number of errors that occur in data entry.</span></span>|[<span data-ttu-id="fca2c-110">Nummerreeksen maken</span><span class="sxs-lookup"><span data-stu-id="fca2c-110">Create Number Series</span></span>](ui-create-number-series.md)|
+|<span data-ttu-id="fca2c-111">Standaardteksten instellen zodat u standaardtekst kunt uitbreiden door extra regels toe te voegen en voorwaarden voor het gebruik van de extra regels kunt instellen.</span><span class="sxs-lookup"><span data-stu-id="fca2c-111">Set up standard text codes so you can extend standard text by adding extra lines, and set up conditions for use of the extra lines.</span></span>|[<span data-ttu-id="fca2c-112">Procedure: Uitgebreide tekst definiëren</span><span class="sxs-lookup"><span data-stu-id="fca2c-112">How to: Define Extended Text</span></span>](ui-how-define-ext-text.md)|
+|<span data-ttu-id="fca2c-113">Wijzig Dynamics NAV door extensies te installeren die functionaliteit toevoegen, gedrag wijzigen of u toegang verlenen tot nieuwe online services.</span><span class="sxs-lookup"><span data-stu-id="fca2c-113">Change Dynamics NAV by installing extensions that add functionality, changes behavior, or gives you access to new online services.</span></span>|[<span data-ttu-id="fca2c-114">Dynamics NAV aanpassen met extensies</span><span class="sxs-lookup"><span data-stu-id="fca2c-114">Customizing Dynamics NAV Using Extensions</span></span>](ui-extensions.md)|
+|<span data-ttu-id="fca2c-115">Leer meer over het werken met dagboeken die worden gebruikt voor boeking naar grootboekrekeningen en andere rekeningen, zoals bank-, klant-, leveranciers- en VA-rekeningen.</span><span class="sxs-lookup"><span data-stu-id="fca2c-115">Learn how to work with general journals, which are used to post to general ledger accounts and other accounts such as bank, customer, vendor, and fixed assets accounts.</span></span>|[<span data-ttu-id="fca2c-116">Algemene dagboeken beheren</span><span class="sxs-lookup"><span data-stu-id="fca2c-116">Manage General Journals</span></span>](ui-work-general-journals.md)|
+|<span data-ttu-id="fca2c-117">Deel de inhoud van bedrijfsdocumenten snel met uw zakelijke partners, zoals doorgeven van betalingsgegevens over verkoopdocumenten aan klanten.</span><span class="sxs-lookup"><span data-stu-id="fca2c-117">Communicate the contents of business documents quickly to your business partners, such as the payment information on sales documents to customers.</span></span>|[<span data-ttu-id="fca2c-118">Procedure: Documenten per e-mail verzenden</span><span class="sxs-lookup"><span data-stu-id="fca2c-118">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)|
+|<span data-ttu-id="fca2c-119">Verdeel een post in een dagboek over verschillende rekeningen wanneer u het dagboek boekt.</span><span class="sxs-lookup"><span data-stu-id="fca2c-119">Allocate an entry in a general journal to several different accounts when you post the journal.</span></span>|[<span data-ttu-id="fca2c-120">Procedure: Verdeelsleutels in dagboeken gebruiken</span><span class="sxs-lookup"><span data-stu-id="fca2c-120">How to: Use Allocation Keys in General Journals</span></span>](ui-how-use-allocation-keys-general-journals.md)|
+|<span data-ttu-id="fca2c-121">Plan een rapport voor uitvoering op een bepaalde datum en tijd.</span><span class="sxs-lookup"><span data-stu-id="fca2c-121">Schedule a report to run at a specific date and time.</span></span>|[<span data-ttu-id="fca2c-122">Een rapport plannen voor uitvoering</span><span class="sxs-lookup"><span data-stu-id="fca2c-122">Schedule a report to run</span></span>](ui-schedule-report.md)|
+|<span data-ttu-id="fca2c-123">Beheer verschillende soorten rapportindelingen.</span><span class="sxs-lookup"><span data-stu-id="fca2c-123">Manage different types of report layouts.</span></span>|[<span data-ttu-id="fca2c-124">Rapportlay-outs beheren</span><span class="sxs-lookup"><span data-stu-id="fca2c-124">Manage Report Layouts</span></span>](ui-manage-report-layouts.md)|
+|<span data-ttu-id="fca2c-125">Vraag om en verleen goedkeuring om bepaalde documenten en kaarten te maken of te wijzigen.</span><span class="sxs-lookup"><span data-stu-id="fca2c-125">Request and grant approval to create or change certain documents and cards.</span></span>|[<span data-ttu-id="fca2c-126">Goedkeuringswerkstromen gebruiken</span><span class="sxs-lookup"><span data-stu-id="fca2c-126">Use Approval Workflows</span></span>](across-how-use-approval-workflows.md)|
+|<span data-ttu-id="fca2c-127">Leg externe documenten vast in Dynamics NAV, inclusief de bestandsbijlagen, en maak vervolgens handmatig de gerelateerde documenten of converteer de bestanden automatisch naar elektronische documenten.</span><span class="sxs-lookup"><span data-stu-id="fca2c-127">Record external documents in Dynamics NAV, including their file attachments, and then manually create the related documents or automatically convert the files to electronic documents.</span></span>|[<span data-ttu-id="fca2c-128">Inkomende documenten beheren</span><span class="sxs-lookup"><span data-stu-id="fca2c-128">Manage Incoming Documents</span></span>](across-income-documents.md)|
 
-## <a name="see-also"></a>Zie ook
-[Werken met Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="fca2c-129">Zie ook</span><span class="sxs-lookup"><span data-stu-id="fca2c-129">See Also</span></span>
+[<span data-ttu-id="fca2c-130">Werken met Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="fca2c-130">Work with Dynamics NAV</span></span>](ui-work-product.md)
 
 

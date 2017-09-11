@@ -7,64 +7,64 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2d6438108fb2c36bb6f0d44efddc053bd628d068
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 80a0ac1edc994f44795f7f907a647b269578bc47
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-record-sales-prices-and-discounts"></a>Procedure: Verkoopprijzen en kortingen registreren
-De verschillende prijs- en kortingsovereenkomsten voor de verkoop aan verschillende klanten moeten zijn vastgesteld zodat de overeengekomen regels en waarden worden toegepast op verkoopdocumenten die u maakt voor de klanten.
+# <a name="how-to-record-sales-prices-and-discounts"></a><span data-ttu-id="a2631-102">Procedure: Verkoopprijzen en kortingen registreren</span><span class="sxs-lookup"><span data-stu-id="a2631-102">How to: Record Sales Prices and Discounts</span></span>
+<span data-ttu-id="a2631-103">De verschillende prijs- en kortingsovereenkomsten voor de verkoop aan verschillende klanten moeten zijn vastgesteld zodat de overeengekomen regels en waarden worden toegepast op verkoopdocumenten die u maakt voor de klanten.</span><span class="sxs-lookup"><span data-stu-id="a2631-103">The different price and discount agreements that apply when selling to different customers must be defined so that the agreed rules and values are applied to sales documents that you create for the customers.</span></span>
 
-U kunt een speciale verkoopprijs op verkoopregels laten invoegen als een bepaalde combinatie bestaat van klant, artikel, minimumaantal, maateenheid of begin- en einddatum.
+<span data-ttu-id="a2631-104">U kunt een speciale verkoopprijs op verkoopregels laten invoegen als een bepaalde combinatie bestaat van klant, artikel, minimumaantal, maateenheid of begin- en einddatum.</span><span class="sxs-lookup"><span data-stu-id="a2631-104">Concerning prices, you can have a special sales price inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-U kunt twee soorten verkoopkortingen instellen en gebruiken:
+<span data-ttu-id="a2631-105">U kunt twee soorten verkoopkortingen instellen en gebruiken:</span><span class="sxs-lookup"><span data-stu-id="a2631-105">Concerning discounts, you can set up and use two types of sales discounts:</span></span>
 
-|Type korting |Omschrijving |
+|<span data-ttu-id="a2631-106">Type korting</span><span class="sxs-lookup"><span data-stu-id="a2631-106">Discount Type</span></span> |<span data-ttu-id="a2631-107">Omschrijving</span><span class="sxs-lookup"><span data-stu-id="a2631-107">Description</span></span> |
 |--------------|------------|
-|**Verkoopregelkorting**|Een kortingsbedrag dat op verkoopregels wordt ingevoegd als een bepaalde combinatie bestaat van klant, artikel, minimumaantal, maateenheid of begin- en einddatum. Dit werkt op dezelfde manier als bij verkoopprijzen.|
-|**Factuurkorting**|Een percentagekorting die van het documenttotaal wordt afgetrokken als het waardebedrag van alle regels in een verkoopdocument een bepaald minimum overschrijdt.|
+|<span data-ttu-id="a2631-108">**Verkoopregelkorting**</span><span class="sxs-lookup"><span data-stu-id="a2631-108">**Sales Line Discount**</span></span>|<span data-ttu-id="a2631-109">Een kortingsbedrag dat op verkoopregels wordt ingevoegd als een bepaalde combinatie bestaat van klant, artikel, minimumaantal, maateenheid of begin- en einddatum.</span><span class="sxs-lookup"><span data-stu-id="a2631-109">An amount discount that is inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="a2631-110">Dit werkt op dezelfde manier als bij verkoopprijzen.</span><span class="sxs-lookup"><span data-stu-id="a2631-110">This works in the same way as for sales prices.</span></span>|
+|<span data-ttu-id="a2631-111">**Factuurkorting**</span><span class="sxs-lookup"><span data-stu-id="a2631-111">**Invoice Discount**</span></span>|<span data-ttu-id="a2631-112">Een percentagekorting die van het documenttotaal wordt afgetrokken als het waardebedrag van alle regels in een verkoopdocument een bepaald minimum overschrijdt.</span><span class="sxs-lookup"><span data-stu-id="a2631-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a sales document exceeds a certain minimum.</span></span>|
 
-Doordat verkoopprijzen en verkoopregelkortingen worden gebaseerd op een combinatie van artikel en klant, kunt u dit ook configureren vanaf de artikelkaart van het artikel waarop de regels en waarden van toepassing zijn.
+<span data-ttu-id="a2631-113">Doordat verkoopprijzen en verkoopregelkortingen worden gebaseerd op een combinatie van artikel en klant, kunt u dit ook configureren vanaf de artikelkaart van het artikel waarop de regels en waarden van toepassing zijn.</span><span class="sxs-lookup"><span data-stu-id="a2631-113">Because sales prices and sales line discounts are based on a combination of item and customer, you can also perform this configuration from the item card of the item where the rules and values apply.</span></span>
 
-## <a name="to-set-up-a-sales-price-for-a-customer"></a>Een verkoopprijs voor een klant instellen
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Klanten** in en kies vervolgens de gerelateerde koppeling.
-2. Open de desbetreffende klantenkaart en kies vervolgens de actie **Prijzen**.
+## <a name="to-set-up-a-sales-price-for-a-customer"></a><span data-ttu-id="a2631-114">Een verkoopprijs voor een klant instellen</span><span class="sxs-lookup"><span data-stu-id="a2631-114">To set up a sales price for a customer</span></span>
+1. <span data-ttu-id="a2631-115">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Klanten** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="a2631-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="a2631-116">Open de desbetreffende klantenkaart en kies vervolgens de actie **Prijzen**.</span><span class="sxs-lookup"><span data-stu-id="a2631-116">Open the relevant customer card, and then choose the **Prices** action.</span></span>
 
-    Het veld **Verkoopsoort** wordt vooraf ingevuld met de waarde **Klant** en het veld **Verkoopcode** wordt vooraf ingevuld met het klantnummer.
-3. Vul de velden indien nodig op de regel in. Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.
-4. Vul een regel in voor elke combinatie waarmee een speciale verkoopprijs aan de klant wordt verleend.
+    <span data-ttu-id="a2631-117">Het veld **Verkoopsoort** wordt vooraf ingevuld met de waarde **Klant** en het veld **Verkoopcode** wordt vooraf ingevuld met het klantnummer.</span><span class="sxs-lookup"><span data-stu-id="a2631-117">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3. <span data-ttu-id="a2631-118">Vul de velden indien nodig op de regel in.</span><span class="sxs-lookup"><span data-stu-id="a2631-118">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="a2631-119">Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.</span><span class="sxs-lookup"><span data-stu-id="a2631-119">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="a2631-120">Vul een regel in voor elke combinatie waarmee een speciale verkoopprijs aan de klant wordt verleend.</span><span class="sxs-lookup"><span data-stu-id="a2631-120">Fill a line for each combination that will grant a special sales price to the customer.</span></span>
 
-## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a>Een verkoopregelkorting instellen voor een klant
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Klanten** in en kies vervolgens de gerelateerde koppeling.
-2. Open de desbetreffende klantenkaart en kies vervolgens de actie **Regelkortingen**.
+## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a><span data-ttu-id="a2631-121">Een verkoopregelkorting instellen voor een klant</span><span class="sxs-lookup"><span data-stu-id="a2631-121">To set up a sales line discount for a customer</span></span>
+1. <span data-ttu-id="a2631-122">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Klanten** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="a2631-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="a2631-123">Open de desbetreffende klantenkaart en kies vervolgens de actie **Regelkortingen**.</span><span class="sxs-lookup"><span data-stu-id="a2631-123">Open the relevant customer card, and then choose the **Line Discounts** action.</span></span>
 
-    Het veld **Verkoopsoort** wordt vooraf ingevuld met de waarde **Klant** en het veld **Verkoopcode** wordt vooraf ingevuld met het klantnummer.
-3.  Vul de velden indien nodig op de regel in. Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.
-4. Vul een regel in voor elke combinatie waarmee een speciale verkoopregelkorting aan de klant wordt verleend.
+    <span data-ttu-id="a2631-124">Het veld **Verkoopsoort** wordt vooraf ingevuld met de waarde **Klant** en het veld **Verkoopcode** wordt vooraf ingevuld met het klantnummer.</span><span class="sxs-lookup"><span data-stu-id="a2631-124">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3.  <span data-ttu-id="a2631-125">Vul de velden indien nodig op de regel in.</span><span class="sxs-lookup"><span data-stu-id="a2631-125">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="a2631-126">Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.</span><span class="sxs-lookup"><span data-stu-id="a2631-126">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="a2631-127">Vul een regel in voor elke combinatie waarmee een speciale verkoopregelkorting aan de klant wordt verleend.</span><span class="sxs-lookup"><span data-stu-id="a2631-127">Fill a line for each combination that will grant a sales line discount to the customer.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-customer"></a>Een factuurkorting voor een klant instellen
-Wanneer u hebt bepaald welke klanten in aanmerking komen voor factuurkortingen, geeft u de factuurkortingscode op de klantenkaarten op en stelt u de voorwaarden voor elke code in.
+## <a name="to-set-up-an-invoice-discount-for-a-customer"></a><span data-ttu-id="a2631-128">Een factuurkorting voor een klant instellen</span><span class="sxs-lookup"><span data-stu-id="a2631-128">To set up an invoice discount for a customer</span></span>
+<span data-ttu-id="a2631-129">Wanneer u hebt bepaald welke klanten in aanmerking komen voor factuurkortingen, geeft u de factuurkortingscode op de klantenkaarten op en stelt u de voorwaarden voor elke code in.</span><span class="sxs-lookup"><span data-stu-id="a2631-129">When you have decided which customers are eligible for invoice discounts, enter the invoice discount code on the customer cards and set up the terms for each code.</span></span>
 
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Klanten** in en kies vervolgens de gerelateerde koppeling.
-2. Open de klantenkaart voor een klant die voor factuurkortingen in aanmerking komt.
-3. Selecteer in het veld **Factuurkortingscode** een code voor de desbetreffende factuurkortingsvoorwaarden die moeten worden gehanteerd voor het berekenen van factuurkortingen voor de klant.
+1. <span data-ttu-id="a2631-130">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Klanten** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="a2631-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="a2631-131">Open de klantenkaart voor een klant die voor factuurkortingen in aanmerking komt.</span><span class="sxs-lookup"><span data-stu-id="a2631-131">Open the customer card for a customer that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="a2631-132">Selecteer in het veld **Factuurkortingscode** een code voor de desbetreffende factuurkortingsvoorwaarden die moeten worden gehanteerd voor het berekenen van factuurkortingen voor de klant.</span><span class="sxs-lookup"><span data-stu-id="a2631-132">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the customer.</span></span>
 
-    **Opmerking**: factuurkortingscodes worden vertegenwoordigd door bestaande klantenkaarten. Zo kunt u snel factuurkortingsvoorwaarden aan klanten toewijzen door de naam van een andere klant te kiezen die dezelfde voorwaarden heeft.
+    <span data-ttu-id="a2631-133">**Opmerking**: factuurkortingscodes worden vertegenwoordigd door bestaande klantenkaarten.</span><span class="sxs-lookup"><span data-stu-id="a2631-133">**Note**: Invoice discount codes are represented by existing customer cards.</span></span> <span data-ttu-id="a2631-134">Zo kunt u snel factuurkortingsvoorwaarden aan klanten toewijzen door de naam van een andere klant te kiezen die dezelfde voorwaarden heeft.</span><span class="sxs-lookup"><span data-stu-id="a2631-134">This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.</span></span>
 
-    Ga door met het instellen van de nieuwe voorwaarden voor de nieuwe verkoopfactuurkorting.
-4. Kies in het venster **Klantenkaart** de actie **Factuurkortingen**. Het venster **Verkoopfactuurkorting** verschijnt.
-5. Geef in het veld **Valutacode** de code op voor een valuta waarvoor de factuurkortingscondities op de regel van toepassing zijn. Laat het veld leeg als u factuurkortingscondities in de lokale valuta wilt instellen.
-6. Geef in het veld **Minimumbedrag** op hoe hoog het factuurbedrag minimaal moet zijn voordat een korting wordt berekend.
-7. Voer in het veld **Korting %** de factuurkorting in als percentage van het factuurbedrag.
-8. Herhaal stap 5 tot en met 7 voor elke valuta waarvoor de klant een andere factuurkorting ontvangt.
+    <span data-ttu-id="a2631-135">Ga door met het instellen van de nieuwe voorwaarden voor de nieuwe verkoopfactuurkorting.</span><span class="sxs-lookup"><span data-stu-id="a2631-135">Proceed to set up new the sales invoice discount terms.</span></span>
+4. <span data-ttu-id="a2631-136">Kies in het venster **Klantenkaart** de actie **Factuurkortingen**.</span><span class="sxs-lookup"><span data-stu-id="a2631-136">In the **Customer Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="a2631-137">Het venster **Verkoopfactuurkorting** verschijnt.</span><span class="sxs-lookup"><span data-stu-id="a2631-137">The **Cust. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="a2631-138">Geef in het veld **Valutacode** de code op voor een valuta waarvoor de factuurkortingscondities op de regel van toepassing zijn.</span><span class="sxs-lookup"><span data-stu-id="a2631-138">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="a2631-139">Laat het veld leeg als u factuurkortingscondities in de lokale valuta wilt instellen.</span><span class="sxs-lookup"><span data-stu-id="a2631-139">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="a2631-140">Geef in het veld **Minimumbedrag** op hoe hoog het factuurbedrag minimaal moet zijn voordat een korting wordt berekend.</span><span class="sxs-lookup"><span data-stu-id="a2631-140">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="a2631-141">Voer in het veld **Korting %** de factuurkorting in als percentage van het factuurbedrag.</span><span class="sxs-lookup"><span data-stu-id="a2631-141">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="a2631-142">Herhaal stap 5 tot en met 7 voor elke valuta waarvoor de klant een andere factuurkorting ontvangt.</span><span class="sxs-lookup"><span data-stu-id="a2631-142">Repeat steps 5 through 7 for each currency that the customer will receive a different invoice discount for.</span></span>
 
-De factuurkorting is nu ingesteld en toegewezen aan de klant in kwestie. Wanneer u de klantcode selecteert in het veld **Factuurkortingscode** op andere klantenkaarten, wordt dezelfde factuurkorting toegewezen aan die klanten.
+<span data-ttu-id="a2631-143">De factuurkorting is nu ingesteld en toegewezen aan de klant in kwestie.</span><span class="sxs-lookup"><span data-stu-id="a2631-143">The invoice discount is now set up and assigned to the customer in question.</span></span> <span data-ttu-id="a2631-144">Wanneer u de klantcode selecteert in het veld **Factuurkortingscode** op andere klantenkaarten, wordt dezelfde factuurkorting toegewezen aan die klanten.</span><span class="sxs-lookup"><span data-stu-id="a2631-144">When you select the customer code in the **Invoice Disc. Code** field on other customer cards, the same invoice discount is assigned to those customers.</span></span>
 
-## <a name="see-also"></a>Zie ook  
-[Verkopen instellen](sales-setup-sales.md)  
-[Verkoop beheren](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="a2631-145">Zie ook</span><span class="sxs-lookup"><span data-stu-id="a2631-145">See Also</span></span>  
+[<span data-ttu-id="a2631-146">Verkopen instellen</span><span class="sxs-lookup"><span data-stu-id="a2631-146">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="a2631-147">Verkoop beheren</span><span class="sxs-lookup"><span data-stu-id="a2631-147">Manage Sales</span></span>](sales-manage-sales.md)
 

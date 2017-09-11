@@ -7,42 +7,42 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 11bfba9f279f6bd84c5d169f6f97fd48759bc6df
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 3ede5942798e34fd0e4b3ab8cc48ca94eed3d1a4
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-# <a name="how-to-suggest-vendor-payments"></a>Procedure: betalingsvoorstellen maken
-In het venster **Betalingsdagboek** kunt u een functie gebruiken om betalingsregels voor te stellen volgens uw instellingen, zoals betalingen die binnenkort moeten worden betaald of betalingen waarvoor een betalingskorting beschikbaar is.
+# <a name="how-to-suggest-vendor-payments"></a><span data-ttu-id="87106-102">Procedure: betalingsvoorstellen maken</span><span class="sxs-lookup"><span data-stu-id="87106-102">How to: Suggest Vendor Payments</span></span>
+<span data-ttu-id="87106-103">In het venster **Betalingsdagboek** kunt u een functie gebruiken om betalingsregels voor te stellen volgens uw instellingen, zoals betalingen die binnenkort moeten worden betaald of betalingen waarvoor een betalingskorting beschikbaar is.</span><span class="sxs-lookup"><span data-stu-id="87106-103">In the **Payment Journal** window, you can use a function to suggest payment lines according to your settings, such as payments that are due soon or payments where a payment discount is available.</span></span>
 
-Als u maximaal wilt profiteren van de functie Leveranciersbetalingen voorstellen, moet u uw leveranciers eerst een prioriteit geven. Zie voor meer informatie [Procedure: leveranciers in een prioriteitsvolgorde plaatsen](purchasing-how-prioritize-vendors.md).
+<span data-ttu-id="87106-104">Als u maximaal wilt profiteren van de functie Leveranciersbetalingen voorstellen, moet u uw leveranciers eerst een prioriteit geven.</span><span class="sxs-lookup"><span data-stu-id="87106-104">To benefit fully from the Suggest Vendor Payments function, you must first prioritize your vendors.</span></span> <span data-ttu-id="87106-105">Zie voor meer informatie [Procedure: leveranciers in een prioriteitsvolgorde plaatsen](purchasing-how-prioritize-vendors.md).</span><span class="sxs-lookup"><span data-stu-id="87106-105">For more information, see [How to: Prioritize Vendors](purchasing-how-prioritize-vendors.md).</span></span>
 
-Leveranciersposten die niet zijn gemarkeerd als **Afwachten**, worden niet in de batchverwerking opgenomen.  
+<span data-ttu-id="87106-106">Leveranciersposten die niet zijn gemarkeerd als **Afwachten**, worden niet in de batchverwerking opgenomen.</span><span class="sxs-lookup"><span data-stu-id="87106-106">Vendor entries that are not marked **On Hold** are not included in the batch job.</span></span>  
 
-**Belangrijk**: als u wilt profiteren van contantkortingen en een beschikbaar bedrag hebt ingevoerd, wordt het bedrag eerst gebruikt voor vervallen posten met een prioriteitsnummer (in volgorde van prioriteit), vervolgens voor vervallen posten zonder prioriteitsnummer en tot slot voor openstaande posten die in aanmerking komen voor contantkortingen (in volgorde van leveranciersnummer).
+<span data-ttu-id="87106-107">**Belangrijk**: als u wilt profiteren van contantkortingen en een beschikbaar bedrag hebt ingevoerd, wordt het bedrag eerst gebruikt voor vervallen posten met een prioriteitsnummer (in volgorde van prioriteit), vervolgens voor vervallen posten zonder prioriteitsnummer en tot slot voor openstaande posten die in aanmerking komen voor contantkortingen (in volgorde van leveranciersnummer).</span><span class="sxs-lookup"><span data-stu-id="87106-107">**Important**: If you want to take advantage of payment discounts and have entered an available amount, the amount will be used for prioritized overdue vendor entries first in order of priority, and then for overdue vendor entries that are not prioritized, and finally for open vendor entries that qualify for payment discounts in order of vendor number.</span></span>
 
-## <a name="to-use-the-suggest-vendor-payments-function"></a>De functie Leveranciersbetalingen voorstellen gebruiken
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Betalingsdagboeken** in en kies vervolgens de gerelateerde koppeling.
-2. Open het desbetreffende dagboek en kies vervolgens de actie **Leveranciersbetalingen voorstellen**.
-3. Vul indien nodig de velden in. Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.
-4. Kies de knop **Ok**.
+## <a name="to-use-the-suggest-vendor-payments-function"></a><span data-ttu-id="87106-108">De functie Leveranciersbetalingen voorstellen gebruiken</span><span class="sxs-lookup"><span data-stu-id="87106-108">To use the Suggest Vendor Payments function</span></span>
+1. <span data-ttu-id="87106-109">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Betalingsdagboeken** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="87106-109">In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journals**, and then choose the related link.</span></span>
+2. <span data-ttu-id="87106-110">Open het desbetreffende dagboek en kies vervolgens de actie **Leveranciersbetalingen voorstellen**.</span><span class="sxs-lookup"><span data-stu-id="87106-110">Open the relevant journal, and then choose the **Suggest Vendor Payments** action.</span></span>
+3. <span data-ttu-id="87106-111">Vul indien nodig de velden in.</span><span class="sxs-lookup"><span data-stu-id="87106-111">Fill in the fields as necessary.</span></span> <span data-ttu-id="87106-112">Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.</span><span class="sxs-lookup"><span data-stu-id="87106-112">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="87106-113">Kies de knop **Ok**.</span><span class="sxs-lookup"><span data-stu-id="87106-113">Choose the **OK** button.</span></span>
 
-## <a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a>De vervaldatum als boekingsdatum invoegen op betalingsdagboekregels
-Wanneer u de batchverwerking **Leveranciersbetalingen voorstellen** gebruikt om betalingsregels voor uw leveranciers te maken, kunt u twee speciale velden invullen om te zorgen dat de gegenereerde regels de vervaldatum gebruiken om de boekingsdatum te berekenen. Deze velden zijn **Bereken boekingsdatum via vervaldatum vereffeningsdoc.** en **Vervaldatumafwijking vereffeningsdoc.**.
+## <a name="to-insert-the-due-date-as-posting-date-on-payment-journal-lines"></a><span data-ttu-id="87106-114">De vervaldatum als boekingsdatum invoegen op betalingsdagboekregels</span><span class="sxs-lookup"><span data-stu-id="87106-114">To insert the due date as posting date on payment journal lines</span></span>
+<span data-ttu-id="87106-115">Wanneer u de batchverwerking **Leveranciersbetalingen voorstellen** gebruikt om betalingsregels voor uw leveranciers te maken, kunt u twee speciale velden invullen om te zorgen dat de gegenereerde regels de vervaldatum gebruiken om de boekingsdatum te berekenen.</span><span class="sxs-lookup"><span data-stu-id="87106-115">When you use the **Suggest Vendor Payments** batch job to create payment lines for your vendors, you can fill two special fields to make sure that the generated lines use the due date to calculate the posting date.</span></span> <span data-ttu-id="87106-116">Deze velden zijn **Bereken boekingsdatum via vervaldatum vereffeningsdoc.** en **Vervaldatumafwijking vereffeningsdoc.**.</span><span class="sxs-lookup"><span data-stu-id="87106-116">These fields are **Calculate Posting Date from Applies-to-Doc Due Date** and **Applies-to-Doc Due Date Offset**.</span></span>
 
-**Belangrijk**: u kunt het veld **Bereken boekingsdatum via vervaldatum vereffeningsdoc.** niet gebruiken met het veld **Contantkorting nemen** of het veld **Een regel per leverancier** . De reden is dat als de boekingsdatum is gebaseerd op de vervaldatum, enkele contantkortingen mogelijk niet correct worden berekend, omdat de boekingsdatum kan plaatsvinden na de vervaldatum voor contantkorting.
-Als de berekende boekingsdatum in het verleden ligt, wordt de boekingsdatum ook voorwaarts verplaatst naar de volgende werkdatum en wordt een waarschuwing weergegeven.
+<span data-ttu-id="87106-117">**Belangrijk**: u kunt het veld **Bereken boekingsdatum via vervaldatum vereffeningsdoc.** niet gebruiken met het veld **Contantkorting nemen** of het veld **Een regel per leverancier** .</span><span class="sxs-lookup"><span data-stu-id="87106-117">**Important**: You cannot use the **Calculate Posting Date from Applies-to-Doc Due Date** field together with the **Find Payment Discounts** field or the **Summarize per Vendor** field.</span></span> <span data-ttu-id="87106-118">De reden is dat als de boekingsdatum is gebaseerd op de vervaldatum, enkele contantkortingen mogelijk niet correct worden berekend, omdat de boekingsdatum kan plaatsvinden na de vervaldatum voor contantkorting.</span><span class="sxs-lookup"><span data-stu-id="87106-118">The reason is that if the posting date is based on the due date, then some payment discount may not be calculated correctly, because the posting date could occur after the payment discount date.</span></span>
+<span data-ttu-id="87106-119">Als de berekende boekingsdatum in het verleden ligt, wordt de boekingsdatum ook voorwaarts verplaatst naar de volgende werkdatum en wordt een waarschuwing weergegeven.</span><span class="sxs-lookup"><span data-stu-id="87106-119">Also, if the calculated posting date occurs in the past, then the posting date will be moved up to the work date, and a warning is displayed.</span></span>
 
-U kunt ook handmatig betalingsregels maken waarbij de vervaldatum wordt gebruikt om de boekingsdatum te berekenen. Nadat u leveranciersposten hebt vereffend, kunt u de actie **Boekingsdatum berekenen** gebruiken. Hierdoor wordt de boekingsdatum op de dagboekregel bijgewerkt met de vervaldatum van de gerelateerde inkoopfactuur. Zie voor meer informatie [Procedure: Inkooptransacties handmatig vereffenen](payables-how-apply-purchase-transactions-manually.md).  
+<span data-ttu-id="87106-120">U kunt ook handmatig betalingsregels maken waarbij de vervaldatum wordt gebruikt om de boekingsdatum te berekenen.</span><span class="sxs-lookup"><span data-stu-id="87106-120">Alternatively, you can also manually create payment lines using the due date to calculate the posting date.</span></span> <span data-ttu-id="87106-121">Nadat u leveranciersposten hebt vereffend, kunt u de actie **Boekingsdatum berekenen** gebruiken.</span><span class="sxs-lookup"><span data-stu-id="87106-121">After you have applied vendor ledger entries, you can use the **Calculate Posting Date** action.</span></span> <span data-ttu-id="87106-122">Hierdoor wordt de boekingsdatum op de dagboekregel bijgewerkt met de vervaldatum van de gerelateerde inkoopfactuur.</span><span class="sxs-lookup"><span data-stu-id="87106-122">This will update the posting date on the journal line with the due date of the related purchase invoice.</span></span> <span data-ttu-id="87106-123">Zie voor meer informatie [Procedure: Inkooptransacties handmatig vereffenen](payables-how-apply-purchase-transactions-manually.md).</span><span class="sxs-lookup"><span data-stu-id="87106-123">For more information, see [How to: Apply Purchase Transactions Manually](payables-how-apply-purchase-transactions-manually.md).</span></span>  
 
-**Opmerking**: als de inkoopfactuur achterstallig is, wordt de boekingsdatum ingesteld op de werkdatum en wordt het lettertype op de regel rood.
+<span data-ttu-id="87106-124">**Opmerking**: als de inkoopfactuur achterstallig is, wordt de boekingsdatum ingesteld op de werkdatum en wordt het lettertype op de regel rood.</span><span class="sxs-lookup"><span data-stu-id="87106-124">**Note**: If the purchase invoice is overdue, then the posting date will be set to the work date, and the font on the line will change to red color.</span></span>
 
-## <a name="see-also"></a>Zie ook
-[Betalingsverplichtingen beheren](payables-manage-payables.md)  
-[Betalingen doen](payables-make-payments.md)  
-[Werken met diversendagboeken](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="87106-125">Zie ook</span><span class="sxs-lookup"><span data-stu-id="87106-125">See Also</span></span>
+[<span data-ttu-id="87106-126">Betalingsverplichtingen beheren</span><span class="sxs-lookup"><span data-stu-id="87106-126">Manage Payables</span></span>](payables-manage-payables.md)  
+[<span data-ttu-id="87106-127">Betalingen doen</span><span class="sxs-lookup"><span data-stu-id="87106-127">Make Payments</span></span>](payables-make-payments.md)  
+[<span data-ttu-id="87106-128">Werken met diversendagboeken</span><span class="sxs-lookup"><span data-stu-id="87106-128">Work with General Journals</span></span>](ui-work-general-journals.md)
 

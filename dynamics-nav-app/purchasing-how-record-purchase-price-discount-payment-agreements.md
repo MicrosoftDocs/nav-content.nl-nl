@@ -7,64 +7,64 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 09/11/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Procedure: Inkoopprijzen en kortingen registreren
-De verschillende prijs- en kortingsovereenkomsten die van toepassing zijn wanneer u koopt van verschillende leveranciers, moeten worden gedefinieerd, zodat de overeengekomen regels en waarden worden toegepast op documenten die u voor de leveranciers maakt.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="8da84-102">Procedure: Inkoopprijzen en kortingen registreren</span><span class="sxs-lookup"><span data-stu-id="8da84-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="8da84-103">De verschillende prijs- en kortingsovereenkomsten die van toepassing zijn wanneer u koopt van verschillende leveranciers, moeten worden gedefinieerd, zodat de overeengekomen regels en waarden worden toegepast op documenten die u voor de leveranciers maakt.</span><span class="sxs-lookup"><span data-stu-id="8da84-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-U kunt een speciale inkoopprijs op inkoopregels laten invoegen als een bepaalde combinatie bestaat van leverancier, artikel, minimumaantal, maateenheid of begin- en einddatum.
+<span data-ttu-id="8da84-104">U kunt een speciale inkoopprijs op inkoopregels laten invoegen als een bepaalde combinatie bestaat van leverancier, artikel, minimumaantal, maateenheid of begin- en einddatum.</span><span class="sxs-lookup"><span data-stu-id="8da84-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-U kunt twee soorten inkoopkortingen instellen en gebruiken:
+<span data-ttu-id="8da84-105">U kunt twee soorten inkoopkortingen instellen en gebruiken:</span><span class="sxs-lookup"><span data-stu-id="8da84-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Type korting |Omschrijving |
+|<span data-ttu-id="8da84-106">Type korting</span><span class="sxs-lookup"><span data-stu-id="8da84-106">Discount Type</span></span> |<span data-ttu-id="8da84-107">Omschrijving</span><span class="sxs-lookup"><span data-stu-id="8da84-107">Description</span></span> |
 |--------------|------------|
-|**Inkoopregelkorting**|Een kortingsbedrag dat op inkoopregels wordt ingevoegd als een bepaalde combinatie bestaat van leverancier, artikel, minimumaantal, maateenheid of begin- en einddatum. Dit werkt op dezelfde manier als bij inkoopprijzen.|
-|**Factuurkorting**|Een percentagekorting die van het documenttotaal wordt afgetrokken als het waardebedrag van alle regels in een inkoopdocument een bepaald minimum overschrijdt.|
+|<span data-ttu-id="8da84-108">**Inkoopregelkorting**</span><span class="sxs-lookup"><span data-stu-id="8da84-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="8da84-109">Een kortingsbedrag dat op inkoopregels wordt ingevoegd als een bepaalde combinatie bestaat van leverancier, artikel, minimumaantal, maateenheid of begin- en einddatum.</span><span class="sxs-lookup"><span data-stu-id="8da84-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="8da84-110">Dit werkt op dezelfde manier als bij inkoopprijzen.</span><span class="sxs-lookup"><span data-stu-id="8da84-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="8da84-111">**Factuurkorting**</span><span class="sxs-lookup"><span data-stu-id="8da84-111">**Invoice Discount**</span></span>|<span data-ttu-id="8da84-112">Een percentagekorting die van het documenttotaal wordt afgetrokken als het waardebedrag van alle regels in een inkoopdocument een bepaald minimum overschrijdt.</span><span class="sxs-lookup"><span data-stu-id="8da84-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Omdat inkoopregelkortingen en inkoopprijzen gebaseerd zijn op een combinatie van artikel en leverancier, kunt u deze configuratie ook invoeren vanuit de artikelkaart, waarop de regels en waarden zijn gedefinieerd. Zie voor meer informatie [Procedure: Nieuwe producten registreren](inventory-how-register-new-products.md).
+<span data-ttu-id="8da84-113">Omdat inkoopregelkortingen en inkoopprijzen gebaseerd zijn op een combinatie van artikel en leverancier, kunt u deze configuratie ook invoeren vanuit de artikelkaart, waarop de regels en waarden zijn gedefinieerd.</span><span class="sxs-lookup"><span data-stu-id="8da84-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="8da84-114">Zie voor meer informatie [Procedure: Nieuwe producten registreren](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="8da84-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Een speciale inkoopprijs voor een leverancier instellen
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Leveranciers** in en kies vervolgens de gerelateerde koppeling.
-2. Open de desbetreffende leverancierskaart en kies vervolgens de actie **Prijzen**.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="8da84-115">Een speciale inkoopprijs voor een leverancier instellen</span><span class="sxs-lookup"><span data-stu-id="8da84-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="8da84-116">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Leveranciers** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="8da84-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="8da84-117">Open de desbetreffende leverancierskaart en kies vervolgens de actie **Prijzen**.</span><span class="sxs-lookup"><span data-stu-id="8da84-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    Het veld **Soort inkoop** wordt vooraf ingevuld met **Leverancier** en het veld **Inkoopcode** wordt vooraf ingevuld met het leveranciersnummer.
-3. Vul de velden indien nodig op de regel in. Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.
-4. Vul een regel in voor elke combinatie waarvoor de leverancier u een inkoopregelkorting verleent.
+    <span data-ttu-id="8da84-118">Het veld **Soort inkoop** wordt vooraf ingevuld met **Leverancier** en het veld **Inkoopcode** wordt vooraf ingevuld met het leveranciersnummer.</span><span class="sxs-lookup"><span data-stu-id="8da84-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="8da84-119">Vul de velden indien nodig op de regel in.</span><span class="sxs-lookup"><span data-stu-id="8da84-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="8da84-120">Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.</span><span class="sxs-lookup"><span data-stu-id="8da84-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="8da84-121">Vul een regel in voor elke combinatie waarvoor de leverancier u een inkoopregelkorting verleent.</span><span class="sxs-lookup"><span data-stu-id="8da84-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Een speciale regelkorting voor een leverancier instellen
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Leveranciers** in en kies vervolgens de gerelateerde koppeling.
-2. Open de desbetreffende leverancierskaart en kies vervolgens de actie **Regelkortingen**.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="8da84-122">Een speciale regelkorting voor een leverancier instellen</span><span class="sxs-lookup"><span data-stu-id="8da84-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="8da84-123">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Leveranciers** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="8da84-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="8da84-124">Open de desbetreffende leverancierskaart en kies vervolgens de actie **Regelkortingen**.</span><span class="sxs-lookup"><span data-stu-id="8da84-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    Het veld **Soort inkoop** wordt vooraf ingevuld met **Leverancier** en het veld **Inkoopcode** wordt vooraf ingevuld met het leveranciersnummer.
-3. Vul de velden indien nodig op de regel in. Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.
-4. Vul een regel in voor elke combinatie waarvoor de leverancier u een inkoopregelkorting verleent.
+    <span data-ttu-id="8da84-125">Het veld **Soort inkoop** wordt vooraf ingevuld met **Leverancier** en het veld **Inkoopcode** wordt vooraf ingevuld met het leveranciersnummer.</span><span class="sxs-lookup"><span data-stu-id="8da84-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="8da84-126">Vul de velden indien nodig op de regel in.</span><span class="sxs-lookup"><span data-stu-id="8da84-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="8da84-127">Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.</span><span class="sxs-lookup"><span data-stu-id="8da84-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="8da84-128">Vul een regel in voor elke combinatie waarvoor de leverancier u een inkoopregelkorting verleent.</span><span class="sxs-lookup"><span data-stu-id="8da84-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Een factuurkorting voor een leverancier instellen
-Wanneer uw leveranciers u hebben geïnformeerd welke factuurkortingen ze verlenen, voert u de factuurkortingscodes op de leverancierskaarten in en stelt u de condities voor elke code in.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="8da84-129">Een factuurkorting voor een leverancier instellen</span><span class="sxs-lookup"><span data-stu-id="8da84-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="8da84-130">Wanneer uw leveranciers u hebben geïnformeerd welke factuurkortingen ze verlenen, voert u de factuurkortingscodes op de leverancierskaarten in en stelt u de condities voor elke code in.</span><span class="sxs-lookup"><span data-stu-id="8da84-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Leveranciers** in en kies vervolgens de gerelateerde koppeling.
-2. Open de leverancierskaart voor een leverancier die voor factuurkortingen in aanmerking komt.
-3. Selecteer in het veld **Factuurkortingscode** een code voor de desbetreffende factuurkortingscondities om te gebruiken voor het berekenen van factuurkortingen voor de leverancier.
+1. <span data-ttu-id="8da84-131">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Leveranciers** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="8da84-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="8da84-132">Open de leverancierskaart voor een leverancier die voor factuurkortingen in aanmerking komt.</span><span class="sxs-lookup"><span data-stu-id="8da84-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="8da84-133">Selecteer in het veld **Factuurkortingscode** een code voor de desbetreffende factuurkortingscondities om te gebruiken voor het berekenen van factuurkortingen voor de leverancier.</span><span class="sxs-lookup"><span data-stu-id="8da84-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Opmerking**: factuurkortingscodes worden weergegeven door bestaande leverancierskaarten. Zo kunt u snel factuurkortingscondities aan leveranciers toewijzen door de naam van een andere leverancier te kiezen die dezelfde condities heeft.
+    <span data-ttu-id="8da84-134">**Opmerking**: factuurkortingscodes worden weergegeven door bestaande leverancierskaarten.</span><span class="sxs-lookup"><span data-stu-id="8da84-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="8da84-135">Zo kunt u snel factuurkortingscondities aan leveranciers toewijzen door de naam van een andere leverancier te kiezen die dezelfde condities heeft.</span><span class="sxs-lookup"><span data-stu-id="8da84-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Ga door met het instellen van de condities voor de nieuwe inkoopfactuurkorting.
-4. Kies in het venster **Leverancierskaart** de actie **Factuurkortingen**. Het venster **Inkoopfactuurkortingen** verschijnt.
-5. Geef in het veld **Valutacode** de code op voor een valuta waarvoor de factuurkortingscondities op de regel van toepassing zijn. Laat het veld leeg als u factuurkortingscondities in de lokale valuta wilt instellen.
-6. Geef in het veld **Minimumbedrag** op hoe hoog het factuurbedrag minimaal moet zijn voordat een korting wordt berekend.
-7. Voer in het veld **Korting %** de factuurkorting in als percentage van het factuurbedrag.
-8. Herhaal stap 5 tot en met 7 voor elke valuta waarvoor de leverancier een andere factuurkorting ontvangt.
+    <span data-ttu-id="8da84-136">Ga door met het instellen van de condities voor de nieuwe inkoopfactuurkorting.</span><span class="sxs-lookup"><span data-stu-id="8da84-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="8da84-137">Kies in het venster **Leverancierskaart** de actie **Factuurkortingen**.</span><span class="sxs-lookup"><span data-stu-id="8da84-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="8da84-138">Het venster **Inkoopfactuurkortingen** verschijnt.</span><span class="sxs-lookup"><span data-stu-id="8da84-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="8da84-139">Geef in het veld **Valutacode** de code op voor een valuta waarvoor de factuurkortingscondities op de regel van toepassing zijn.</span><span class="sxs-lookup"><span data-stu-id="8da84-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="8da84-140">Laat het veld leeg als u factuurkortingscondities in de lokale valuta wilt instellen.</span><span class="sxs-lookup"><span data-stu-id="8da84-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="8da84-141">Geef in het veld **Minimumbedrag** op hoe hoog het factuurbedrag minimaal moet zijn voordat een korting wordt berekend.</span><span class="sxs-lookup"><span data-stu-id="8da84-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="8da84-142">Voer in het veld **Korting %** de factuurkorting in als percentage van het factuurbedrag.</span><span class="sxs-lookup"><span data-stu-id="8da84-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="8da84-143">Herhaal stap 5 tot en met 7 voor elke valuta waarvoor de leverancier een andere factuurkorting ontvangt.</span><span class="sxs-lookup"><span data-stu-id="8da84-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-De factuurkorting is nu ingesteld en toegewezen aan de leverancier in kwestie. Wanneer u de leveranciercode selecteert in het veld **Factuurkortingscode** op andere leverancierskaarten, wordt dezelfde factuurkorting toegewezen aan die leverancier.
+<span data-ttu-id="8da84-144">De factuurkorting is nu ingesteld en toegewezen aan de leverancier in kwestie.</span><span class="sxs-lookup"><span data-stu-id="8da84-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="8da84-145">Wanneer u de leveranciercode selecteert in het veld **Factuurkortingscode** op andere leverancierskaarten, wordt dezelfde factuurkorting toegewezen aan die leverancier.</span><span class="sxs-lookup"><span data-stu-id="8da84-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>Zie ook  
-[Inkoop instellen](purchasing-setup-purchasing.md)  
-[Inkoop beheren](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="8da84-146">Zie ook</span><span class="sxs-lookup"><span data-stu-id="8da84-146">See Also</span></span>  
+[<span data-ttu-id="8da84-147">Inkoop instellen</span><span class="sxs-lookup"><span data-stu-id="8da84-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="8da84-148">Inkoop beheren</span><span class="sxs-lookup"><span data-stu-id="8da84-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 
