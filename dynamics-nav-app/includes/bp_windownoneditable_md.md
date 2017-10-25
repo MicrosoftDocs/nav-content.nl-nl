@@ -1,1 +1,1 @@
-<span data-ttu-id="10516-101">U kunt de inhoud van dit venster niet wijzigen.</span><span class="sxs-lookup"><span data-stu-id="10516-101">You cannot change the contents of this window.</span></span>
+<span data-ttu-id="b6ccc-101">U kunt de inhoud van dit venster niet wijzigen.</span><span class="sxs-lookup"><span data-stu-id="b6ccc-101">You cannot change the contents of this window.</span></span>

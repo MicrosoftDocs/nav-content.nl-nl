@@ -1,35 +1,37 @@
 ---
-title: 'Procedure: boekingsperioden opgeven'
+title: Boekingsperioden opgeven
+description: U geeft boekingsbegin- en einddatums op om in te stellen wanneer gebruikers naar het grootboek kunnen boeken.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-specify-posting-periods"></a><span data-ttu-id="806cb-103">Procedure: boekingsperioden opgeven</span><span class="sxs-lookup"><span data-stu-id="806cb-103">How to: Specify Posting Periods</span></span>
+<span data-ttu-id="806cb-104">Gebruik boekingsperioden om op te geven wanneer gebruikers naar het grootboek kunnen boeken.</span><span class="sxs-lookup"><span data-stu-id="806cb-104">Use posting periods to specify when users can post to the general ledger.</span></span>  
 
-# <a name="how-to-specify-posting-periods"></a><span data-ttu-id="4a074-102">Procedure: boekingsperioden opgeven</span><span class="sxs-lookup"><span data-stu-id="4a074-102">How to: Specify Posting Periods</span></span>
-<span data-ttu-id="4a074-103">Wanneer u boekingsperioden opgeeft, moet u de periode beperken waarin boeken is toegestaan.</span><span class="sxs-lookup"><span data-stu-id="4a074-103">When you specify posting periods, you limit the period in which posting is allowed.</span></span>
+## <a name="to-specify-posting-periods"></a><span data-ttu-id="806cb-105">Boekingsperioden opgeven</span><span class="sxs-lookup"><span data-stu-id="806cb-105">To specify posting periods</span></span>
+1. <span data-ttu-id="806cb-106">Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Grootboekinstellingen** in en klik vervolgens op de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="806cb-106">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **General Ledger Setup**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="806cb-107">In het venster **Grootboekinstellingen** definieert u de periode door datums in te voeren in het veld **Boeken toegestaan vanaf** en het veld **Boeken toegestaan tot**.</span><span class="sxs-lookup"><span data-stu-id="806cb-107">In the **General Ledger Setup** window, define the period by entering dates in the **Allow Posting From** and **Allow Posting To** fields.</span></span>  
 
-## <a name="to-specify-posting-periods"></a><span data-ttu-id="4a074-104">Boekingsperioden opgeven</span><span class="sxs-lookup"><span data-stu-id="4a074-104">To specify posting periods</span></span>
-1. <span data-ttu-id="4a074-105">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Grootboekinstellingen** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="4a074-105">In the top right corner, choose the **Search for Page or Report** icon, enter **General Ledger Setup**, and then choose the related link.</span></span>
-2. <span data-ttu-id="4a074-106">Voer in het venster **Grootboekinstellingen** een datum in het veld **Boeken toegest. vanaf** in om het begin van de periode op te geven.</span><span class="sxs-lookup"><span data-stu-id="4a074-106">In the **General Ledger Setup** window, enter a date in the **Allow Posting From** field to specify the beginning of the period.</span></span>
-3. <span data-ttu-id="4a074-107">Voer in het veld **Boeken toegest. tot** een datum in om het einde van de periode op te geven.</span><span class="sxs-lookup"><span data-stu-id="4a074-107">Enter a date in the **Allow Posting To** field to specify the end of the period.</span></span>
+> [!NOTE]  
+>   <span data-ttu-id="806cb-108">Deze boekingsperioden zijn van toepassing op het bedrijf en alle gebruikers.</span><span class="sxs-lookup"><span data-stu-id="806cb-108">These posting periods apply to the company and to all users.</span></span> <span data-ttu-id="806cb-109">Als u uitzonderingen wilt toestaan, kunt u verschillende boekingsperioden definiëren voor specifieke gebruikers in het venster **Gebruikersinstellingen**.</span><span class="sxs-lookup"><span data-stu-id="806cb-109">To allow for exceptions, you can define different posting periods for specific users in the **User Setup** window.</span></span> <span data-ttu-id="806cb-110">Deze boekingsperioden hebben voorrang op de perioden die zijn opgegeven in het venster **Grootboekinstellingen**.</span><span class="sxs-lookup"><span data-stu-id="806cb-110">These posting periods overrule those specified in the **General Ledger Setup** window.</span></span> <span data-ttu-id="806cb-111">Zie voor meer informatie het gedeelte "Tijdsbeperkingen voor gebruikers instellen" in [Procedure: Gebruikers en machtigingen beheren](ui-how-users-permissions.md).</span><span class="sxs-lookup"><span data-stu-id="806cb-111">For more information, see the "To set up user time constraints" section in [How to: Manage Users and Permissions](ui-how-users-permissions.md).</span></span>
 
-<span data-ttu-id="4a074-108">De data die u hier opgeeft, zijn van toepassing op het bedrijf en op alle gebruikers.</span><span class="sxs-lookup"><span data-stu-id="4a074-108">The dates that you define here apply to the company and to all users.</span></span>
-
-<span data-ttu-id="4a074-109">**Opmerking**: als u verschillende boekingsperioden voor verschillende gebruikers wilt opgeven, kunt u deze voor elke gebruiker instellen in het venster **Gebruikersinstellingen**.</span><span class="sxs-lookup"><span data-stu-id="4a074-109">**Note**: If you want to define different posting periods for different users, you can set them up for each user in the **User Setup** window.</span></span> <span data-ttu-id="4a074-110">Als u datums invoert in het venster **Gebruikersinstellingen**, gelden de datums in het venster **Grootboekinstellingen** niet voor deze gebruikers.</span><span class="sxs-lookup"><span data-stu-id="4a074-110">If you enter dates in the **User Setup** window, the dates entered in the **General Ledger Setup** window will not apply to these users.</span></span>
-
-
-## <a name="see-also"></a><span data-ttu-id="4a074-111">Zie ook</span><span class="sxs-lookup"><span data-stu-id="4a074-111">See Also</span></span>
-[<span data-ttu-id="4a074-112">Financiën</span><span class="sxs-lookup"><span data-stu-id="4a074-112">Finance</span></span>](finance-setup.md)  
-[<span data-ttu-id="4a074-113">Periodeafsluitingsprocessen voltooien</span><span class="sxs-lookup"><span data-stu-id="4a074-113">Completing Period-End Processes</span></span>](year-how-complete-period-end-processes.md)
+## <a name="see-also"></a><span data-ttu-id="806cb-112">Zie ook</span><span class="sxs-lookup"><span data-stu-id="806cb-112">See Also</span></span>
+[<span data-ttu-id="806cb-113">Financiën</span><span class="sxs-lookup"><span data-stu-id="806cb-113">Finance</span></span>](finance.md)  
+[<span data-ttu-id="806cb-114">Periodeafsluitingsprocessen voltooien</span><span class="sxs-lookup"><span data-stu-id="806cb-114">Completing Period-End Processes</span></span>](year-how-complete-period-end-processes.md)  
+<span data-ttu-id="806cb-115">[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="806cb-115">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 
