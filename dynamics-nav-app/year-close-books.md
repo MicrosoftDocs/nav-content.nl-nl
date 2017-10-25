@@ -1,21 +1,24 @@
 ---
-title: Boeken sluiten
+title: Overzicht van de taken voor het sluiten van de boeken
+description: Meer informatie over het sluiten van de boeken voor een boekjaar of -periode, en wat er gebeurt nadat u het jaareinde hebt afgesloten.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ad75bfd18936df07e0fe9dcc5ed6bb94360ea965
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 03/29/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d709f8bfb5da3a0ebf5b44f3246fa3ccaa69c77f
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-books"></a>Boeken sluiten
+# <a name="closing-the-books"></a>De boeken sluiten
 Nadat gezorgd hebt dat alle rekeningen actueel zijn, en u kosten en inkomsten hebt verdeeld, kunt u de boeken van een boekhoudperiode of boekjaar sluiten.
 
 U bent niet verplicht een jaar af te sluiten, maar maakt het werken in het systeem gemakkelijker omdat u dan kunt profiteren van de handige filteropties. U hoeft zich bovendien geen zorgen te maken over het verlies van transactiedetails wanneer u het jaar afsluit, omdat alle details behouden blijven, zelfs nadat u het jaar hebt afgesloten.
@@ -25,14 +28,12 @@ Bij het proces voor het afsluiten van boeken zijn drie hoofdtaken betrokken:
 
 1. De boekingsperiode afsluiten.
 
-    Een boekjaar wordt gedefinieerd als een of meer open perioden zoals die zijn gedefinieerd op de pagina **Boekingsperioden**. Een boekjaar bestaat over het algemeen uit 12 perioden van een maand, maar u kunt een jaar ook anders definiëren.
+    Een boekjaar wordt gedefinieerd als één of meer open perioden die zijn gedefinieerd in het venster **Boekhoudperioden**. Een boekjaar bestaat over het algemeen uit 12 perioden van een maand, maar u kunt een jaar ook anders definiëren.
 
     Zie [Procedure: Boekingsperioden afsluiten](year-close-account-periods.md) voor meer informatie.
-
 2. Naboekingen registreren.
 
     Wanneer u een boekjaar sluit, moet u een aantal administratieve transacties invoeren (zoals vooraf betaalde en te betalen artikelen). De transacties worden herwaarderingsposten genoemd. Er zijn geen speciale regels voor het boeken van deze posten, en het veld **Naboeking** is (zoals bij de overige posten) geselecteerd als ze worden geboekt op een datum in een gesloten boekjaar. Zelfs als een boekjaar is afgesloten, kunt u er nog steeds grootboekposten voor boeken.
-
 3. Saldi van de WenV-rekeningen overboeken naar de balans.
 
     Nadat een boekjaar is gesloten en alle naboekingen zijn geboekt, moeten de resultatenrekeningen worden gesloten en het netto inkomen van het jaar moet worden overgedragen naar een rekening onder de vermogensrekening van de eigenaren op de balans. Gebruik hiervoor de batchverwerking Afsluiten WenV-rekening. De batchverwerking verwerkt alle grootboekrekeningen van het soort Resultaten en maakt tegenboekingen voor de bijbehorende saldo's. Deze posten worden geplaatst in een dagboek van waar ze kunnen worden geboekt. De batchverwerking boekt ze niet automatisch, behalve wanneer een extra rapportagevaluta wordt gebruikt. Wanneer een extra rapportagevaluta wordt gebruikt, boekt de batchverwerking direct naar het grootboek.
@@ -52,5 +53,6 @@ Het systeem genereert vervolgens een ultimopost, maar boekt de post niet automat
 U kunt in een eerder boekjaar boeken, zelfs nadat de resultatenrekeningen zijn gesloten, als u nadien nogmaals de batchverwerking Afsluiten WenV-rekening uitvoert.
 
 ## <a name="see-also"></a>Zie ook
-[Procedure: nieuw boekjaar openen](finance-setup-how-open-new-fiscal-year.md)
+[Procedure: Nieuw boekjaar openen](finance-how-open-new-fiscal-year.md)  
+[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

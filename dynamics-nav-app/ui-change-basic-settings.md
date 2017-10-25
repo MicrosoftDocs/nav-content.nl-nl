@@ -1,23 +1,25 @@
 ---
-title: Basisinstellingen wijzigen
+title: Basisinstellingen bekijken en bewerken in Dynamics NAV
+description: Leer hoe u enkele basisinstellingen in Dynamics NAV wijzigt, bijvoorbeeld het rolcentrum, bedrijf of de werkdatum.
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ef0204fca3d139c64a0277b4e1d6d15fd0873248
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: change Role Center, notification, change company, change work date
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1fd559bd0bf213a745f0c567c2b2d5721071c553
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="changing-basic-settings"></a>Basisinstellingen wijzigen
-In het venster **Mijn instellingen** kunt u basisinstellingen bekijken en wijzigen voor de Dynamics NAV-webclient.  
+In het venster **Mijn instellingen** kunt u basisinstellingen bekijken en wijzigen voor [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 ## <a name="role-center"></a>Rolcentrum
 Het rolcentrum vertegenwoordigt de startpagina, een pagina die is ontworpen voor de vereisten van de rol. Op de startpagina hebt u een overzicht van het bedrijf. Aan de linkerkant ziet u een navigatiebalk die u gemakkelijk toegang geeft aan klanten, leveranciers, artikelen, enzovoort.
@@ -26,27 +28,33 @@ In het midden vindt u de tegels Activiteiten. Bij Activiteiten worden actuele ge
 
 U kunt ook een lijst met favoriete klanten maken op de startpagina voor de accounts met wie u vaak zaken doet of aan wie u speciale aandacht moet geven. Gebruik de pijlen om een deel van de pagina samen te vouwen en meer ruimte te maken om specifieke gegevens weer te geven. Boven aan de startpagina vindt u alle acties die op de huidige inhoud kunnen worden toegepast. Dit kan ook worden samengevouwen en u hoeft alleen te klikken of te tikken binnen het samengevouwen gebied om het opnieuw weer te geven.
 
-Het standaardrolcentrum is **Verkooporderverwerker**, maar u kunt een ander rolcentrum selecteren dat beter aan uw behoeften voldoet. Zie [Procedure: Het rolcentrum wijzigen](ui-change-role.md) voor meer informatie.
+Het standaardrolcentrum is **Bedrijfsmanager**, maar u kunt een ander rolcentrum selecteren dat beter aan uw behoeften voldoet. Zie [Procedure: Het rolcentrum wijzigen](change-role.md) voor meer informatie.
 
 ## <a name="company"></a>Bedrijf
-Een bedrijf werkt als een container voor gegevens in Dynamics NAV. Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd.
+Een bedrijf werkt als een container voor gegevens in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd.
 
-Het bedrijf CRONUS US is het standaardbedrijf. Het bevat alleen demonstratiegegevens.   
+Het standaardbedrijf heet CRONUS en bevat alleen demogegevens.
+
+> [!TIP]  
+>   Als u een andere benaming voor uw bedrijf wilt weergeven in de toepassing (bijvoorbeeld op de startpagina), stelt u het veld **Naam** op de pagina **Bedrijfsgegevens** of het veld **Weergavenaam** op de pagina **Bedrijven** in.  
 
 ## <a name="work-date"></a>Werkdatum
 De standaardwerkdatum is meestal de datum van vandaag. U moet de werkdatum mogelijk tijdelijk wijzigen om taken te kunnen uitvoeren, zoals het voltooien van transacties voor een datum die niet de huidige datum is.
 
-**Tip**: als u de werkdatum snel in een datumveld wilt invoeren, typt u **w**. Als u de huidige datum snel in het datumveld wilt invoeren, typt u **t**.
+> [!TIP]  
+>   Typ **w** als u de werkdatum snel in een datumveld wilt invoeren. Als u de huidige datum snel in het datumveld wilt invoeren, typt u **t**.
 
-**Belangrijk**: de werkdatum wordt pas gewijzigd als u het bedrijf sluit of als u de datum verandert. Als u een ander bedrijf opent of hetzelfde bedrijf de dag erop weer opent en nog steeds een andere werkdatum moet gebruiken, moet u de werkdatum opnieuw instellen.
+> [!IMPORTANT]  
+>   De werkdatum wordt alleen gewijzigd totdat u het bedrijf sluit of totdat de datum verandert. Als u een ander bedrijf opent of hetzelfde bedrijf de dag erop weer opent en nog steeds een andere werkdatum moet gebruiken, moet u de werkdatum opnieuw instellen.
 
-## <a name="region-and-language"></a>Regio en taal
-Hier kunt u, de regio, de taal en de tijdzone wijzigen. Met de regionale instellingen wordt de indeling van gegevens bepaald, zoals datums, tijden, getallen, valuta, enzovoort. De tijdzone geeft de tijdzone op die op datum- en tijdgegevens wordt toegepast of die u weergeeft of invoert in Dynamics NAV. U moet zich af- en weer aanmelden om de wijziging te laten ingaan.
+## <a name="region"></a>Regio
+De instelling bij **Regio** bepaalt de weergave of notatie van datums, tijden, nummers en valuta's.   
 
-## <a name="confirmation-dialogs"></a>Bevestigingsdialoogvensters
-Gebruik de opties in deze sectie als u bepaalde extra controles wilt opgeven voor boekingsdocumenten. Deze opties worden standaard ingeschakeld, maar u kunt de selectievakjes uitschakelen om te voorkomen dat u specifieke waarschuwingen of berichten krijgt.
+## <a name="change-when-i-receive-notifications"></a>Wijzigen wanneer ik berichten ontvang
+Klik op deze koppeling om de meldingen te zien of aan te passen die u ontvangt over bepaalde gebeurtenissen of statuswijzigingen, bijvoorbeeld wanneer u een klant wilt gaan factureren die een openstaand saldo heeft of wanneer de beschikbare voorraad lager is dan de hoeveelheid die u op het punt staat te verkopen. Zie voor meer informatie [Slimme berichten](ui-smart-notifications.md).
 
 ## <a name="see-also"></a>Zie ook
-[Werken met Dynamics NAV](ui-work-product.md)  
-[Procedure: Het rolcentrum wijzigen](ui-change-role.md)  
+[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Procedure: Het rolcentrum wijzigen](change-role.md)  
+[Aanpassen [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)  
 

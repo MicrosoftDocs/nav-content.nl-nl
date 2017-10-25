@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 18237c4b755926222a36bc97dec5d6783c11454d
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1b7a293982dfc7ff73c163ad1711e2bce098e98e
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -34,6 +34,6 @@ Verder kunt u een standaarddimensie instellen voor elk soort. zodat deze code wo
 Ten slotte kunt u een dimensie ook verplicht maken, zodat een post niet met een specifiek rekeningsoort kan worden geboekt tenzij aan de rekening een dimensiewaarde is toegewezen.
 
 ## <a name="see-also"></a>Zie ook
-[Dimensies](finance-setup-dimensions.md)  
-[Financiële kernprocessen instellen](finance-setup-setup-finance-setup.md)
+[Werken met dimensies](finance-dimensions.md)  
+[Financiële kernprocessen instellen](finance-setup-finance.md)
 

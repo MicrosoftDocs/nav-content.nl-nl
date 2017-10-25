@@ -1,29 +1,30 @@
 ---
-title: 'Procedure: Nieuwe klanten registreren'
+title: Een klantenkaart maken om nieuwe klanten registreren
+description: "Beschrijft hoe u een klantenkaart maakt om informatie te registreren over elke nieuwe klant of cliënt aan wie u verkoopt."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 191a9d0b38425c2e36400050afa4fa89ccd2556a
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: client
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: c97412269cdac3f4ba1616b14e294e18599e93aa
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-register-new-customers"></a>Procedure: Nieuwe klanten registreren
-Klanten zijn de bron van uw inkomsten. Elke klant aan wie u verkoopt moet als een klantenkaart zijn geregistreerd.
+Klanten zijn de bron van uw inkomsten. U moet elke klant aan wie u verkoopt registreren als een klantenkaart. Klantenkaarten bevatten de informatie die is vereist om producten aan de klant te verkopen. Zie [Procedure: Verkopen factureren](sales-how-invoice-sales.md) en [Procedure: Nieuwe artikelen registreren](inventory-how-register-new-items.md) voor meer informatie.  
 
-Voordat u nieuwe klanten kunt vastleggen, moet u verschillende verkoopcodes instellen waaruit u kunt selecteren wanneer u klantenkaarten invult. Zie [Verkopen instellen](sales-setup-sales.md) voor meer informatie.
+Voordat u nieuwe klanten kunt vastleggen, moet u verschillende verkoopcodes instellen waaruit u kunt selecteren bij het invullen van klantenkaarten. Zie [Verkopen instellen](sales-setup-sales.md) voor meer informatie.
 
-Klantenkaarten bevatten de informatie die is vereist om producten aan de klant te verkopen. Zie [Procedure: Verkopen factureren](sales-how-invoice-sales.md) en [Procedure: Nieuwe producten registreren](inventory-how-register-new-products.md) voor meer informatie.
-
-**Opmerking**: als er klantsjablonen voor verschillende klantsoorten bestaan, wordt een venster weergegeven wanneer u een nieuwe klantenkaart maakt waar u een geschikte sjabloon kunt selecteren. Als er slechts één klantensjabloon bestaat, gebruiken nieuwe klantenkaarten altijd deze sjabloon.
+> [!NOTE]  
+>   Als er klantsjablonen voor verschillende klantsoorten bestaan, wordt een venster weergegeven wanneer u een nieuwe klantenkaart maakt waar u een geschikte sjabloon kunt selecteren. Als er slechts één klantensjabloon bestaat, gebruiken nieuwe klantenkaarten altijd deze sjabloon.
 
 ## <a name="to-create-a-new-customer-card"></a>Een nieuwe klantenkaart maken
 1. Kies op de startpagina de actie **Klanten** om de lijst met bestaande klanten te openen.  
@@ -34,7 +35,7 @@ Klantenkaarten bevatten de informatie die is vereist om producten aan de klant t
     Als er meer dan één klantensjabloon bestaat, wordt er een venster geopend waarin u een klantensjabloon kunt selecteren. In dat geval volgt u de volgende twee stappen.
 3. Kies in het venster **Selecteer een sjabloon voor een nieuwe klant** de sjabloon die u wilt gebruiken voor de nieuwe klantenkaart.
 4. Kies de knop **Ok**. Een nieuwe klantenkaart wordt geopend waarin in sommige velden informatie uit de sjabloon is ingevuld.  
-5. Ga indien nodig door met het invullen of wijzigen van velden op de klantenkaart. Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.
+5. Ga indien nodig door met het invullen of wijzigen van velden op de klantenkaart. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 Op het sneltabblad **Verkoopprijzen** kunt u speciale prijzen of kortingen weergeven die u voor de klant verleent als aan bepaalde criteria, zoals artikel, minimaal orderaantal of einddatum, wordt voldaan. Elke rij vertegenwoordigt een speciale prijs of regelkorting. Elke kolom vertegenwoordigt een criterium dat moet worden toegepast om de speciale prijs te garanderen die u invoert in het veld **Eenheidsprijs** of de regelkorting die u invoert in het veld **Regelkorting %**. Zie voor meer informatie [Afspraken over prijzen, kortingen en betalingen van verkopen vastleggen](sales-how-record-sales-price-discount-payment-agreements.md).
 
@@ -44,15 +45,15 @@ Als u deze klantenkaart als sjabloon wilt gebruiken wanneer u nieuwe klantenkaar
 
 ## <a name="to-save-the-customer-card-as-a-template"></a>De klantenkaart als sjabloon opslaan
 1. Kies in het venster **Klantenkaart** de actie **Opslaan als sjabloon**. Het venster **Klantensjabloon** opent de weergave van de klantenkaart als sjabloon.
-2. Vul indien nodig de velden in. Kies een veld om een korte omschrijving van het veld of een koppeling naar meer informatie te lezen.
+2. Vul indien nodig de velden in. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 3. Als u sjablonen wilt hergebruiken, kiest u de actie **Dimensies**. Het venster **Dimensiesjablonen** wordt geopend en toont alle dimensiecodes die voor de klant zijn ingesteld.
 4. Bewerk of typ dimensiecodes die van toepassing zijn op nieuwe klantenkaarten die worden gemaakt met de sjabloon.  
 5. Wanneer u de nieuwe klantensjabloon hebt voltooid, kiest u de knop **OK**.
 
 De klantensjabloon wordt toegevoegd aan de lijst met klantensjabloon, zodat u deze kunt gebruiken om nieuwe klantenkaarten te maken.
 
-## <a name="see-also"></a>Zie ook  
-[Verkoop beheren](sales-manage-sales.md)    
+## <a name="see-also"></a>Zie ook
+[Verkoop](sales-manage-sales.md)    
 [Verkopen instellen](sales-setup-sales.md)    
-[Werken met Dynamics NAV](ui-work-product.md)
+[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

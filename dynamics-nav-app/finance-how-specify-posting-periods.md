@@ -1,35 +1,37 @@
 ---
-title: 'Procedure: boekingsperioden opgeven'
+title: Boekingsperioden opgeven
+description: U geeft boekingsbegin- en einddatums op om in te stellen wanneer gebruikers naar het grootboek kunnen boeken.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-specify-posting-periods"></a>Procedure: boekingsperioden opgeven
-Wanneer u boekingsperioden opgeeft, moet u de periode beperken waarin boeken is toegestaan.
+Gebruik boekingsperioden om op te geven wanneer gebruikers naar het grootboek kunnen boeken.  
 
 ## <a name="to-specify-posting-periods"></a>Boekingsperioden opgeven
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Grootboekinstellingen** in en kies vervolgens de gerelateerde koppeling.
-2. Voer in het venster **Grootboekinstellingen** een datum in het veld **Boeken toegest. vanaf** in om het begin van de periode op te geven.
-3. Voer in het veld **Boeken toegest. tot** een datum in om het einde van de periode op te geven.
+1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Grootboekinstellingen** in en klik vervolgens op de gerelateerde koppeling.  
+2. In het venster **Grootboekinstellingen** definieert u de periode door datums in te voeren in het veld **Boeken toegestaan vanaf** en het veld **Boeken toegestaan tot**.  
 
-De data die u hier opgeeft, zijn van toepassing op het bedrijf en op alle gebruikers.
-
-**Opmerking**: als u verschillende boekingsperioden voor verschillende gebruikers wilt opgeven, kunt u deze voor elke gebruiker instellen in het venster **Gebruikersinstellingen**. Als u datums invoert in het venster **Gebruikersinstellingen**, gelden de datums in het venster **Grootboekinstellingen** niet voor deze gebruikers.
-
+> [!NOTE]  
+>   Deze boekingsperioden zijn van toepassing op het bedrijf en alle gebruikers. Als u uitzonderingen wilt toestaan, kunt u verschillende boekingsperioden definiëren voor specifieke gebruikers in het venster **Gebruikersinstellingen**. Deze boekingsperioden hebben voorrang op de perioden die zijn opgegeven in het venster **Grootboekinstellingen**. Zie voor meer informatie het gedeelte "Tijdsbeperkingen voor gebruikers instellen" in [Procedure: Gebruikers en machtigingen beheren](ui-how-users-permissions.md).
 
 ## <a name="see-also"></a>Zie ook
-[Financiën](finance-setup.md)  
-[Periodeafsluitingsprocessen voltooien](year-how-complete-period-end-processes.md)
+[Financiën](finance.md)  
+[Periodeafsluitingsprocessen voltooien](year-how-complete-period-end-processes.md)  
+[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

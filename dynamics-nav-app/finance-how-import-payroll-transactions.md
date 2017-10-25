@@ -1,34 +1,42 @@
 ---
-title: 'Procedure: Salaristransacties importeren '
+title: Salaristransacties importeren
+description: "Als u salaris wilt beheren, importeert en boekt u financiële transacties vanuit uw salarisprovider naar het grootboek, met behulp van een salarisextensie zoals Ceridian of Quickbooks."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/29/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: d5e70a0a1659c7facdeec3f0971eda43ff8a03cc
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: Ceridian, Quickbooks, salary
+ms.date: 06/16/2017
+ms.author: SorenGP
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 675a63c7862854ef3f8e2ca3d37dd3f2e290cf29
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-import-payroll-transactions"></a>Procedure: Salaristransacties importeren 
-Als u salarisbetalingen en gerelateerde transacties wilt verantwoorden, moet u financiële transacties die zijn uitgevoerd door uw leverancier van salarisverwerking, importeren en boeken naar het grootboek. Hiervoor importeert u eerst een csv- bestand dat u van de leverancier van salarisverwerking ontvangt, in het venster **Fin. dagboek**. Vervolgens kunt u de externe rekeningen in het loonlijstbestand toewijzen aan de betreffende grootboekrekeningen. Als laatste boekt u de loonlijsttransacties op basis van de rekeningtoewijzing.
+Als u salarisbetalingen en gerelateerde transacties wilt verantwoorden, moet u financiële transacties die zijn uitgevoerd door uw leverancier van salarisverwerking, importeren en boeken naar het grootboek. Hiervoor importeert u eerst een bestand dat u van de leverancier van salarisverwerking ontvangt, in het venster **Fin. dagboek**. Vervolgens kunt u de externe rekeningen in het loonlijstbestand toewijzen aan de betreffende grootboekrekeningen. Als laatste boekt u de loonlijsttransacties op basis van de rekeningtoewijzing.
+
+> [!NOTE]  
+>   Als u deze functionaliteit wilt gebruiken, moet een extensie voor salarisimport zijn geïnstalleerd en ingeschakeld. De extensies voor import van bestanden van Ceridian Payroll en Quickbooks Payroll worden vooraf geïnstalleerd in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Zie voor meer informatie [[!INCLUDE[d365fin](includes/d365fin_md.md)] aanpassen met extensies](ui-extensions.md).
 
 ## <a name="to-import-a-payroll-file"></a>Een salarisbestand importeren
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Diversendagboeken** in en kies vervolgens de gerelateerde koppeling.
-2. Kies in de relevante diversendagboekbatch de actie **Salaristransacties importeren**.
-3. Selecteer in het venster **Importeren** het relevante salarisbestand en kies vervolgens de knop **OK**. Het bestand moet de CSV-indeling hebben. 
-4. Volg de stappen in het venster **Salaristransacties importeren** om transacties te importeren en rekeningen toe te wijzen, en kies vervolgens de knop **Voltooien**.
+1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Dagboeken** in en klik vervolgens op de gerelateerde koppeling.
+2. Kies in de relevante diversendagboekbatch de actie **Salaristransacties importeren**. Er wordt een begeleide instelling geopend.
+3. Volg de stappen in het venster **Salaristransacties importeren**.
 
-    Het dagboek wordt gevuld met regels die de transacties uit het loonlijstbestand vertegenwoordigen, en met de relevante rekeningen in de kolom **Grootboekrekening**.
-4. Bewerk of boek de dagboekregels zoals voor andere grootboektransacties. Zie [Procedure: Werken met diversendagboeken](ui-work-general-journals.md) voor meer informatie.   
+    > [!TIP]  
+>   In de stap over het koppelen van de externe salarisrecords aan uw grootboekrekeningen, worden de koppelingen die u maakt, de volgende keer dat dezelfde records worden geïmporteerd, herinnerd. Hierdoor bespaart u tijd omdat u niet handmatig het veld **Rekeningnr.** in het dagboek moet invullen steeds wanneer u doorlopende loonlijsttransacties hebt geïmporteerd.   
+
+    Wanneer u de knop **OK** kiest in de begeleide instelling, wordt het venster **Dagboek** gevuld met regels die de transacties voorstellen die het salarisbestand bevat, en met de relevante rekeningen vooraf ingevuld in de **Grootboekrekening**-velden volgens de koppelingen die u in de instelling kiest.
+4. Bewerk of boek de dagboekregels zoals voor andere grootboektransacties. Zie voor meer informatie [Procedure: Transacties direct naar het grootboek boeken](finance-how-post-transactions-directly.md).   
 
 ## <a name="see-also"></a>Zie ook
-[Financiën](finance-setup.md)  
-[Procedure: Werken met diversendagboeken.](ui-work-general-journals.md)  
+[Financiën](finance.md)  
+[[!INCLUDE[d365fin](includes/d365fin_md.md)] aanpassen met behulp van extensies](ui-extensions.md)  
+[Werken met diversendagboeken](ui-work-general-journals.md)  
 

@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -26,7 +26,7 @@ Als u klantbetalingen via PayPal wilt inschakelen, moet u het volgende doen:
 1. Stel PayPal-betalingsstandaard als een betalingsservice in het venster **Betalingsservices** in.
 2. Selecteer PayPal-betalingsstandaard in het veld **Betalingsservice** in het desbetreffende verkoopdocument.
 
-De PayPal-betalingsstandaardservice wordt geïnstalleerd als een extensie voor Dynamics NAV en kan worden ingeschakeld. Zie [Dynamics NAV aanpassen met extensies ](ui-extensions.md) voor meer informatie.
+De PayPal-betalingsstandaardservice wordt geïnstalleerd als een extensie voor Dynamics NAV en kan worden ingeschakeld. Zie voor meer informatie [Dynamics NAV aanpassen met extensies](ui-extensions.md).
 
 ## <a name="to-enable-the-paypal-payments-standard-service"></a>De PayPal-betalingsstandaardservice inschakelen
 1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, kies **Betalingsservices** en kies vervolgens de gerelateerde koppeling.  
@@ -49,5 +49,5 @@ De PayPal-betalingsstandaardservice wordt geïnstalleerd als een extensie voor D
 ## <a name="see-also"></a>Zie ook  
 [Verkopen instellen](sales-setup-sales.md)  
 [Verkoop beheren](sales-manage-sales.md)  
-[Dynamics NAV aanpassen met extensies](ui-extensions.md)
+[Dynamics NAV aanpassen met behulp van extensies](ui-extensions.md)
 

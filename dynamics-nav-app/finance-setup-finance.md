@@ -1,38 +1,50 @@
 ---
-title: "Financiële kernprocessen instellen"
+title: "Financiële processen instellen"
+description: "Meer informatie over de taken om financiën in uw bedrijf in te stellen voor al uw boekhoudings-, controle- of boekingsbehoeften."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-finance"></a>Financiën instellen
+Om u snel aan de slag te helpen, bevat [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] standaardconfiguraties voor de meeste financiële processen. U kunt de configuraties aanpassen aan uw bedrijf. Vanaf de startpagina kunt u bijvoorbeeld gebruik maken van een begeleide instelling om het btw-tarief voor uw locatie in te stellen.  
 
-#<a name="set-up-core-financial-processes"></a>Financiële kernprocessen instellen
-Dynamics NAV bevat een standaardconfiguratie van de meeste financiële processen, maar u kunt de configuratie aanpassen aan uw bedrijf.
-Vanaf de startpagina kunt u toegang krijgen tot een begeleide instelling die u helpt sales tax in te stellen afhankelijk van uw locatie bijvoorbeeld. Andere aspecten van beheer van de financiële instelling moet u zelf instellen, afhankelijk van of u dimensies wilt gebruiken, bijvoorbeeld.  
+Er zijn echter bepaalde zaken die uzelf moet instellen. Als u bijvoorbeeld dimensies wilt gebruiken als basis voor bedrijfsinformatie.  
 
 In de volgende tabel wordt een reeks taken beschreven, met koppelingen naar de beschrijvende onderwerpen.
 
-| Als u dit wilt doen                                                                  | Zie                      |
-|---------------------------------------------------------------------|--------------------------|
-|Kies hoe u betalingen van uw leveranciers wilt verwerken.|[Betalingsmethoden](finance-setup-payment-methods.md)|
-|Stel boekperioden in.|[Procedure: nieuw boekjaar openen](finance-setup-how-open-new-fiscal-year.md)|
-|Stel extra valuta's in als u internationale handel hebt.|[Valuta's instellen](finance-setup-setup-currencies.md)|
-|Voeg dimensies toe voor betere bedrijfsinformatie.|[Dimensies instellen](finance-setup-setup-dimensions.md)|
-|Voeg nieuwe rekeningen aan bestaande rekeningschema's.|[Een rekeningschema instellen](finance-setup-setup-chart-accounts.md)|
+| Aan | Zie |
+| --- | --- |
+| Bepaal hoe u uw leveranciers wilt betalen. |[Betalingsmethoden definiëren](finance-payment-methods.md) |
+| Geef de boekingsgroepen op die entiteiten zoals klanten, leveranciers, artikelen, resources en verkoop- en inkoopdocumenten toewijzen aan grootboekrekeningen. |[Boekingsgroepen instellen](finance-posting-groups.md)|
+|Stel een tolerantie in waarmee het systeem een factuur sluit hoewel de betaling, inclusief een eventuele korting, het bedrag op de factuur niet volledig dekt.|[Procedure: Werken met betalingstolerantie en contantkortingstolerantie](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| Stel boekperioden in. |[Procedure: Nieuw boekjaar openen](finance-how-open-new-fiscal-year.md) |
+| Definiëren hoe u btw-bedragen die u hebt geïnd voor verkopen, rapporteert aan de belastingdienst. |[Procedure: Btw rapporteren aan de belastingdienst](finance-how-report-vat.md)|
+| Stel uw verkoop- en inkoopfuncties in om betalingen in vreemde valuta's te verwerken.|[Procedure: Vereffening van posten in verschillende valuta's inschakelen](finance-how-enable-application-ledger-entries-different-currencies.md)
+| Voeg nieuwe rekeningen aan bestaande rekeningschema's. |[Het rekeningschema instellen](finance-setup-chart-accounts.md) |
+| Stel de BI-diagrammen (Business Intelligence) in om cashflow te analyseren. |[Cashflowanalyse instellen](finance-setup-cash-flow-analyses.md) |
+|Facturering van een klant te schakelen die niet in het systeem is opgenomen.|[Procedure: Contant betalende klanten instellen](finance-how-to-set-up-cash-customers.md)|
+| Intrastat-rapportage instellen en het rapport indienen bij een autoriteit | [Procedure: Intrastat instellen en rapporteren](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a>Zie ook
+[Financiën](finance.md)]  
+[Bankrekeningen beheren](bank-manage-bank-accounts.md)  
+[Werken met dimensies](finance-dimensions.md)  
+[Bedrijfsgegevens importeren uit andere financiële systemen](upload-data.md)  
+[Cashflow in uw bedrijf analyseren](finance-analyze-cash-flow.md)  
+[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-
-##<a name="see-also"></a>Zie ook
-[Bankrekeningen beheren.](bank-manage-bank-accounts.md)    
-[Dimensies](finance-setup-dimensions.md)  
+## 
 

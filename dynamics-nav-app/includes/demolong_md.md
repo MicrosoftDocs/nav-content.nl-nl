@@ -1,1 +1,1 @@
-CRONUS Nederland BV demodatabase
+CRONUS International Ltd. demonstratiedatabase

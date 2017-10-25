@@ -1,33 +1,51 @@
 ---
-title: "Gegevens importeren uit andere financiële systemen"
+title: Uw oude bedrijfsgegevens importeren in Dynamics NAV
+description: U kunt gegevens voor klanten, leveranciers en voorraad importeren, bijvoorbeeld uit Excel, QuickBooks of Dynamics GP, in Dynamics NAV.
 author: edupont04
-ms.custom: na
-ms.date: 09/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b5bd6092046f9a8d75498ddcf3b1ce73f674e687
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: migrate, initialize, implement
+ms.date: 09/25/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b19a05fba8a940dad4dcb6c8aebbefdcae67c324
 ms.contentlocale: nl-nl
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="importing-business-data-from-other-finance-systems"></a>Bedrijfsgegevens importeren uit andere financiële systemen
+Wanneer u zich registreert voor [!INCLUDE[d365fin](includes/d365fin_md.md)], kunt u ervoor kiezen een leeg bedrijf te maken zodat u uw eigen gegevens kunt uploaden en uw nieuwe [!INCLUDE[d365fin](includes/d365fin_md.md)]-bedrijf kunt testen. Afhankelijk van de financiële oplossing die uw bedrijf tegenwoordig gebruikt, kunt u gegevens over klanten, leveranciers en bankrekeningen overbrengen.  
 
-# <a name="import-data-from-other-finance-systems"></a>Gegevens importeren uit andere financiële systemen
-In Dynamics NAV kunt u ervoor kiezen een leeg bedrijf te maken, zodat u gegevens uit andere financiële systemen kunt uploaden om te gebruiken in Dynamics NAV. Afhankelijk van de financiële oplossing die uw bedrijf tegenwoordig gebruikt, kunt u gegevens over klanten, leveranciers en bankrekeningen overbrengen.
-In het rolcentrum Bedrijfseigenaar kunt u toegang krijgen tot een begeleide instelling die u helpt de bedrijfsgegevens vanuit een Excel-bestand of vanuit andere indelingen over te brengen. Het type van de bestanden die u kunt uploaden, is afhankelijk van de extensies die beschikbaar zijn. U kunt bijvoorbeeld gegevens uit QuickBooks uploaden omdat Dynamics NAV een extensie bevat die de conversie van QuickBooks verwerkt. Als u gegevens vanuit andere financiële oplossingen wilt uploaden, moet u controleren of er een extensie beschikbaar is voor die oplossing of moet u vanuit Excel importeren.  
-Dynamics NAV bevat sjablonen voor klanten, leveranciers en voorraadartikelen die u desgewenst kunt toepassen wanneer u uw gegevens uploadt.  
+Vanaf de startpagina kunt u een handleiding voor begeleide instelling starten die u helpt de bedrijfsgegevens vanuit een Excel-bestand of vanuit andere indelingen over te brengen. Het type van de bestanden die u kunt uploaden, is afhankelijk van de extensies die beschikbaar zijn. U kunt bijvoorbeeld gegevens van QuickBooks migreren, omdat [!INCLUDE[d365fin](includes/d365fin_md.md)] een extensie bevat die de conversie van QuickBooks-gegevens uitvoert. Als u gegevens vanuit andere financiële oplossingen wilt migreren, moet u controleren of er een extensie beschikbaar is voor die oplossing of u moet vanuit Excel importeren.  
 
-## <a name="transfer-from-quickbooks"></a>Overbrengen vanuit QuickBooks
-Als uw bedrijf momenteel QuickBooks gebruikt, kunt u de relevante gegevens naar een IIF-bestand (Intuit Interchange Format) exporteren. Vervolgens kunt u de handleiding voor begeleide instelling openen om de gegevens over te brengen.
-Als uw IIF-bestand bijvoorbeeld klanten en leveranciers bevat, kunt u ervoor kiezen alleen de klantgegevens over te brengen. U kunt de rest van de gegevens later overbrengen.  
-De begeleide instelling bevat een optie om de standaardconfiguratie van de overdracht te wijzigen, maar het is raadzaam deze geavanceerde instelling alleen in te voeren als u met databasetabellen vertrouwd bent. In de meeste bedrijven wordt met de standaardtoewijzing van QuickBooks aan Dynamics NAV de gewenste informatie overgebracht.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] bevat sjablonen voor rekeningen, klanten, leveranciers en voorraadartikelen die u desgewenst kunt toepassen wanneer u uw gegevens importeert.  
+
+## <a name="importing-data-from-quickbooks-or-dynamics-gp"></a>Gegevens importeren uit QuickBooks of Dynamics GP
+Als uw bedrijf momenteel QuickBooks of Dynamics GP gebruikt, kunt u de relevante gegevens naar een bestand exporteren. Vervolgens kunt u de handleiding voor begeleide instelling openen om de gegevens over te brengen.
+Als uw bestand bijvoorbeeld klanten en leveranciers bevat, kunt u ervoor kiezen alleen de klantgegevens over te brengen. U kunt de rest van de gegevens later overbrengen.  
+
+De begeleide instelling bevat een optie om de standaardconfiguratie van de overdracht te wijzigen, maar het is raadzaam deze geavanceerde instelling alleen in te voeren als u met databasetabellen vertrouwd bent. In de meeste bedrijven zet de standaardtoewijzing van QuickBooks of Dynamics GP aan [!INCLUDE[d365fin](includes/d365fin_md.md)] de gewenste informatie over.  
+
+Zie [QuickBooks Desktop-gegevensmigratie](ui-extensions-quickbooks-data-migration.md), [QuickBooks Online-gegevensmigratie](ui-extensions-quickbooks-online-data-migration.md) of [Dynamics GP-gegevensmigratie](ui-extensions-dynamicsgp-data-migration.md).  
+
+## <a name="importing-data-from-configuration-packages"></a>Gegevens importeren uit configuratiepakketten
+[!INCLUDE[d365fin](includes/d365fin_md.md)] bevat een configuratiepakket dat u naar Excel kunt exporteren, waar u dan de gegevens kunt instellen. Vervolgens kunt u de gegevens weer uit Excel importeren. Het pakket bestaat uit 27 tabellen, met hoofdgegevens zoals klanten, leveranciers, artikelen en rekeningen, overige tabellen met basisinstellingen zoals verzendmethoden en transactiestabellen zoals verkoopkoptekst en regels.  
+
+> [!NOTE]  
+>   Werken met configuratiepakketten is geavanceerde functionaliteit, en het wordt aanbevolen om hiervoor contact op te nemen met uw beheerder. Zie voor meer informatie [Gegevens importeren uit oudere boekhoudsoftware door middel van een configuratiepakket](across-import-data-configuration-packages.md).  
 
 ## <a name="see-also"></a>Zie ook
-[Financiën](finance-setup.md)  
-[Dynamics NAV aanpassen met extensies](ui-extensions.md)   
-[Uw Dynamics NAV instellen](setup.md)
+[Financiën](finance.md)  
+[Gegevens importeren uit oudere boekhoudsoftware door middel van een configuratiepakket](across-import-data-configuration-packages.md).  
+[QuickBooks Desktop-gegevensmigratie](ui-extensions-quickbooks-data-migration.md)  
+[QuickBooks Online-gegevensmigratie](ui-extensions-quickbooks-online-data-migration.md)  
+[Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md)  
+[[!INCLUDE[d365fin](includes/d365fin_md.md)] aanpassen met behulp van extensies ](ui-extensions.md)   
+[Instellen van [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)
+
+## 
 
