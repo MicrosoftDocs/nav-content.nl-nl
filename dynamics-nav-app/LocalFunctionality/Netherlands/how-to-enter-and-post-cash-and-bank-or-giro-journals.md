@@ -12,29 +12,27 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8487465f031705d229080f023d61a8cba9ec342d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2e8c99b328d7ac15924089d0ba9246057bdfceaf
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-enter-and-post-cash-and-bank-or-giro-journals"></a>Procedure: Kasboeken, bankboeken of giroboeken invoeren en boeken
 In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u het kas- en het bankboek gebruiken om de transacties in te voeren die van invloed zijn op de kas- en bankrekening door **Kasboek** en **Bankboek** te gebruiken.  
-  
- U kunt een toenames of afnames op de kasrekening invoeren in de **Kasboeken**. U kunt dit dagboek bijvoorbeeld gebruiken voor het betalen van kleine kas of het ontvangen van transfers van een andere bankrekening.  
-  
- Het **Bank-/giroboek** registreert de instroom of uitstroom van de contanten naar een bepaalde rekening. Dit dagboek vormt de basis voor bankreconciliatie. De indeling van dit dagboek lijkt op het papieren bankafschrift, dus u kunt u de vereiste velden van het papieren afschrift overnemen in het dagboek of u kunt een elektronisch bankafschriftbestand importeren. De transacties kunnen klantbetalingen of leveranciersbetalingen zijn.  
-  
- U kunt de betalingen van klanten vereffenen met de openstaande facturen van Vorderingen. U kunt ook grootboektransacties invoeren om overige bedragen vast te leggen, zoals bankkosten of rente-inkomsten. Btw codes kunnen ook op deze transactieregels worden toegepast. U kunt een dagboek per bankrekening opgeven.  
-  
-### <a name="to-post-cash-journals"></a>Kasjournalen boeken  
-  
-1.  Kies het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Kasboek** in en klik op de gerelateerde koppeling.  
-  
-2.  Kies op het tabblad **Start** de optie **Nieuw**.  
-  
+
+U kunt een toenames of afnames op de kasrekening invoeren in de **Kasboeken**. U kunt dit dagboek bijvoorbeeld gebruiken voor het betalen van kleine kas of het ontvangen van transfers van een andere bankrekening.  
+
+Het **Bank-/giroboek** registreert de instroom of uitstroom van de contanten naar een bepaalde rekening. Dit dagboek vormt de basis voor bankreconciliatie. De indeling van dit dagboek lijkt op het papieren bankafschrift, dus u kunt u de vereiste velden van het papieren afschrift overnemen in het dagboek of u kunt een elektronisch bankafschriftbestand importeren. De transacties kunnen klantbetalingen of leveranciersbetalingen zijn.  
+
+U kunt de betalingen van klanten vereffenen met de openstaande facturen van Vorderingen. U kunt ook grootboektransacties invoeren om overige bedragen vast te leggen, zoals bankkosten of rente-inkomsten. Btw codes kunnen ook op deze transactieregels worden toegepast. U kunt een dagboek per bankrekening opgeven.  
+
+## <a name="to-post-cash-journals"></a>Kasjournalen boeken  
+
+1.  Kies het pictogram ![Zoeken naar pagina of rapport](../../media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Kasboek** in en klik op de gerelateerde koppeling.  
+2.  Kies de actie **Nieuw**.  
 3.  Vul in het venster **Kasboek** op het sneltabblad **Regel** de vereiste velden in zoals beschreven in de volgende tabel.  
-  
+
     |Veld|Description|  
     |---------------------------------|---------------------------------------|  
     |**Datum**|De dagboekboekingsdatum.|  
@@ -44,31 +42,28 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u het kas- en het bankbo
     |**Beschrijving**|De omschrijving van de post. Dit veld vult automatisch de omschrijving van het geselecteerde rekeningnummer in het veld **Rekeningnr.** in.|  
     |**Btw-productboekingsgroep**|De btw-productboekingsgroepscode die wordt gebruikt om de post te boeken. U kunt in dit veld alleen een code selecteren als het **Rekeningsoort** **Grootboekrek.** is. Zie Btw-productboekingsgroepen voor meer informatie.|  
     |**Bedrag**|Het totale bedrag waaruit de afschriftregel bestaat. U moet het debetbedrag zonder plus- of minteken invoeren en het creditbedrag met een minteken invoeren.<br /><br /> Als dit bedrag het btw-bedrag omvat, selecteert u het selectievakje **Bedrag incl. btw**.|  
-  
-4.  Klik op het tabblad **Start** in de groep **Verwerken** op **Boeken**.  
-  
+
+4.  Kies de actie **Boeken**.  
+
     > [!NOTE]  
     >  Als er een verschil is tussen het beginsaldo en het eindsaldo, moet u het eindsaldo vóór het boeken van de post wijzigen.  
-  
+
      De posten worden naar het grootboek geboekt. Zie Gootboekposten voor meer informatie.  
-  
-### <a name="to-post-bank-or-giro-journals"></a>Bank- of giroboeken boeken  
-  
-1.  Kies het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Bank-/giroboek** in en klik vervolgens op de gerelateerde koppeling.  
-  
-2.  Kies op het tabblad **Start** de optie **Nieuw**.  
-  
+
+## <a name="to-post-bank-or-giro-journals"></a>Bank- of giroboeken boeken  
+
+1.  Kies het pictogram ![Zoeken naar pagina of rapport](../../media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Bank-/giroboek** in en klik vervolgens op de gerelateerde koppeling.  
+2.  Kies de actie **Nieuw**.  
 3.  Selecteer de relevante dagboeksjabloon en kies vervolgens de knop **OK**.  
-  
 4.  Vul in het venster **Bank-/girodagboek** de velden in, zoals is beschreven in de volgende tabel.  
-  
+
     |Veld|Description|  
     |---------------------------------|---------------------------------------|  
     |**Beginsaldo**|Het huidige saldo van de bankrekening of girorekening. Dit is gelijk aan het eindsaldo van de eerder geboekte posten voor het dagboek.|  
     |**Eindsaldo**|Het nieuwe eindsaldo van het dagboek.|  
-  
+
 5.  Vul op het sneltabblad **Regels** de vereiste velden in, zoals in de volgende tabel is beschreven.  
-  
+
     |Veld|Description|  
     |---------------------------------|---------------------------------------|  
     |**Datum**|De dagboekboekingsdatum.|  
@@ -78,15 +73,14 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u het kas- en het bankbo
     |**Beschrijving**|De omschrijving van de post.|  
     |**Btw-productboekingsgroep**|De btw-productboekingsgroep die wordt gebruikt wanneer u de post op de afschriftregel boekt.|  
     |**Bedrag**|Het totale bedrag waaruit de afschriftregel bestaat. U moet het debetbedrag zonder plus- of minteken invoeren en het creditbedrag met een minteken invoeren.<br /><br /> Als dit bedrag het btw-bedrag omvat, selecteert u het selectievakje **Bedrag incl. btw**.|  
-  
-6.  Klik op het tabblad **Start** in de groep **Verwerken** op **Boeken**.  
-  
-    > [!NOTE]  
-    >  Als er een verschil is tussen het beginsaldo en het eindsaldo, moet u het eindsaldo vóór het boeken van de post wijzigen.  
-  
-     De posten worden naar het grootboek geboekt. Zie Gootboekposten voor meer informatie.  
-  
+
+6.  Kies de actie **Boeken**.  
+
+> [!NOTE]  
+>  Als er een verschil is tussen het beginsaldo en het eindsaldo, moet u het eindsaldo vóór het boeken van de post wijzigen.  
+
+De posten worden naar het grootboek geboekt. Zie Gootboekposten voor meer informatie.  
+
 ## <a name="see-also"></a>Zie ook  
- [Procedure: De testrapporten afdrukken voor kasboeken, bankboeken of giroboeken](how-to-print-the-test-reports-for-cash-and-bank-or-giro-journals.md)   
- Btw-productboekingsgroepen   
- Grootboekposten
+ [Procedure: De testrapporten afdrukken voor kasboeken, bankboeken of giroboeken](how-to-print-the-test-reports-for-cash-and-bank-or-giro-journals.md)
+

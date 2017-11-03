@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fd257dc9a0b52160ccce7153505a4665552b26a7
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ba71815bc7d099b7f600ab828dec579ddbf2265a
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-work-centers-and-machine-centers"></a>Procedure: Afdelingen en bewerkingsplaatsen instellen
@@ -64,7 +64,7 @@ Hier wordt voornamelijk beschreven hoe u een afdeling instelt. De stappen voor h
     > [!NOTE]  
     > Als u kiest voor het gebruik van dagen, moet u eraan denken dat 1 dag bestaat uit 24 uur en niet uit 8 (werkuren).
 
-13.  Definieer in het veld **Capaciteit** of er op de afdeling meer dan één machine of persoon tegelijkertijd aan het werk zijn. Wanneer in **Productnaam** niet de module Bewerkingsplaats is geïnstalleerd, moet de waarde in dit veld **1** zijn.  
+13.  Definieer in het veld **Capaciteit** of er op de afdeling meer dan één machine of persoon tegelijkertijd aan het werk zijn. Wanneer in [!INCLUDE[d365fin](includes/d365fin_md.md)] niet de module Bewerkingsplaats is geïnstalleerd, moet de waarde in dit veld **1** zijn.  
 14.  Voer in het veld **Efficiëntie** het percentage van de verwachte standaardoutput in dat deze afdeling werkelijk oplevert. Wanneer u hier **100** invoert, betekent dit dat de werkelijke output van de afdeling net zo hoog is als de standaardoutput.  
 15. Schakel het selectievakje **Geconsolideerde agenda** in als u ook bewerkingsplaatsen gebruikt. Hierdoor worden agendaposten berekend op basis van bewerkingsplaatsagenda's.  
 16.  Selecteer een productieagenda in het veld **Productieagendacode**. Zie voor meer informatie [Procedure: Productieagenda's maken](production-how-to-create-work-center-calendars.md).  

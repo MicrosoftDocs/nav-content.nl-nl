@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365, setup, wizard, experience
 ms.date: 03/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 30074087545e8ca01b9a3cc956c8cc6ef938d8ae
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 8a7683886f3f823e8bdbd47b007f58c2c65c0f2d
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="getting-ready-for-doing-business"></a>Uzelf gereedmaken om zaken te doen.
@@ -39,8 +39,8 @@ Op de startpagina vindt u onderaan het navigatiedeelvenster het menu **Instellin
 Wanneer u een begeleide instelling uitvoert, wordt deze gemarkeerd als **Voltooid**. Als u de begeleide instelling wilt uitvoeren, kiest u de drie puntjes die ook het contextmenu worden genoemd, en selecteert u vervolgens **Instelling starten**.
 
 ## <a name="home"></a>Thuis
-Op de startpagina hebt u een overzicht van het bedrijf. Aan de linkerkant ziet u een navigatiebalk die u gemakkelijk toegang geeft aan klanten, leveranciers, artikelen, enzovoort. In het midden vindt u de tegels **Activiteiten**. Bij **Activiteiten** worden actuele gegevens weergegeven en u kunt klikken en tikken op de activiteiten voor gemakkelijke toegang tot het geselecteerde document. De **KPI´s** (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven. U kunt ook een lijst met **Favoriete klanten** maken op de startpagina voor de accounts met wie u vaak zaken doet of aan wie u speciale aandacht moet geven.
-Gebruik de pijlen om een deel van de pagina samen te vouwen en meer ruimte te maken om specifieke gegevens weer te geven. Boven aan de startpagina vindt u alle acties die op de huidige inhoud kunnen worden toegepast. Dit kan ook worden samengevouwen en u hoeft alleen te klikken of te tikken binnen het samengevouwen gebied om het opnieuw weer te geven.
+Op de startpagina hebt u een overzicht van het bedrijf. Aan de linkerkant ziet u een navigatiebalk die u gemakkelijk toegang geeft aan klanten, leveranciers, artikelen, enzovoort. In het midden vindt u de tegels **Activiteiten**. Bij **Activiteiten** worden actuele gegevens weergegeven en u kunt activiteiten kiezen of erop tikken voor gemakkelijke toegang tot het geselecteerde document. De **KPI´s** (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven. U kunt ook een lijst met **Favoriete klanten** maken op de startpagina voor de accounts met wie u vaak zaken doet of aan wie u speciale aandacht moet geven.
+Gebruik de pijlen om een deel van de pagina samen te vouwen en meer ruimte te maken om specifieke gegevens weer te geven. Boven aan de startpagina vindt u alle acties die op de huidige inhoud kunnen worden toegepast. Dit kan ook worden samengevouwen en u hoeft alleen te kiezen of te tikken binnen het samengevouwen gebied om het opnieuw weer te geven.
 
 ## <a name="company-information"></a>Bedrijfsgegevens
 Onder **Bedrijfsinstellingen** kunt u instellingsgegevens over het huidige bedrijf bekijken en bewerken. Hiervan is een groot deel vooraf ingevuld als u de begeleide instelling **Bedrijf instellen** hebt voltooid toen u zich voor [!INCLUDE[d365fin](includes/d365fin_md.md)] aanmeldde. Als u het bedrijfslogo, relatiegegevens, bankinstellingen of belastinggegevens wilt wijzigen, kunt u dat in dit venster doen.    

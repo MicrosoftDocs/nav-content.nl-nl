@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 42ada458f7cdeced83ee9bceb4b997691f3cf8bb
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2a58da6d3b8a651016c842c083f1954fad3fd7a1
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="design-details-internal-warehouse-flows"></a>Ontwerpdetails: Inkomende magazijnstromen
@@ -103,7 +103,7 @@ De artikelenstroom tussen opslaglocaties op een bedrijfsvestiging is gericht op 
 1.  De winkelsupervisor geeft de productieorder vrij. Artikelen met de afboekingsmethode **Voorwaarts** zonder routeringskoppeling worden afgetrokken van de grijpvoorraadlocatie.  
 2.  De winkelsupervisor kiest de knop **Magazijnpick maken** op de productieorder. Er wordt een magazijnpickdocument gemaakt voor artikelen met de afboekingsmethoden **Handmatig**, **Pick + Achterwaarts** en **Pick + Voorwaarts**. Deze artikelen worden in de verbruikslocatie geplaatst.  
 3.  De magazijnmanager wijst de picks toe aan een magazijnmedewerker.  
-4.  De magazijnmedewerker pickt de artikelen uit de betreffende opslaglocaties en plaatst ze in de verbruikslocatie of in de opslaglocatie die is opgegeven in de magazijnpick. Dit kan de opslaglocatie van een afdeling of bewerkingsplaats zijn).  
+4.  De magazijnmedewerker pickt de artikelen uit de betreffende opslaglocaties en plaatst ze in de verbruikslocatie of in de opslaglocatie die is opgegeven in de magazijnpick. Dit kan de opslaglocatie van een afdeling of bewerkingsplaats zijn.  
 5.  De magazijnmedewerker registreert de pick. Het aantal wordt afgetrokken van de opslaglocaties en toegevoegd aan de verbruikopslaglocatie. Het veld **Gepickt aantal** op de onderdelenlijst voor alle gepickte artikelen wordt bijgewerkt.  
 
     > [!NOTE]  

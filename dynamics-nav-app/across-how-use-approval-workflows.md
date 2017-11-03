@@ -12,10 +12,10 @@ ms.search.keywords: reject, delegate, request
 ms.date: 08/24/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d082bd0e34fc3d0f57d11bbd38f2d41492c63d2d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b0cd3c6c2465c29d5e4710ae2ef13e3f42522245
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-use-approval-workflows"></a>Procedure: Goedkeuringswerkstromen gebruiken
@@ -25,7 +25,7 @@ U stelt goedkeuringswerkstromen in het venster **Werkstroom** in. Zie voor meer 
 
 Naast werkstromen voor goedkeuring die in dit onderwerp worden beschreven kunt u verschillende andere werkstroomtaken uitvoeren. Zie voor meer informatie [Werkstromen gebruiken](across-use-workflows.md).
 
-Kerngoedkeuringswerkstromen voor inkoopdocumenten, verkoopdocumenten, betalingsdagboeken, klantenkaarten en artikelkaarten zijn gereed om als begeleide instellingen te dienen. Zie [Welkom bij [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md) voor meer informatie.
+Kerngoedkeuringswerkstromen voor inkoopdocumenten, verkoopdocumenten, betalingsdagboeken, klantenkaarten en artikelkaarten zijn gereed om als begeleide instellingen te dienen. Zie voor meer informatie [Welkom bij [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md).
 
 ## <a name="to-request-approval-of-a-record"></a>Goedkeuring van een record aanvragen
 De volgende taak wordt uitgevoerd door een fiatteurgebruiker.

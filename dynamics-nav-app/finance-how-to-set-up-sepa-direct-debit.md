@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5bd6388db1d72d6be0fb193a51df620e7e059c2
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b768f78cd8ef7f6981e5e148fee5f61e9ab922ee
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-sepa-direct-debit"></a>Procedure: Automatische incasso via SEPA instellen
@@ -38,7 +38,7 @@ Voordat u betalingen van klanten elektronisch kunt verwerken door instructies vo
 2. Kies de actie **Nieuw**.  
 3. Een betalingswijze instellen. Vul de specifieke velden voor automatische incasso in, zoals in de volgende tabel is beschreven.  
 
-    |Veld|[Omschrijving|  
+    |Veld|Description|  
     |---------------------------------|---------------------------------------|  
     |**Incasso**|Geef aan of de betalingsmethode wordt gebruikt voor verzameling automatische incasso van SEPA.|  
     |**Betalingscondities van betaling per incasso**|Geef de betalingsvoorwaarden, bijvoorbeeld NIET BETALEN die worden weergegeven op de verkoopfacturen die worden betaald via automatische incasso van SEPA om aan te geven aan de klant dat de betaling automatisch wordt geïnd. U kunt het veld ook leeg laten.|  
@@ -59,7 +59,7 @@ Voordat u betalingen van klanten elektronisch kunt verwerken door instructies vo
 4. Selecteer in het venster **Bankrekeningen klant** de bankrekening van de klant die wordt gebruikt voor automatische incasso en kies vervolgens op het tabblad **Start** in de groep **Verwerken** de optie **Machtigingen voor automatische incasso**.  
 5. Vul in het venster **SEPA Incasso Machtiging** de velden in, zoals is beschreven in de volgende tabel.  
 
-    |[Veld|Omschrijving]|  
+    |Veld|Description|  
     |---------------------------------|---------------------------------------|  
     |**Bankrekeningcode van klant**|Geeft de bankrekening op waarop betalingen voor automatische incasso worden verzameld. Dit veld wordt automatisch ingevuld.|  
     |**Geldig vanaf**|Geef de datum op wanneer de incassomachtiging begint.|  

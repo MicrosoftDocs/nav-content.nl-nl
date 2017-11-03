@@ -12,24 +12,29 @@ ms.search.keywords: integration, synchronize, map
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f3c9cff4094395a1f06ba04ba2476de76c4a04a1
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 3f26a80427a2a1c38949ca94848751527383d7f9
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="managing-your-customer-relationships-using-dynamics-365-for-sales-from-inside-dynamics-nav"></a>Uw klantrelaties beheren met Dynamics 365 for Sales vanuit Dynamics NAV
+# <a name="managing-customers-and-sales-created-in-dynamics-365-for-sales"></a>Klanten en verkopen beheren die in Dynamics 365 for Sales zijn gemaakt
 Als u Dynamics 365 for Sales gebruikt voor contacten met klanten, kunt u [!INCLUDE[d365fin](includes/d365fin_md.md)] gebruiken voor orderverwerking en financiën en profiteren van naadloze integratie in het proces van potentiële klant naar inkomsten.
 
 Als uw toepassing is ingesteld voor integratie met Dynamics 365 for Sales, hebt u toegang tot gegevens in Sales vanuit [!INCLUDE[d365fin](includes/d365fin_md.md)] en in sommige gevallen ook andersom. Dankzij deze integratie kunt u werken met gegevenstypen die voor beide services worden gebruikt, zoals klanten, contacten en verkoopinformatie, deze gegevenstypen synchroniseren en de gegevens in beide locaties up-to-date houden.  
 
-De verkoper in Dynamics 365 for Sales kan bijvoorbeeld prijslijsten van [!INCLUDE[d365fin](includes/d365fin_md.md)] gebruiken bij het opstellen van een verkooporder. Als hij het artikel toevoegt aan de verkooporderregel in Dynamics 365 for Sales, kan hij ook het voorraadniveau (de beschikbaarheid) van het artikel zien vanuit [!INCLUDE[d365fin](includes/d365fin_md.md)]. Deze gegevens worden gepubliceerd als onderdeel van de begeleide instelling **Dynamics 365-verbinding instellen**.  
+De verkoper in Dynamics 365 for Sales kan bijvoorbeeld prijslijsten van [!INCLUDE[d365fin](includes/d365fin_md.md)] gebruiken bij het opstellen van een verkooporder. Als hij het artikel toevoegt aan de verkooporderregel in Dynamics 365 for Sales, kan hij ook het voorraadniveau (de beschikbaarheid) van het artikel zien vanuit [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Orderverwerkers in [!INCLUDE[d365fin](includes/d365fin_md.md)] kunnen ook de speciale kenmerken verwerken van verkooporders die automatisch of handmatig zijn overgebracht uit Dynamics 365 for Sales, zoals het automatisch maken en boeken van geldige verkooporderregels voor artikelen of resources die in Sales zijn ingevoerd als inschrijfproducten. Zie voor meer informatie het gedeelte "Speciale verkoopordergegevens verwerken".  
+
+> [!NOTE]
+> Voor de integratie met Dynamics 365 for Sales moet u verschillende technische voorbereidingen treffen. Zie voor meer informatie [Procedure: Een Microsoft Dynamics CRM-verbinding instellen](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-set-up-a-dynamics-crm-connection) en [Procedure: Dynamics CRM voorbereiden voor integratie](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-prepare-dynamics-crm-for-integration) op MSDN.
 
 ## <a name="setting-up-the-connection"></a>De verbinding instellen
-Vanaf de startpagina kunt u de begeleide instelling **Dynamics 365-verbinding instellen** starten om de verbinding tot stand te brengen. Als dat is gedaan, hebt u een naadloze koppeling tussen records in Dynamics 365 for Sales en records in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Vanaf de startpagina kunt u de begeleide instelling **Dynamics 365 for Sales-verbinding instellen** starten om de verbinding tot stand te brengen. Als dat is gedaan, hebt u een naadloze koppeling tussen records in Dynamics 365 for Sales en records in [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 
 > [!NOTE]  
->   Hierna wordt de begeleide instelling toegelicht, maar u kunt dezelfde stappen ook handmatig uitvoeren in het venster **Dynamics 365-verbinding instellen**.
+> Hierna wordt de begeleide instelling toegelicht, maar u kunt dezelfde stappen ook handmatig uitvoeren in het venster **Dynamics 365 for Sales-verbinding instellen**.
 
 In de begeleide instelling kunt u kiezen welke gegevens tussen de twee services moeten worden gesynchroniseerd. U kunt ook opgeven dat u uw bestaande Dynamics 365 for Sales-oplossing wilt importeren. In dat geval moet u een beheeraccount opgeven.
 
@@ -75,6 +80,13 @@ Aan het eind van de begeleide instelling kunt u de actie **Volledige synchronisa
 Als u de voortgang van afzonderlijke taken in een volledige synchronisatie wilt controleren, zoomt u in op een van de velden **Status van taakwachtrijpost**, **Naar projectstatus van integratietabel** of **Van projectstatus van integratietabel** in het venster **Controle van volledige CRM-synchronisatie** in.
 
 Vanuit het venster **Dynamics 365-verbinding instellen** kunt u informatie over de volledige synchronisatie op ieder gewenst moment oproepen. Van hieruit kunt u ook het venster **Toewijzingen van integratietabellen** openen, waarin u details van de tabellen in Dynamics NAV en in de te synchroniseren Dynamics 365 for Sales-oplossing kunt zien.
+
+## <a name="handling-special-sales-order-data"></a>Speciale verkoopordergegevens verwerken
+Verkooporders in Dynamics 365 for Sales worden automatisch overgebracht naar [!INCLUDE[d365fin](includes/d365fin_md.md)] als u het selectievakje **Automatisch verkooporders maken** inschakelt in het venster **Microsoft Dynamics 365 for Sales-verbinding instellen**. Voor deze verkooporders wordt het veld **Naam** op de oorspronkelijke order overgebracht en toegewezen aan het veld **Extern documentnummer** op de verkooporder op [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Dit werkt ook als de oorspronkelijke verkooporder inschrijfproducten bevat met artikelen of resources die niet in een van beide producten zijn geregistreerd. In dat geval vult u de velden **Inschrijfproductsoort** en **Inschrijfproductnummer** in in het venster **Instellingen van verkoop en tegoeden**, zodat deze niet-geregistreerde productverkopen worden gekoppeld aan een specifiek artikel-/resourcenummer voor financiële analyse.
+
+Als de artikelomschrijving op de oorspronkelijke verkooporder erg lang is, wordt een extra verkooporderregel van het type Opmerking gemaakt zodat de volledige tekst wordt opgenomen in de verkooporder in [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="see-also"></a>Zie ook
 [Relatiebeheer](marketing-relationship-management.md)  

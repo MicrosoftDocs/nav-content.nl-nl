@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e41e0eb6dd10127a47b2b6545d0333db700586bc
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: d83e68f31edf2dee9e3e5bc5b73a4861cfe919d7
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="exchanging-data"></a>Gegevens uitwisselen
@@ -29,7 +29,7 @@ Voordat u documenten elektronisch kunt verzenden en ontvangen of bankbestanden k
 |Converteer records van verkoopdocumenten in [!INCLUDE[d365fin](includes/d365fin_md.md)] naar een gestandaardiseerde indeling en verstuur ze als elektronische documenten die uw klanten kunnen ontvangen in hun systeem.|[Procedure: Elektronische documenten verzenden](sales-how-to-send-electronic-documents.md)|  
 |Verzend PDF- of afbeeldingsbestanden naar een aanbieder van OCR-services en ontvang deze terug als elektronische documenten die kunnen worden geconverteerd naar documentrecords in [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Procedure: OCR gebruiken om PDF- en afbeeldingsbestanden te converteren naar elektronische documenten](across-how-use-ocr-pdf-images-files.md)|  
 |Elektronische documenten van de OCR-service of de service voor documentuitwisseling ontvangen in een gestandaardiseerde indeling die u kunt converteren naar de relevante documentrecords in [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Procedure: Elektronische documenten ontvangen en converteren](purchasing-how-to-receive-and-convert-electronic-documents.md)|  
-|Een bankafschriftbestand importeren in het venster **Betalingsreconciliatiedagboek** als de eerste stap bij de afstemming van betalingen of in het venster **Bankreconciliatie** als eerste stap bij het afstemmen van bankrekeningen.|[Betalingen automatisch vereffenen en bankrekeningen reconciliëren][Betalingen automatisch vereffenen en bankrekeningen reconciliëren](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
+|Een bankafschriftbestand importeren in het venster **Betalingsreconciliatiedagboek** als de eerste stap bij de afstemming van betalingen of in het venster **Bankreconciliatie** als eerste stap bij het afstemmen van bankrekeningen.|[Betalingen automatisch vereffenen en bankrekeningen reconciliëren](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
 |Betalingen uit het venster **Betalingsdagboek** exporteren naar een bankbestand dat u uploadt naar uw elektronische bankrekening voor verwerking.|[Procedure: Betalingen naar een bankbestand exporteren](payables-how-export-payments-bank-file.md)|  
 |Vraag uw bank bedragen van betalingen van bankrekeningen van uw klanten over te brengen naar uw bedrijfsrekening volgens uw instellingen voor automatische incasso van SEPA.|[Procedure: SEPA-verzamelingsposten van automatische incasso maken en exporteren naar een bankbestand](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)|  
 |Gebruik een serviceprovider van valutawisselkoersen om het venster **Valuta's** bij te werken.|[Procedure: Valutawisselkoersen bijwerken](finance-how-update-currencies.md)|  

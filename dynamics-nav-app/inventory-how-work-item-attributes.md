@@ -12,10 +12,10 @@ ms.search.keywords: categories, search words, facets
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: afc4e69a427fc2a1d97037489dda99486ddb010a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 32de1ddb65b2862ae1e1223bb386cd332cb43a3d
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-item-attributes"></a>Procedure: Werken met artikelkenmerken
@@ -24,7 +24,7 @@ Wanneer klanten informeren naar een artikel, via correspondentie of via een geï
 U kunt ook artikelkenmerken aan artikelcategorieën toewijzen, die vervolgens worden toegepast op de artikelen die de artikelcategorieën gebruiken. Zie [Procedure: Artikelen categoriseren](inventory-how-categorize-items.md) voor meer informatie.
 
 > [!Tip]  
-> Als u afbeeldingen aan artikelen koppelt, kan de extensie Afbeeldingsanalyse kenmerken in de afbeelding detecteren en de kenmerken voorstellen, zodat u kunt besluiten of u deze toewijst. De extensie is klaar. U hoeft deze alleen in te schakelen. Zie [De extensie Afbeeldingsanalyse voor Microsoft Dynamics NAV](ui-extensions-image-analyzer.md) voor meer informatie.
+> Als u afbeeldingen aan artikelen koppelt, kan de extensie Afbeeldingsanalyse kenmerken in de afbeelding detecteren en de kenmerken voorstellen, zodat u kunt besluiten of u deze toewijst. De extensie is klaar. U hoeft deze alleen in te schakelen. Zie [De extensie Afbeeldingsanalyse voor [!INCLUDE[navnow](includes/navnow_md.md)]](ui-extensions-image-analyzer.md) voor meer informatie.
 
 ## <a name="to-create-item-attributes"></a>Artikelkenmerken maken
 1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Artikelkenmerken** in en klik vervolgens op de gerelateerde koppeling.

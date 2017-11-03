@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/13/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a86031e20e7a5de266405166ee8025cde7221602
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2ea54861f8203406cf6c9d110ad2317b8f883dde
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 #  <a name="how-to-analyze-data-by-dimensions"></a>Procedure: Gegevens analyseren per dimensie
@@ -50,7 +50,7 @@ U kunt de matrix **Analyse per dimensie** gebruiken om de bedragen in uw grootbo
 >   U kunt geen periode selecteren die korter is dan de opgegeven periode voor datumcompressie op de **Analyseweergave**-kaart. De opdrachten **Volgende set** en **Vorige set** zijn niet ingeschakeld als u **Periode** hebt geselecteerd in het veld **Als regels weergeven** of **Als kolommen weergeven**.  
 
 > [!NOTE]  
->   Met de lijst **Dimensies - detail** kunt u een gedetailleerde classificatie weergeven van de wijze waarop dimensies zijn gebruikt voor posten gedurende een geselecteerde periode. Met de lijst **Dimensies - totaal** kunt u alleen de totale bedragen weergeven.  
+>   Met de lijst **Dimensies - detail** kunt u een gedetailleerde classificatie weergeven van de wijze waarop dimensies zijn gebruikt voor posten gedurende een geselecteerde periode. Gebruik de lijst **Dimensies - totaal** voor een overzicht van de totale bedragen.  
 
 > [!TIP]  
 >   U kunt de weergave ook wijzigen door de inhoud van het veld **Als regels weergeven** en het veld **Als kolommen weergeven** te veranderen. Als u een weergave-instelling wilt omkeren, kiest u de actie **Regels en kolommen omkeren**.

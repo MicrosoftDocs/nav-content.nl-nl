@@ -12,10 +12,10 @@ ms.search.keywords: video, library, how to
 ms.date: 06/02/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25d26af01e3006fccf025d0f7c146e0bc8f501ee
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 456bdf12b9fc30e3845b83099759df1b83935d56
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="visit-our-video-library"></a>Bezoek onze videobibliotheek
@@ -35,8 +35,8 @@ U kunt op meerdere manieren toegang tot de video's krijgen. Als u al werkt in [!
 
 > [!Tip]  
 > Naast video's bevat **Bedrijfsassistentie** resources zoals koppelingen naar onderwerpen en begeleide instellingen die het eenvoudiger maken zaken in te stellen. Deze resources vervangen het diagram in het rolcentrum. Nadat u resources hebt bekeken, kunt u teruggaan naar het diagram in het menu **Bedrijfsassistentie** door **Diagram weergeven** te kiezen.  
-  
-U kunt onze procedurevideo's en veel andere inhoud bekijken in het YouTube-kanaal dat we hebben gemaakt voor Microsoft Dynamics NAV Als u het kanaal nu wilt bezoeken, [klikt u hier](https://go.microsoft.com/fwlink/?linkid=851533).
+
+U kunt onze procedurevideo's en veel andere inhoud bekijken in het YouTube-kanaal dat we hebben gemaakt voor [!INCLUDE[navnow](includes/navnow_md.md)] Als u het kanaal nu wilt bezoeken, [kiest u dit](https://go.microsoft.com/fwlink/?linkid=851533).
 
 ## <a name="see-also"></a>Zie ook
 [Welkom bij [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] ](index.md)

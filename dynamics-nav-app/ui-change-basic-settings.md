@@ -12,10 +12,10 @@ ms.search.keywords: change Role Center, notification, change company, change wor
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1fd559bd0bf213a745f0c567c2b2d5721071c553
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cf5a74cea6d7906845a0e087576ab090c319f297
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="changing-basic-settings"></a>Basisinstellingen wijzigen
@@ -24,9 +24,9 @@ In het venster **Mijn instellingen** kunt u basisinstellingen bekijken en wijzig
 ## <a name="role-center"></a>Rolcentrum
 Het rolcentrum vertegenwoordigt de startpagina, een pagina die is ontworpen voor de vereisten van de rol. Op de startpagina hebt u een overzicht van het bedrijf. Aan de linkerkant ziet u een navigatiebalk die u gemakkelijk toegang geeft aan klanten, leveranciers, artikelen, enzovoort.
 
-In het midden vindt u de tegels Activiteiten. Bij Activiteiten worden actuele gegevens weergegeven en u kunt klikken en tikken op de activiteiten voor gemakkelijke toegang tot het geselecteerde document. De KPI´s (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven.
+In het midden vindt u de tegels Activiteiten. Bij Activiteiten worden actuele gegevens weergegeven en u kunt activiteiten kiezen of erop tikken voor gemakkelijke toegang tot het geselecteerde document. De KPI´s (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven.
 
-U kunt ook een lijst met favoriete klanten maken op de startpagina voor de accounts met wie u vaak zaken doet of aan wie u speciale aandacht moet geven. Gebruik de pijlen om een deel van de pagina samen te vouwen en meer ruimte te maken om specifieke gegevens weer te geven. Boven aan de startpagina vindt u alle acties die op de huidige inhoud kunnen worden toegepast. Dit kan ook worden samengevouwen en u hoeft alleen te klikken of te tikken binnen het samengevouwen gebied om het opnieuw weer te geven.
+U kunt ook een lijst met favoriete klanten maken op de startpagina voor de accounts met wie u vaak zaken doet of aan wie u speciale aandacht moet geven. Gebruik de pijlen om een deel van de pagina samen te vouwen en meer ruimte te maken om specifieke gegevens weer te geven. Boven aan de startpagina vindt u alle acties die op de huidige inhoud kunnen worden toegepast. Dit kan ook worden samengevouwen en u hoeft alleen te kiezen of te tikken binnen het samengevouwen gebied om het opnieuw weer te geven.
 
 Het standaardrolcentrum is **Bedrijfsmanager**, maar u kunt een ander rolcentrum selecteren dat beter aan uw behoeften voldoet. Zie [Procedure: Het rolcentrum wijzigen](change-role.md) voor meer informatie.
 

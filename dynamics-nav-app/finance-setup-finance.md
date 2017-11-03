@@ -12,10 +12,10 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 08/10/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="setting-up-finance"></a>Financiën instellen
@@ -39,12 +39,12 @@ In de volgende tabel wordt een reeks taken beschreven, met koppelingen naar de b
 | Intrastat-rapportage instellen en het rapport indienen bij een autoriteit | [Procedure: Intrastat instellen en rapporteren](finance-how-setup-report-intrastat.md)|
 
 ## <a name="see-also"></a>Zie ook
-[Financiën](finance.md)]  
+[Financiën](finance.md)  
 [Bankrekeningen beheren](bank-manage-bank-accounts.md)  
 [Werken met dimensies](finance-dimensions.md)  
 [Bedrijfsgegevens importeren uit andere financiële systemen](upload-data.md)  
 [Cashflow in uw bedrijf analyseren](finance-analyze-cash-flow.md)  
 [Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-## 
+##
 

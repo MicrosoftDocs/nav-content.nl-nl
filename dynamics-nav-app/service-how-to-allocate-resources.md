@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fb0d7651e9ffb273f7aecedf5ff5072a1235b992
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7882727735c38a11281ef22ac94b82f543b712b7
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
@@ -36,7 +36,7 @@ U hebt misschien vaak het overzicht nodig van serviceorders of serviceoffertes d
 6. Als u een lijst wilt krijgen met documenten die bij een bepaald(e) contract/klant/zone horen, vult u het veld **Contractfilter/Klantfilter/Zonefilter** in en drukt u op **Enter**.  
 7. Kies een regel die bij een serviceorder of -offerte hoort en kies de actie **Document weergeven**.  
 
-    De pagina **Serviceorder** of **Serviceofferte** wordt geopend en u kunt werken met het document. Klik op **OK** om terug te keren naar de pagina **Planbord**.
+    De pagina **Serviceorder** of **Serviceofferte** wordt geopend en u kunt werken met het document. Als u wilt terugkeren naar de pagina **Planbord** , kiest u de knop **OK**.
 
 ## <a name="to-allocate-a-resource-using-resource-or-resource-group-availability"></a>Resources toewijzen op basis van resource- of resourcegroepbeschikbaarheid    
 1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Planbord** in en klik vervolgens op de gerelateerde koppeling.  

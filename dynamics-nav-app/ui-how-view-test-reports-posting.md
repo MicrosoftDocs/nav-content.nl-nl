@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9666627da75d88a5f7cf467b9e7cdaeba67c75cf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1c197576564f4fe88a92d06c43e2b237f6836aa1
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-test-reports-before-posting"></a>Procedure: Testrapporten weergeven vóór boeken
@@ -24,7 +24,7 @@ Wanneer u een document, zoals een order, factuur of een creditnota, wilt boeken,
 >   De volgende procedure is over het testen vóór het boeken van een inkoopdocument. De functionaliteit werkt op dezelfde manier voor verkoopdocumenten.
 
 ## <a name="to-print-a-test-report-before-posting-a-purchase-invoice"></a>Een controlelijst afdrukken vóór het boeken van een inkoopfactuur
-1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Inkoopfacturen** in en selecteer vervolgens de gerelateerde koppeling.
+1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Inkoopfacturen** in en klik vervolgens op de gerelateerde koppeling.
 2. Open de inkoopfactuur die u wilt controleren.
 3. Kies de actie **Testrapport**.  
 

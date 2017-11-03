@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, Intrastat, trade, EU, European Union
 ms.date: 08/15/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 210d8290c7f281d9dc63dc520cf0be71b9a20233
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1eb3a9a17f07806546022d941f923bc195c7c7fc
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-and-report-intrastat"></a>Procedure: Intrastat instellen en rapporteren
@@ -74,7 +74,7 @@ Nadat u het Intrastat-dagboek hebt ingevuld, kunt u het rapport **Controlelijst*
 
 ### <a name="to-fill-in-intrastat-journals"></a>Intrastat-dagboeken invullen  
 1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Intrastat-dagboek** in en klik vervolgens op de gerelateerde koppeling.  
-2. Kies op de pagina **Intrastat-dagboek** de relevante dagboekbatch in het veld **Batchnaam** en kies **OK**.  
+2. Kies op de pagina **Intrastat-dagboek** de relevante dagboekbatch in het veld **Batchnaam** en kies vervolgens **OK**.  
 3. Kies de actie **Regels voorstellen**. In de velden **Begindatum** en **Einddatum** zijn al de datums opgenomen die voor de statistiekperiode in de dagboekbatch zijn opgegeven.  
 4. U kunt een percentage voor transport en verzekering opgeven in het veld **Indirecte kosten %**. Als u een percentage opgeeft, wordt de inhoud van het veld **Statistiekwaarde** verhoudingsgewijs aangepast op basis van dit percentage.  
 5. Kies **OK** om de batchverwerking te starten.  
@@ -101,7 +101,7 @@ U kunt het Intrastat-rapport indienen als bestand. Voordat u het bestand maakt, 
 2. Selecteer in het venster **Intrastat-dagboek** de relevante dagboekbatch in het veld **Batchnaam**.  
 3. Als u dit nog niet hebt gedaan, vult u het dagboek handmatig in of kiest u **Regels voorstellen**.  
 4. Kies de actie **Bestand maken**.  
-5. Klik in het venster van de batchverwerking op **OK**.  
+5. Kies **OK** in het venster voor batchverwerking.  
 6. Kies **Opslaan**.  
 7. Blader naar de locatie waar u het bestand wilt opslaan, voer de bestandsnaam in en kies **Opslaan**. 
 

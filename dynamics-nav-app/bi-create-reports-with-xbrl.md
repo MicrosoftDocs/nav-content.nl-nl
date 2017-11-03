@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a176a50bd969621d6693b31f451ec001991eb25f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: fceccd8dbeb391176f888bccbc3e24f7e2a4b0b6
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-reports-with-xbrl"></a>Procedure: Rapporten maken met XBRL
@@ -107,5 +107,5 @@ Als een taxonomie verandert, moet u de huidige taxonomie overeenkomstig bijwerke
 ## <a name="see-also"></a>Zie ook
 [Financiën](finance.md)    
 [Bedrijfsinformatie](bi.md)  
-[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)](ui-work-product.md)
+[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

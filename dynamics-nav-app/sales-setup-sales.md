@@ -12,10 +12,10 @@ ms.search.keywords: trade, sell, configure
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 620d8d2fcdc62249ce5bad6718519211e50cdbac
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="setting-up-sales"></a>Verkopen instellen
@@ -35,7 +35,7 @@ Verkoopinstellingen met betrekking tot financiën, zoals betalingsmethoden en va
 | Stel verkopers in zodat u ze kunt toewijzen aan klantcontactpersonen of meet de prestaties van verkopers als basis om de commissie of bonus voor verkopen te berekenen. |[Procedure: Verkopers instellen](sales-how-setup-salespeople.md) |
 | Geef voor individuele klanten of voor alle klanten op hoe verkoopdocumenten standaard worden verzonden wanneer u de actie **Boeken en verzenden** kiest. |[Procedure: Verzendprofielen voor documenten instellen](sales-how-setup-document-send-profiles.md) |
 | Stel uw e-mail zo in dat deze een overzicht bevat van informatie in het verkoopdocument dat wordt verzonden. |[Procedure: Documenten per e-mail verzenden](ui-how-send-documents-email.md). |
-|Verifieer het btw-nummer van een klant door middel van een EU-webservice.|[Procedure: btw-nummers verifiëren](sales-how-to-verify-vat-registration-numbers.md)|
+|Verifieer het btw-nummer van een klant door middel van een EU-webservice.|[Procedure: btw-nummers verifiëren](finance-setup-vat.md)|
 |Informatie invoeren over de verschillende transporteurs die u gebruikt, met een koppeling naar hun service voor het traceren van pakketten.|[Procedure: expediteurs instellen](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>Zie ook

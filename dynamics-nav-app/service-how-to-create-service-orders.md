@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca6e6f1fd6bf6c9d9a26a9e42fca8b9c4931f89d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: aa0578c7311fcd997653c6dc6d31325abd1d367c
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-service-orders"></a>Procedure: Serviceorders maken
@@ -100,7 +100,7 @@ Serviceorders worden echter niet automatisch verwijderd als het totale aantal op
 
 1. Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Gefactureerde serviceorders verwijderen** in en klik vervolgens op de gerelateerde koppeling. Het opvraagvenster voor de batchverwerking **Gefactureerde serviceorders verwijderen** wordt geopend.  
 2. U kunt de orders selecteren die u wilt verwijderen door filters in te stellen in de velden **Nr.**, **Klantnr.** en **Factureren aan**. in.  
-3. Klik op **OK**.  
+3. Kies de knop **OK**.  
 
 
 ## <a name="see-also"></a>Zie ook  

@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/22/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8d7fa49b4ad7afa584baebd8f8c1d22738653fdf
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: fa6677e2f856fd22ff56139332aa307919b0ab96
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-serial-and-lot-numbers"></a>Procedure: Werken met serie- en lotnummers
@@ -219,7 +219,7 @@ De functionaliteit ondersteunt de volgende uitgaande processen:
 
 In deze gevallen worden de bestaande artikeltraceringsregels automatisch gekopieerd naar de factuur of creditnota. In het venster **Artikeltraceringsregels** worden echter geen wijzigingen toegestaan in de serie- of lotnummers. Alleen de hoeveelheden kunnen worden gewijzigd.  
 
-1.  Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Inkoopfacturen** in en selecteer vervolgens de gerelateerde koppeling.  
+1.  Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Inkoopfacturen** in en klik vervolgens op de gerelateerde koppeling.  
 2.  Open een inkoopfactuur voor artikelen die zijn aangekocht met serie- of lotnummers.  
 3.  Ga vanuit een inkoopfactuur naar het sneltabblad **Regels** en kies de actie **Ontvangstregels ophalen**.  
 4.  Selecteer in het venster **Ontvangstregels ophalen** een ontvangstregels met artikeltraceringsregels en kies vervolgens de knop **OK**.  

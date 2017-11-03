@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 853638b75e426e3eae383f3b5cc3a5d139c8885f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7eebca3303e9844e4ec8be2940104f9cb7216f6a
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-bank-data-conversion-service"></a>Veldtoewijzing bij het exporteren van betalingsbestanden via conversieservice bankgegevens
@@ -25,7 +25,7 @@ Wanneer u betalingsbestanden exporteert met de functie Conversieservice voor ban
 
 In de volgende tabel staan de velden in [!INCLUDE[d365fin](includes/d365fin_md.md)] waaruit de gegevens naar de serviceprovider kunnen worden geëxporteerd.  
 
-|Toegewezen veld|Veld in tabel|Tafel|Omschrijving]-->|  
+|Toegewezen veld|Veld in tabel|Tafel|Description|  
 |------------------|--------------------|-----------|---------------------------------------|  
 |Crediteurnummer|Crediteurnummer|Bankrekening|De identificatie die door uw bank aan uw bedrijf is toegewezen om betalingen te innen|  
 |Bankrekeningnummer afzender|Bankrekeningnr./IBAN|Bankrekening|Het bankrekeningnummer van uw bedrijf (IBAN of ander) dat is opgegeven op de bankrekeningkaart|  

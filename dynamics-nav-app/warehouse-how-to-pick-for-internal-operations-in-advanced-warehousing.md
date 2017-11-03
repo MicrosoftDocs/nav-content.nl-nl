@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4ae74ab552f39642344acc1ab54296994598c377
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 08b79f573a9fc013068f7e1f5dd593a596a579a3
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-pick-for-assembly-or-production-in-advanced-warehouse-configurations"></a>Procedure: Picken voor assemblage of productie in geavanceerde magazijnconfiguraties
@@ -29,7 +29,7 @@ Een magazijn-pickdocument kan niet van het begin af gemaakt worden, omdat een pi
 
 Bij een push-scenario kan een magazijn-pickdocument gemaakt worden door **Mag. Pick maken** in het brondocument te selecteren, zoals een vrijgegeven assemblageorder of een verzending uit het magazijn. Zie voor meer informatie [Procedure: artikelen picken met een magazijnpick](warehouse-how-to-pick-items-for-warehouse-shipment.md).  
 
-Tevens kunt u bij een pull-scenario een magazijn-pickdocument maken door het venster **Werkblad Pick** te gebruiken om pick-verzoeken, voor zowel verzending als voor interne doeleinden, vast te stellen en vervolgens de benodigde magazijn-pickdocumenten te maken.  
+Tevens kunt u bij een pull-scenario een magazijnpickdocument maken door het venster **Pickvoorstel** te gebruiken om pickverzoeken, voor zowel verzending als voor interne doeleinden, vast te stellen en vervolgens de benodigde magazijnpickdocumenten te maken.  
 
 De volgende procedure beschrijft een pull-scenario, waarbij u onderdelen voor een vrijgegeven productieorder pickt met behulp van het venster **Werkblad Pick**. De procedure geldt ook voor een assemblageorder.  
 

@@ -9,15 +9,15 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: HT
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 154fcaef89af0f6a131f4bcf0e9cf9a3f85f5903
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 1fdb53b0f58ada22475fe1c1510146c156a60410
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
 # <a name="how-to-make-predictive-cash-flow-forecasts"></a>Procedure: Voorspellende cashflowprognoses maken
-Cashflowprognoses helpen u te zorgen dat uw bedrijf over voldoende contant geld beschikt om aan de financiële verplichtingen te voldoen en ze zijn nuttig voor het bepalen van correcties. Als u bijvoorbeeld een kasoverschot hebt, kunt u mogelijk enkele schulden afbetalen, en als u krap zit, waardeert u waarschijnlijk een tijdige waarschuwing. 
+Cashflowprognoses helpen u te zorgen dat uw bedrijf over voldoende contant geld beschikt om aan de financiële verplichtingen te voldoen en ze zijn nuttig voor het bepalen van correcties. Als u bijvoorbeeld een kasoverschot hebt, kunt u mogelijk enkele schulden afbetalen, en als u krap zit, waardeert u waarschijnlijk een tijdige waarschuwing.
 
 Cortana Intelligence gebruikt de Azure Machine Learning-service om betrouwbare, voorspellende prognoses te maken. Prognoses van Cortana Intelligence kunnen u bijvoorbeeld helpen cashtekorten te voorspellen en voorkomen. De service combineert historische gegevens met huidige boekingen voor schulden en tegoeden, inclusief boekingen met vervaldatums in de toekomst. Hieronder vallen:
 * Inkooporders
@@ -26,12 +26,12 @@ Cortana Intelligence gebruikt de Azure Machine Learning-service om betrouwbare, 
 * Creditnota's.
 
 ## <a name="before-you-start"></a>Voordat u begint  
-Er staat een aantal zaken te doen voordat u Cortana Intelligence voor cashflowprognoses kunt gebruiken: 
+Er staat een aantal zaken te doen voordat u Cortana Intelligence voor cashflowprognoses kunt gebruiken:
 * Als u nog geen cashflowprognoses gebruikt, moet u het volgende instellen:
-    * Een of meer instellingen in **Cashflowinstellingen**. 
+    * Een of meer instellingen in **Cashflowinstellingen**.
     * Rekeningen voor tegoeden, schulden, verkooporders en inkooporders. Cortana Intelligence gebruikt de boekingen in deze rekeningen.
     * Een of meer cashflowprognoses in **Cashflowprognose**. Neem inkooporders, verkooporders, schulden en tegoeden als bronnen op.  
-    Zoek voor meer informatie naar _cashflowprognoses_ in het Helpsysteem. 
+    Zoek voor meer informatie naar _cashflowprognoses_ in het Helpsysteem.
 * Zorg dat u de API-URL en de API-sleutel weet voor de te gebruiken voorspellende webservice.  
     U kunt Azure Machine Learning gebruiken of een andere service als u die hebt. Er is als alternatief een model genaamd _Prognosemodel voor Microsoft Dynamics NAV_ online beschikbaar in de Cortana Intelligence Gallery. Ga als volgt te werk om het model te gebruiken:
 
@@ -39,17 +39,17 @@ Er staat een aantal zaken te doen voordat u Cortana Intelligence voor cashflowpr
     2. Zoek naar _Prognosemodel voor Microsoft Dynamics NAV_ en open het model in Azure Machine Learning Studio.
     3. Gebruik het Microsoft-account om u aan te melden voor een werkruimte en kopieer vervolgens het model.
     4. Voer het model uit en publiceer het als een webservice.
-    5. Noteer de API-URL en de API-sleutel. U gebruikt deze referenties wanneer u Cortana Intelligence instelt in Microsoft Dynamics NAV.  
+    5. Noteer de API-URL en de API-sleutel. U gebruikt deze referenties wanneer u Cortana Intelligence instelt in [!INCLUDE[navnow](includes/navnow_md.md)].  
 
-* Bekijk hoe vaak u de prognose berekent. De Azure Machine Learning-service heeft beperkingen betreffende gebruik. Als u bijvoorbeeld veel artikelen hebt, kan het beter zijn minder vaak te berekenen. 
-* Word toegewezen aan het rolcentrum Account. 
+* Bekijk hoe vaak u de prognose berekent. De Azure Machine Learning-service heeft beperkingen betreffende gebruik. Als u bijvoorbeeld veel artikelen hebt, kan het beter zijn minder vaak te berekenen.
+* Word toegewezen aan het rolcentrum Account.
 
 ## <a name="set-up-cortana-intelligence"></a>Cortana Intelligence instellen
 U kunt een begeleide instelling gebruiken om cashflowprognoses in te stellen. De gids helpt u zaken op te geven zoals hoe vaak u de prognose bijwerkt, op welke accounts deze wordt gebaseerd, wanneer u belasting betaalt en of Cortana Intelligence moet worden gebruikt.  
 
 Als u al cashflowprognoses gebruikt en alleen Cortana Intelligence wilt inschakelen, kunt u ook een handmatig proces gebruiken. Als u zich aanmeldt, verschijnt een bericht in een blauwe balk boven in de werkruimte. Als u Cortana Intelligence direct wilt instellen, kiest u **Ja, graag**. Het bericht wordt slechts eenmaal weergegeven. Als u het afsluit, gebruikt u het handmatige proces om Cortana Intelligence in te stellen.  
 
-**Tip:** Overweeg u de lengte van de perioden die de service in de berekeningen gebruikt. Hoe meer gegevens u biedt, hoe nauwkeuriger de voorspellingen zullen zijn. Let ook op grote variaties in perioden. Deze zijn ook van invloed op voorspellingen. Als Cortana Intelligence niet voldoende gegevens vindt of de gegevens sterk variëren, doet de service geen voorspelling. 
+**Tip:** Overweeg u de lengte van de perioden die de service in de berekeningen gebruikt. Hoe meer gegevens u biedt, hoe nauwkeuriger de voorspellingen zullen zijn. Let ook op grote variaties in perioden. Deze zijn ook van invloed op voorspellingen. Als Cortana Intelligence niet voldoende gegevens vindt of de gegevens sterk variëren, doet de service geen voorspelling.
 
 De begeleide instelling gebruiken:
 1. Kies in het rolcentrum Accountant onder het diagram **Cashflowprognose** de actie **Begeleide instelling openen**.
@@ -69,7 +69,7 @@ Een handmatig proces gebruiken:
 Als u de gegevens achter de prognose goed wilt zien, inclusief het verschil, kiest u de kolom **Cortana Intelligence**. De eerste rij in de tabel bevat het verschil. De overige rijen worden gerangschikt op brondocument.  
 
 U kunt bijvoorbeeld zien hoe de prognose:    
-* Bevestigde verkopen en inkopen verwerkt 
+* Bevestigde verkopen en inkopen verwerkt
 * Schulden aftrekt en tegoeden optelt
 * Dubbele verkooporders en inkooporders overslaat
 

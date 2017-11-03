@@ -12,10 +12,10 @@ ms.search.keywords: stock
 ms.date: 08/15/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b046027ef9327603b58111ba578dfe1c5254d081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 81872839df11a13489bbc192ad97dae04976ebb0
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-the-availability-of-items"></a>Procedure: beschikbaarheid van artikelen weergeven
@@ -26,10 +26,10 @@ U kunt de beschikbaarheid van alle artikelen per vestiging bekijken en u kunt de
 > [!NOTE]  
 >   Beschikbaarheidsweergaven per vestiging vereisen dat u voorraad onderhoudt op meerdere vestigingen. Zie voor meer informatie [Procedure: Vestigingen instellen](inventory-how-setup-locations.md).
 
-In [[!INCLUDE[d365fin](includes/d365fin_md.md)] worden de beschikbaarheidscijfers weergegeven in twee verschillende velden, elk met een andere definitie:
+In [!INCLUDE[d365fin](includes/d365fin_md.md)] worden de beschikbaarheidscijfers weergegeven in twee verschillende velden, elk met een andere definitie:
 
 * Het veld **In voorraad** bevat het werkelijke aantal van vandaag op basis van geboekte artikelposten.
-* Het veld **Geplande voorraad** wordt berekend en toont de beschikbare hoeveelheid plus geplande ontvangsten minus brutobehoeften. (In [[!INCLUDE[d365fin](includes/d365fin_md.md)] gebruiken omvatten geplande ontvangsten hoeveelheden op inkooporders en inkomende transferorders. Brutobehoeften omvatten aantallen op verkooporders en uitgaande transferorders.)
+* Het veld **Geplande voorraad** wordt berekend en toont de beschikbare hoeveelheid plus geplande ontvangsten minus brutobehoeften. (In [!INCLUDE[d365fin](includes/d365fin_md.md)] gebruiken omvatten geplande ontvangsten hoeveelheden op inkooporders en inkomende transferorders. Brutobehoeften omvatten aantallen op verkooporders en uitgaande transferorders.)
 
 > [!TIP]  
 >   Het geplande beschikbare saldo is met name van belang voor weergave in de vensters **Beschikbaarheid per periode** en **Artikelbeschikbaarheid per gebeurtenis**, aangezien deze de datumdimensie bevatten.  
@@ -102,7 +102,7 @@ In het venster **Beschikbaarheid assemblage** vindt u gedetailleerde beschikbaar
 
 - Automatisch vanuit een verkooporderregel bij assembleren op order wanneer u een aantal invoert dat zorgt voor een beschikbaarheidsprobleem van een onderdeel.
 - Automatisch vanuit een assemblage-orderkop wanneer u in het veld Aantal een waarde invoert die zorgt voor een beschikbaarheidsprobleem van een onderdeel.
-- Handmatig wanneer u het opent vanuit een assemblageorder. Klik op het tabblad Acties, in de groep Functies, op Beschikbaarheid tonen.
+- Handmatig wanneer u het opent vanuit een assemblageorder. Kies op het tabblad Acties, in de groep Functies, Beschikbaarheid tonen.
 
 Het sneltabblad **Details** toont gedetailleerde beschikbaarheidsinformatie voor de component, inclusief het aantal assemblageorders dat op de vervaldatum samengesteld kan zijn op basis van de beschikbaarheid van de vereiste onderdelen. Dit wordt weergegeven in het veld Kan assembleren op het sneltabbald Details.
 

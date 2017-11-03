@@ -12,10 +12,10 @@ ms.search.keywords: reimbursement
 ms.date: 08/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 90598545ff216b03f8c6e9b85933c10e5a8b6525
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2970914c36f892a5610509e9dc4015d0fb159642
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-reverse-postings"></a>Procedure: boekingen tegenboeken
@@ -62,7 +62,7 @@ U kunt posten vanuit alle **Posten**-vensters tegenboeken. De volgende procedure
     Ga nu terug naar de inkoopretourorder om opnieuw te boeken.  
 
 5.  Let in het venster **Geboekte retourverzending** op het nummer in het **Retourordernr.** veld.  
-6.  Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Inkoopretourorders** in en selecteer vervolgens de gerelateerde koppeling.  
+6.  Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), voer **Inkoopretourorders** in en klik vervolgens op de gerelateerde koppeling.  
 7.  Open de retourorder en kies de actie **Opnieuw openen**.  
 8.  Corrigeer de post in het veld **Aantal** en boek de inkoopretourorder opnieuw.  
 
