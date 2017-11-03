@@ -22,8 +22,7 @@ ms.lasthandoff: 10/23/2017
 Algemene grootboekfunctionaliteit voor Nederland wordt beschreven in de onderstaande onderwerpen.
 
 ## <a name="in-this-section"></a>In dit gedeelte
-[Procedure: Grootboekposten vereffenen](../France/how-to-apply-general-ledger-entries.md)  
-[Procedure: Vereffening van grootboekposten ongedaan maken](../France/how-to-unapply-general-ledger-entries.md)  
+[Procedure: Klantbetalingen handmatig reconciliëren](../../receivables-how-apply-sales-transactions-manually.md)  
 [Verplichte beschrijvingen in grootboekpost](required-descriptions-in-g-l-entry.md)  
 [Procedure: Een auditfile voor de belastingdienst maken](how-to-create-an-audit-file-for-the-tax-authority.md)
 
