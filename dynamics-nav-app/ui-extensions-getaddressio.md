@@ -34,6 +34,4 @@ Met de extensie GetAddress.io UK Postcodes kunt u tijd besparen en fouten voorko
 >   Als u het huisnummer weet, kunt u adressen filteren door enkele of alle nummers in te voeren in het veld **Besteladres**.
 
 
-## <a name="see-also"></a>Zie ook
-[de extensie GetAddress.io UK Postcode instellen](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 
