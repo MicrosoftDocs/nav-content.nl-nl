@@ -57,5 +57,3 @@ Voor sommige gebieden moet u een beheerder in uw [!INCLUDE[d365fin](includes/d36
 [Installatie en beheer in [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Welkom bij [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
