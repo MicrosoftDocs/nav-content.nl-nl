@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Welkom bij [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -39,7 +39,7 @@ Op startpagina´s wordt een op rolcentrumontwerp gebruikt om u snel toegang te v
 
 Elke startpagina bevat de knop **Instellingen en extensies**. Hier hebt u toegang tot een lijst met begeleide instellingen die u helpen aan de slag te gaan door snel geselecteerde gebieden in te stellen. Als er voor een bepaald gebied geen begeleide instelling is, kiest u de actie **Handmatige instelling** om instellingenvensters te openen waarin u handmatig instellingsvelden voor alle velden kunt invullen. Zie voor meer informatie ook [[!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md) instellen.  
 
-| Begeleide instelling | Description |
+| Begeleide instelling | Omschrijving |
 | --- | --- |
 | Bedrijfsgegevens migreren |Hiermee kunt u uw bedrijfsgegevens importeren zoals klanten, leveranciers, en artikelen vanuit Excel of Quickbooks. |
 | Mijn bedrijf instellen |Hiermee wordt een nieuw proefbedrijf voor u gemaakt, waarin u gegevens kunt invoeren en [!INCLUDE[d365fin](includes/d365fin_md.md)] kunt uitproberen. Als u de Aan de slag-rondleiding hebt gevolgd, is dit waarschijnlijk al **Voltooid**. |
@@ -67,3 +67,4 @@ Als u een bedrijf wilt maken om zaken uit te proberen, gaat u naar het menu **Mi
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] aanpassen met behulp van extensies](ui-extensions.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] gebruiken als mijn bedrijfsinbox in Outlook](madeira-outlook.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] krijgen op uw mobiele apparaat](install-mobile-app.md)  
+
