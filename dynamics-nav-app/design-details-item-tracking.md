@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Artikeltracering'
 description: In dit onderwerp vindt u een overzicht van ontwerpdetails voor artikeltracering.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a519f952a869951b54e575bab10c356cf8689c3b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9d982861376b69ab0a20b337ce8aeb2fc0cb20fa
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-item-tracking"></a><span data-ttu-id="3c1cc-103">Ontwerpdetails: Artikeltracering</span><span class="sxs-lookup"><span data-stu-id="3c1cc-103">Design Details: Item Tracking</span></span>

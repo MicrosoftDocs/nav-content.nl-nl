@@ -3,7 +3,7 @@ title: Betalingsrun maken en exporteren
 description: Nadat u een voorstel hebt gemaakt en eventuele wijzigingen hebt aangebracht, kunt u het voorstel verwerken om een betaalrun te maken. Voorstellen kunnen handmatig worden gegenereerd of automatisch op basis van een leveranciers- of klantenpost.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 040640d0896eedfa9010f7ad2402bbc0b1b5e6e3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8fa194ab3aea7ed360d02e9a3f7f2d47deb89419
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-and-export-payment-history"></a><span data-ttu-id="2f142-104">Procedure: Betalingsrun maken en exporteren</span><span class="sxs-lookup"><span data-stu-id="2f142-104">How to: Create and Export Payment History</span></span>

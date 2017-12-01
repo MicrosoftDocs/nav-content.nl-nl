@@ -3,7 +3,7 @@ title: Interacties beheren met uw contacten
 description: U kunt alle soorten communicatie of interactie tussen uw bedrijf en uw contacten beheren. Bijvoorbeeld brieven, telefoongesprekken, vergaderingen, enzovoort.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 82ba8bc54a94b866b9adb1babc37b45f0a463050
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 343103b909ef6d91d96e1f255b825bdfa4b5ad84
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-interactions-with-contacts"></a><span data-ttu-id="9737f-103">Interacties beheren met contacten</span><span class="sxs-lookup"><span data-stu-id="9737f-103">Managing Interactions With Contacts</span></span>

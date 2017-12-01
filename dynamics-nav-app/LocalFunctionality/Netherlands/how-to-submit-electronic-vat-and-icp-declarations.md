@@ -3,7 +3,7 @@ title: Elektronische btw- en ICP-aangiften verzenden
 description: Met de eXtensible Business Reporting Language (XBRL) Reporter kunt u de aangifte van Intracommunautaire Leveringen (ICP) of de btw-aangifte in de vereiste XML-indeling verzenden. Wanneer dit wordt verzonden, wordt het bestand verstuurd naar de belastingdienst zoals is gedefinieerd in het venster Elek. aangifte-instellingen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 77ea1cc6a6076f3ab24ddf44079a3d2a3434657e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9914ed4bac3c75b27517105681c1b58b9147398c
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-submit-electronic-vat-and-icp-declarations"></a><span data-ttu-id="eea48-104">Procedure: Elektronische btw- en ICP-aangiften verzenden</span><span class="sxs-lookup"><span data-stu-id="eea48-104">How to: Submit Electronic VAT and ICP Declarations</span></span>

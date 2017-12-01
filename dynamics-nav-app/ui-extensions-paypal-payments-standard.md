@@ -6,7 +6,7 @@ description: >-
   .
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -15,10 +15,10 @@ ms. search.keywords: app, add-in, manifest, customize
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9ce797091adf1ddd04e14729d27730dad50d819c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: bff0705ec1b0ad9dfc000eef0b98e4ddd014b9fa
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="the-paypal-payments-standard-extension-to-dynamics-nav"></a><span data-ttu-id="4d3ea-103">De extensie PayPal-betalingsstandaard naar Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="4d3ea-103">The PayPal Payments Standard Extension to Dynamics NAV</span></span>

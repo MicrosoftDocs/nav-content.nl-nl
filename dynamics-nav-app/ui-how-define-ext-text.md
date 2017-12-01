@@ -3,7 +3,7 @@ title: "Extra regels toevoegen om uitgebreide tekst te definiëren voor een arti
 description: U kunt extra regels toevoegen om de standaardtekst uit te breiden die een artikel beschrijft.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 01/16/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25667e524253bfd122919af7a1089b4e323ffbb0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 93cc5b946094935287c5faf164a3cdd95cfeb10e
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-extended-item-text"></a><span data-ttu-id="27925-103">Procedure: Uitgebreide artikeltekst instellen</span><span class="sxs-lookup"><span data-stu-id="27925-103">How to: Set Up Extended Item Text</span></span>

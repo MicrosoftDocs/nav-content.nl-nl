@@ -3,7 +3,7 @@ title: Lokale functionaliteit voor Nederland
 description: In de volgende onderwerpen wordt de lokale functionaliteit in de Nederlandse versie van [!INCLUDE[navnow](../../includes/navnow_md.md)] beschreven.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 5b2aaf24abde3e18637bb12822b9d402b1b7139e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d3a9aa28248f4ffebfb4f6248c09fbd2e48efedd
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="netherlands-local-functionality"></a><span data-ttu-id="8ca4e-103">Lokale functionaliteit voor Nederland</span><span class="sxs-lookup"><span data-stu-id="8ca4e-103">Netherlands Local Functionality</span></span>

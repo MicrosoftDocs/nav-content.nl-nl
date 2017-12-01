@@ -3,7 +3,7 @@ title: Ontwerpdetails
 description: Deze inhoud bevat gedetailleerde technische informatie over complexe toepassingsfuncties in [!INCLUDE[d365fin](includes/d365fin_md.md)].
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 79576107383be00229696604f417468efcdabdb5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9ae445d41c2f5b33d6d7f45910db0256f8782ca4
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details"></a><span data-ttu-id="6edaf-103">Ontwerpdetails</span><span class="sxs-lookup"><span data-stu-id="6edaf-103">Design Details</span></span>

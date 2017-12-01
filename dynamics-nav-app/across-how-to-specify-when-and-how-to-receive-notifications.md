@@ -3,7 +3,7 @@ title: Vastleggen wanneer en hoe gebruikers berichten ontvangen
 description: Wanneer u gebruikers in goedkeuringswerkstromen instelt, moet u in de vensters Berichtinstellingen en Berichtplanning opgeven hoe en wanneer iedere gebruiker berichten ontvangt over stappen in de goedkeuringswerkstroom. Individuele gebruikers kunnen hun berichtinstellingen ook wijzigen door de knop Berichtinstellingen wijzigen op een bericht te kiezen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7d4c09b216f64b41a1bd72507c7a09c05e19d06a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d79eca35d9d6b2195cdc2b0336190d43248fc365
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-specify-when-and-how-to-receive-notifications"></a><span data-ttu-id="4d974-104">Procedure: Vastleggen wanneer en hoe gebruikers berichten ontvangen</span><span class="sxs-lookup"><span data-stu-id="4d974-104">How to: Specify When and How to Receive Notifications</span></span>

@@ -3,7 +3,7 @@ title: Postcodes importeren
 description: U kunt een bestand importeren dat postcodes opgeeft voor marketing- en relatiebeheeractiviteiten. De postcodegegevens die u importeert, worden in de tabel **Postcodebereik** opgeslagen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ed80e298211c2764218d86784fc0ea0d7964046c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 572c5ec7602e112f3a41c0efea833bafaae7ff62
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-import-post-codes"></a><span data-ttu-id="47e9f-104">Procedure: Postcodes importeren</span><span class="sxs-lookup"><span data-stu-id="47e9f-104">How to: Import Post Codes</span></span>

@@ -3,7 +3,7 @@ title: Gegevens zoeken en filtercriteria invoeren
 description: Beschrijft hoe u met filters werkt, zoals het Snelfilter, om de resultaten te verfijnen die u krijgt wanneer u gegevens zoekt.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: delimit, FlowFilter
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f981d303f75bba627e224e49b9e2f2818246fe39
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0af8e6f6cfc4216441962ace3331457e87be24a2
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="searching-filtering-and-sorting-data"></a><span data-ttu-id="a38f8-103">Gegevens zoeken, filteren en sorteren</span><span class="sxs-lookup"><span data-stu-id="a38f8-103">Searching, Filtering, and Sorting Data</span></span>

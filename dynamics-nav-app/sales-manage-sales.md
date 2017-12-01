@@ -2,7 +2,7 @@
 title: Overzicht van taken om verkoop te beheren
 description: Hierin wordt beschreven hoe u verkoopactiviteiten kunt beheren.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: trade, sell
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 030739b491ba5c914d10811cfbac994917f9eb9d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9a3b619a8efcff879dc6ff352158e33154becbb6
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="sales"></a><span data-ttu-id="1a136-103">Verkoop</span><span class="sxs-lookup"><span data-stu-id="1a136-103">Sales</span></span>

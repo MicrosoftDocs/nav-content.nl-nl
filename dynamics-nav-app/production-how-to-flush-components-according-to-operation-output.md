@@ -3,7 +3,7 @@ title: Materialen afboeken op basis van de uitvoer van een bewerking
 description: Voor artikelen die zijn ingesteld met de achterwaartse afboekingsmethode wordt standaard het verbruik van onderdelen berekend en geboekt wanneer u de status van een vrijgegeven productieorder wijzigt in **Voltooid**. Zie voor meer informatie Afboekingsmethode.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 48645ff5d943b2f7093224289ff3cad6cfa6537e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 335d6b4bfc27228bbdd0f9ccdf2bbed6fe9e2c5a
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-flush-components-according-to-operation-output"></a><span data-ttu-id="2cf33-104">Procedure: materialen afboeken op basis van de uitvoer van een bewerking</span><span class="sxs-lookup"><span data-stu-id="2cf33-104">How to: Flush Components According to Operation Output</span></span>

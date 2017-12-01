@@ -3,7 +3,7 @@ title: Elektronische btw- en ICP-aangiften instellen
 description: Als u uw Digipoort-communicatie wilt laten werken, moet u mogelijk uw netwerkinstellingen aanpassen. Digipoort gebruikt een veilig communicatieprotocol en vereist gebruik van TCP-poort 443.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 8eff49180f8019ca2c0cfafd48bb605bde446fce
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: bbe9c588fb23fc269f8432e282bc079e555eb4af
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-electronic-vat-and-icp-declarations"></a><span data-ttu-id="de573-104">Procedure: Elektronische btw- en ICP-aangiften instellen</span><span class="sxs-lookup"><span data-stu-id="de573-104">How to: Set Up Electronic VAT and ICP Declarations</span></span>

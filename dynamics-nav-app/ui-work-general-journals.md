@@ -3,7 +3,7 @@ title: Dagboeken gebruiken om direct naar grootboek te boeken
 description: "Leren over het gebruik van diversendagboeken om financiële transacties naar grootboekrekeningen en andere rekeningen te boeken, zoals bank-, klant- en leveranciersrekeningen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 07/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 53802fda260538999cc7f3428f739dfa55f23662
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9c1eaec9c0a74d280de118c649d37d9b44ef8591
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="working-with-general-journals"></a><span data-ttu-id="e7fd7-103">Werken met diversendagboeken</span><span class="sxs-lookup"><span data-stu-id="e7fd7-103">Working with General Journals</span></span>

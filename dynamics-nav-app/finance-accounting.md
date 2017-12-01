@@ -2,7 +2,7 @@
 title: Accountantervaringen binnen Dynamics NAV
 description: "Meer informatie over de accountantsportal voor Dynamics NAV en het accountantrolcentrum dat interne en externe accountants in het cliëntbedrijf ondersteunt."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: accountant, accounting, financial report
 ms.date: 09/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 19738a07dcd90c7788e164ad908721e9165dd9d2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fa89303d29a79ef4b073322ad17375ea052d5d8e
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="accountant-experiences-in-included365finlongincludesd365finlongmdmd"></a><span data-ttu-id="8ae04-103">Accountantervaringen binnen [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="8ae04-103">Accountant Experiences in [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span></span>

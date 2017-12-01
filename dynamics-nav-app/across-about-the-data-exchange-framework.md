@@ -2,7 +2,7 @@
 title: Over het kader voor gegevensuitwisseling
 description: De bestandsindeling voor het uitwisselen van gegevens in bankbestanden, elektronische documenten, valutawisselkoersen en andere met ERP-systemen varieert afhankelijk van de aanbieder van het gegevensbestand of de stream en van het land of de regio.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e658ef2e99ea47b095ebe654ea7a8cb8a25799c3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 61dba2bd3c0a3b4b60f70dd9c5a1b6ea906fbffc
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="about-the-data-exchange-framework-in-included365finincludesd365finmdmd"></a><span data-ttu-id="ab9c0-103">Over het kader voor gegevensuitwisseling in [!INCLUDE[d365fin](includes/d365fin_md.md)]</span><span class="sxs-lookup"><span data-stu-id="ab9c0-103">About the Data Exchange Framework in [!INCLUDE[d365fin](includes/d365fin_md.md)]</span></span>

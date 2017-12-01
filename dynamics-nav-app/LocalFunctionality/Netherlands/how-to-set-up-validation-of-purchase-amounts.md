@@ -3,7 +3,7 @@ title: Validatie van inkoopbedragen instellen
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u de functie **Totaalbedragen documenten controleren** activeren om het totaalbedrag van inkoopdocumenten te valideren voordat een inkoopfactuur en inkoopcreditnota worden geboekt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 8f5b2ef03cd1e0dee5d15a220926f40e9dec239c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8f6913388f963cc0852d9f3f6b6090f449a52082
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-validation-of-purchase-amounts"></a><span data-ttu-id="95f20-103">Procedure: Validatie van inkoopbedragen instellen</span><span class="sxs-lookup"><span data-stu-id="95f20-103">How to: Set Up Validation of Purchase Amounts</span></span>

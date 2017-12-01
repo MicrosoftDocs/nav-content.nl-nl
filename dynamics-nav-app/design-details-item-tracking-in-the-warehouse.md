@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Beschikbaarheid artikeltracering'
 description: In dit onderwerp wordt beschreven hoe u ervoor zorgt dat de mensen die orders verwerken, kunnen vertrouwen op de beschikbaarheid van serie- of lotnummers.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, item, tracking, serial number, lot number, outbound 
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1e632e2d7e0b4afe167721d0b68102b48f820307
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e6d6f8377d069e61c247ebbeb2cabcbf099dbe84
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-item-tracking-availability"></a><span data-ttu-id="cb911-103">Ontwerpdetails: Beschikbaarheid artikeltracering</span><span class="sxs-lookup"><span data-stu-id="cb911-103">Design Details: Item Tracking Availability</span></span>

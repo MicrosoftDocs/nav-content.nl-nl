@@ -3,7 +3,7 @@ title: Elektronische belastingaangiften
 description: Bedrijven moeten hun btw- en ICP-aangiften elektronisch aanleveren aan de belastingdienst.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ae1d8c3c97941d8244f5ed75a2849b12977f3165
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e4f8ee8c08b24d3e0113713694328e9f3deb8e98
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="electronic-tax-declarations"></a><span data-ttu-id="bad55-103">Elektronische belastingaangiften</span><span class="sxs-lookup"><span data-stu-id="bad55-103">Electronic Tax Declarations</span></span>

@@ -3,7 +3,7 @@ title: Een klant of leverancier maken van een contact
 description: U kunt een bestaand contact vastleggen als klant, leverancier of bankrekening met bestaande gegevens en een zakenrelatie opgeven.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, client, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f28d313d64fc6ace01eb74596f6c8bfec42ca7aa
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0cd8d14dee5dd50704678dff614667e6e8310199
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-a-customer-vendor-or-bank-account-from-a-contact"></a><span data-ttu-id="03517-103">Procedure: Een contact maken van een klant, leverancier of bankrekening</span><span class="sxs-lookup"><span data-stu-id="03517-103">How to: Create a Customer, Vendor, or Bank Account From a Contact</span></span>

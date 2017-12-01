@@ -3,7 +3,7 @@ title: Single EURO Payments Area (SEPA)
 description: Single Euro Payments Area (SEPA) verenigt de betalingsmethoden in deelnemende Europese landen, zodat internationale betalingen even gemakkelijk te verwerken worden als binnenlandse betalingen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ac22788aee0873b4c8f7569132af5ce5567e5db4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2e1d78476dee9e33ec913fd3fedb38dbdafc0f77
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="single-euro-payments-area-sepa"></a><span data-ttu-id="a062d-103">Single EURO Payments Area (SEPA)</span><span class="sxs-lookup"><span data-stu-id="a062d-103">Single EURO Payments Area (SEPA)</span></span>

@@ -2,7 +2,7 @@
 title: De extensie QuickBooks-migratie gebruiken
 description: Beschrijft hoe u de extensie gebruikt om klanten, leveranciers, artikelen en rekeningen van QuickBooks Desktop naar Dynamics NAV te importeren.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7b8cf77369a2073f746aebdca5d4cbeba80283ec
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d0e0f8d69d4fe6966afb53aae476081496acfd8b
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="the-quickbooks-data-migration-extension-for-dynamics-nav"></a><span data-ttu-id="046d8-103">De extensie QuickBooks-gegevensmigratie voor Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="046d8-103">The QuickBooks Data Migration Extension for Dynamics NAV</span></span>

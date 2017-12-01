@@ -3,7 +3,7 @@ title: Serie- en lotnummers toewijzen aan artikelen voor tracering
 description: U kunt serie- en lotnummers toevoegen aan elk uitgaand of inkomend document en de bijbehorende geboekte artikeltraceringsposten worden in de artikelposten weergegeven.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/22/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: fa6677e2f856fd22ff56139332aa307919b0ab96
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6217797d3e54d29d64aa4c7c2407b5dbc7050a5d
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-work-with-serial-and-lot-numbers"></a><span data-ttu-id="e5cc7-103">Procedure: Werken met serie- en lotnummers</span><span class="sxs-lookup"><span data-stu-id="e5cc7-103">How to: Work with Serial and Lot Numbers</span></span>

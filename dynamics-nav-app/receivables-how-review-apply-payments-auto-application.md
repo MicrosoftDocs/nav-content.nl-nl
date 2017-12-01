@@ -3,7 +3,7 @@ title: "Automatisch vereffende betalingen verifiëren en betalingen handmatig op
 description: Nadat betalingen automatisch zijn toegepast, kunt u alle posten voor een betaling controleren en handmatig de posten die verkeerd zijn vereffend, opnieuw vereffenen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 336dd02d1f29e5f80209961eae164a6faeaf65bc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1289f4650596e31b6ef7f2d7df5b9a311335692c
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-review-or-apply-payments-manually-after-automatic-application"></a><span data-ttu-id="185fa-103">Procedure: Betalingen na automatische vereffening handmatig controleren of vereffenen</span><span class="sxs-lookup"><span data-stu-id="185fa-103">How to: Review or Apply Payments Manually After Automatic Application</span></span>

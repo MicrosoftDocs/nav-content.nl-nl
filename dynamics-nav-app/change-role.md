@@ -3,7 +3,7 @@ title: Het rolcentrum wijzigen
 description: U kunt een ander profiel in Dynamics NAV selecteren om te wijzigen wat u ziet op uw startpagina.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: Profile
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d624848883cb684feeae164443b797fcea616911
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 85b68fa3af4189d6703c17e28be31506f24be41b
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-change-the-role-center"></a><span data-ttu-id="1d2ae-103">Procedure: Het rolcentrum wijzigen</span><span class="sxs-lookup"><span data-stu-id="1d2ae-103">How to: Change the Role Center</span></span>

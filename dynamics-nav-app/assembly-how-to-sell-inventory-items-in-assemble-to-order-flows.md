@@ -3,7 +3,7 @@ title: Voorraadartikelen in assembleren voor order-stromen verkopen
 description: Als het artikel is ingesteld voor assembleren-op-order, neemt het standaardproces voor de verkooporder aan dat het item niet in voorraad is en voor deze verkooporder geassembleerd moet worden. Daarom wordt er automatisch een gekoppelde assemblageorder gemaakt wanneer u een artikel aan de verkooporderregel wilt toevoegen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0d907c5f96c4af0e28a04292bee2c21865346593
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 56001ab9712535be66a2465e2995478130857603
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-sell-inventory-items-in-assemble-to-order-flows"></a><span data-ttu-id="0fc0e-104">Procedure: voorraadartikelen in assembleren-op-order-stromen verkopen</span><span class="sxs-lookup"><span data-stu-id="0fc0e-104">How to: Sell Inventory Items in Assemble-to-Order Flows</span></span>

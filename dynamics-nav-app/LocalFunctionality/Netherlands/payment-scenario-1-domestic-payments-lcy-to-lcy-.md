@@ -3,7 +3,7 @@ title: Betalingsscenario 1 - binnenlandse betalingen (LV naar LV).
 description: U kunt telebankieren gebruiken voor handel met binnenlandse en buitenlandse klanten en leveranciers.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: e19984d825a4e6cf9f3776c0d24f8c288b42aae0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5509ae5c6d66a836f9ba0146753e6829db16295a
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="payment-scenario-1---domestic-payments-lcy-to-lcy"></a><span data-ttu-id="33a71-103">Betalingsscenario 1 - binnenlandse betalingen (LV naar LV).</span><span class="sxs-lookup"><span data-stu-id="33a71-103">Payment Scenario 1 - Domestic Payments (LCY to LCY)</span></span>

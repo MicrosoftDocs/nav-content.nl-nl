@@ -3,7 +3,7 @@ title: Elektronische btw- en ICP-aangiften
 description: Bedrijven moeten periodieke btw- en ICP-aangiften verzenden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 5558c472a10445dc79fa063d48bdb2c69c3687c5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a174a775a529f5fd9e5653e1facf690e0c0d6f01
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="electronic-vat-and-icp-declarations"></a><span data-ttu-id="2a9c6-103">Elektronische btw- en ICP-aangiften</span><span class="sxs-lookup"><span data-stu-id="2a9c6-103">Electronic VAT and ICP Declarations</span></span>

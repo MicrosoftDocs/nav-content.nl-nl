@@ -3,7 +3,7 @@ title: Werken met aangepaste en ingebouwde lay-outs voor rapporten en documenten
 description: Gebruik rapportlay-outs om documenten aan te passen, bijvoorbeeld om het lettertype of logo aan te passen of pagina-instellingen of PDF-bestanden die u naar klanten verzendt.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 11abe8b3375bca1515602143830d4c9963058172
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c4542e968dcdc0f9cee156022397d7c3f4402782
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-report-and-document-layouts"></a><span data-ttu-id="dbe3d-103">Lay-outs van rapporten en documenten beheren</span><span class="sxs-lookup"><span data-stu-id="dbe3d-103">Managing Report and Document Layouts</span></span>

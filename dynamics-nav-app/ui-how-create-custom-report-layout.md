@@ -3,7 +3,7 @@ title: Aangepaste lay-outs voor rapporten en documenten maken en wijzigen
 description: Leren hoe u uw eigen, aangepaste lay-outs maakt om de weergave aan te passen van een rapport wanneer het wordt bekeken, afgedrukt of opgeslagen.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ee614c44a17873591916bc97bd9b2a3f33fce21b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a90fdad122508f93746ef44c2e0eb700b2dcdf6c
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-and-modify-a-custom-report-or-document-layout"></a><span data-ttu-id="692cd-103">Procedure: Een aangepaste lay-out voor een rapport of document maken en wijzigen</span><span class="sxs-lookup"><span data-stu-id="692cd-103">How to: Create and Modify a Custom Report or Document Layout</span></span>

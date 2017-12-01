@@ -3,7 +3,7 @@ title: 'Procedure: picken en verzenden in standaardmagazijnconfiguraties'
 description: In [!INCLUDE[d365fin](includes/d365fin_md.md)] kunnen uitgaande processen voor picken en verzending op vier manieren worden uitgevoerd met verschillende functionaliteiten afhankelijk van het complexiteitsniveau van het magazijn.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ce9d58f93edeebd4933a532deb7c4672ced6f76a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 80b4cf537a116469d258e4e45cb7e89da1aff8fd
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-picking-and-shipping-in-basic-warehouse-configurations"></a><span data-ttu-id="b21dd-103">Procedure: picken en verzenden in standaardmagazijnconfiguraties</span><span class="sxs-lookup"><span data-stu-id="b21dd-103">Walkthrough: Picking and Shipping in Basic Warehouse Configurations</span></span>

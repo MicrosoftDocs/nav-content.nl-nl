@@ -3,7 +3,7 @@ title: 'Procedure: verdeelsleutels in dagboeken gebruiken '
 description: Leren hoe u verdeelsleutels in dagboeken gebruikt.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: cost accounting
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3d3944d5f7e9bfe5390fd63b2ae1d05f62efab49
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a0dea4d1043766ed198002aba93a80882b1f16fe
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-allocation-keys-in-general-journals"></a><span data-ttu-id="6b9b7-103">Procedure: verdeelsleutels in dagboeken gebruiken</span><span class="sxs-lookup"><span data-stu-id="6b9b7-103">How to: Use Allocation Keys in General Journals</span></span>

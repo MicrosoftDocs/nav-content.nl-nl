@@ -3,7 +3,7 @@ title: Gegevens analyseren per dimensie
 description: Beschrijft hoe u diverse bedrijfsgegevens analyseert per dimensie.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/13/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2ea54861f8203406cf6c9d110ad2317b8f883dde
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f8ba174677b0275161d20c2d4cb18e26f1b73d91
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 #  <a name="how-to-analyze-data-by-dimensions"></a><span data-ttu-id="fd184-103">Procedure: Gegevens analyseren per dimensie</span><span class="sxs-lookup"><span data-stu-id="fd184-103">How to: Analyze Data by Dimensions</span></span>

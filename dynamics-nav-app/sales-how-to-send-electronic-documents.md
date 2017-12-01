@@ -2,7 +2,7 @@
 title: Elektronische documenten verzenden
 description: Leer hoe u facturen elektronisch verzendt.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 5920ed97f054b3e7882f40f2fceec76183800297
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e912d461193b14c08c02c067b190bca93bda5376
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-send-electronic-documents"></a><span data-ttu-id="be214-103">Procedure: Elektronische documenten verzenden</span><span class="sxs-lookup"><span data-stu-id="be214-103">How to: Send Electronic Documents</span></span>

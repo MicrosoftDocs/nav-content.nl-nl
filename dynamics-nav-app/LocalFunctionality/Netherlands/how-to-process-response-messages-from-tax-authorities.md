@@ -3,7 +3,7 @@ title: Responsberichten van de belastingdienst verwerken
 description: Als u een elektronische btw- of ICP-aangifte verzendt naar de belastingdienst, wordt de aangifte verwerkt en wordt u in reactie een bericht gestuurd.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 6a6881ded3bf004b92a63489bc3f17dbb3220beb
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d60083f7c0cb71837f1debe5085b45079c93e311
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-process-response-messages-from-tax-authorities"></a><span data-ttu-id="2cfa1-103">Procedure: Responsberichten van de belastingdienst verwerken</span><span class="sxs-lookup"><span data-stu-id="2cfa1-103">How to: Process Response Messages from Tax Authorities</span></span>

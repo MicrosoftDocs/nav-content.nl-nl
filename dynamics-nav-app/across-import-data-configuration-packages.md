@@ -2,7 +2,7 @@
 title: Met Excel gegevens importeren in Dynamics NAV
 description: Gebruik het standaardconfiguratiepakket om klantgegevens in Excel toe te voegen en weer in Dynamics NAV te importeren.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: migration, Excel
 ms.date: 07/05/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: eb9b7137ee31824ba845ff336c00c6f0e59f6f5c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4e4bea1402aaf31ca4ea96c29a2dacf8c7cfed9e
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="importing-data-from-legacy-accounting-software-using-a-configuration-package"></a><span data-ttu-id="20977-103">Gegevens importeren uit oudere boekhoudsoftware door middel van een configuratiepakket.</span><span class="sxs-lookup"><span data-stu-id="20977-103">Importing Data from Legacy Accounting Software using a Configuration Package</span></span>

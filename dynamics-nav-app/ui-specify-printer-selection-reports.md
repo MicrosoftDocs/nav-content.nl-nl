@@ -3,7 +3,7 @@ title: Rapporten instellen om te worden afgedrukt op specifieke printers
 description: Leren over het opgeven van een printer voor een lijst en het gebruik van het venster Printerselecties.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: online printing
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 18c1e4691f2cb5133610920d1a23d1f8a6b877f8
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="8e11d-103">Printerselectie opgeven voor rapporten</span><span class="sxs-lookup"><span data-stu-id="8e11d-103">Specify Printer Selection for Reports</span></span>

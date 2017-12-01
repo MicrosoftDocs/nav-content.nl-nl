@@ -3,7 +3,7 @@ title: Overzicht van taken om aan servicecontracten te voldoen
 description: Hier worden de taken voor het beheren van servicecontracten met klanten beschreven.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: contract, agreement, configure
 ms.date: 08/23/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 239c330055c81cc4446b6fd9dfef7fffcb107499
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9515d5c8a1b2982ff1f3e80dad23372c46b41bb9
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="fulfilling-service-contracts"></a><span data-ttu-id="b4fdf-103">Servicecontracten voldoen</span><span class="sxs-lookup"><span data-stu-id="b4fdf-103">Fulfilling Service Contracts</span></span> 

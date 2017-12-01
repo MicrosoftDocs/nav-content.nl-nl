@@ -3,7 +3,7 @@ title: Voorraad instellen
 description: Beschrijft hoe u uw voorraad en voorraadprocessen instelt, inclusief transferroutes en locaties, zoals magazijnen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: warehouse, stock
 ms.date: 09/08/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cc884dabc6c755aad95ecacf0f7411f701bd64b7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 33156089c675eb4422cb4d022a96de95be1019f6
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-inventory"></a><span data-ttu-id="27454-103">Voorraad instellen</span><span class="sxs-lookup"><span data-stu-id="27454-103">Setting Up Inventory</span></span>

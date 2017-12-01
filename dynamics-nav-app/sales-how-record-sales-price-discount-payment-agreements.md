@@ -2,7 +2,7 @@
 title: Speciale verkoopprijzen en kortingen voor klanten instellen
 description: Beschrijft hoe u de alternatieve prijsstelling en kortingsovereenkomsten definieert die u op verkoopdocumenten wilt toepassen tijdens de verkoop aan verschillende klanten.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 980e6e117887e0a0dab68aedfa99f99c27b876c9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 346513b40d3eec3de828124dbd07cb59f89412c9
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-record-special-sales-prices-and-discounts"></a><span data-ttu-id="fe97e-103">Procedure: Speciale verkoopprijzen en kortingen registreren</span><span class="sxs-lookup"><span data-stu-id="fe97e-103">How to: Record Special Sales Prices and Discounts</span></span>

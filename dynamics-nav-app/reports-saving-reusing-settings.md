@@ -2,7 +2,7 @@
 title: Opgeslagen instellingen in rapporten wijzigen en erop toepassen
 description: Beschrijft het gebruik van vooraf gedefinieerde opties en filters om een lijst aan te passen en de juiste gegevens te genereren.
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: customization, personalization
 ms.date: 09/08/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c63b5585f724a60007e836ab06333798bce65129
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1ccdde7dd7b02fcd23f7db10ad89594c09d57492
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-saved-settings-on-reports"></a><span data-ttu-id="dd687-103">Opgeslagen instellingen in rapporten beheren</span><span class="sxs-lookup"><span data-stu-id="dd687-103">Managing Saved Settings on Reports</span></span>

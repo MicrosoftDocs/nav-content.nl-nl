@@ -3,7 +3,7 @@ title: Kasboeken, bankboeken of giroboeken invoeren en boeken
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u het kas- en het bankboek gebruiken om de transacties in te voeren die van invloed zijn op de kas- en bankrekening door **Kasboek** en **Bankboek** te gebruiken.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2e8c99b328d7ac15924089d0ba9246057bdfceaf
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: dda6c03b5e16dd5e44ce8453a46a61dfa2eff623
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-enter-and-post-cash-and-bank-or-giro-journals"></a><span data-ttu-id="e296d-103">Procedure: Kasboeken, bankboeken of giroboeken invoeren en boeken</span><span class="sxs-lookup"><span data-stu-id="e296d-103">How to: Enter and Post Cash and Bank or Giro Journals</span></span>
