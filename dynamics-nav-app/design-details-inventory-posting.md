@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Voorraadboeking'
 description: Elke voorraadtransactie, bijvoorbeeld een inkoopontvangst of een verkoopverzending boekt twee posten van verschillende soort.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

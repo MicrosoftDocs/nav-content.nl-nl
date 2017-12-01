@@ -2,7 +2,7 @@
 title: Boekingsperioden en boekjaren maken
 description: "U moet een boekjaar openen en boekhoudperioden definiëren voordat u in een boekjaar kunt boeken."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

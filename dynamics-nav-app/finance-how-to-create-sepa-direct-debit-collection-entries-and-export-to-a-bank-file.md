@@ -2,7 +2,7 @@
 title: Incasso-opdracht SEPA innen
 description: Maak een incasso-opdracht en exporteer een XML-bestand dat u naar uw elektronische bank verzendt of uploadt voor verwerking.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

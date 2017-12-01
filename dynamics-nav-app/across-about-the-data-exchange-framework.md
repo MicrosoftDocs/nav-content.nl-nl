@@ -2,7 +2,7 @@
 title: Over het kader voor gegevensuitwisseling
 description: De bestandsindeling voor het uitwisselen van gegevens in bankbestanden, elektronische documenten, valutawisselkoersen en andere met ERP-systemen varieert afhankelijk van de aanbieder van het gegevensbestand of de stream en van het land of de regio.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

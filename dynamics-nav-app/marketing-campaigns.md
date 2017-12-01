@@ -3,7 +3,7 @@ title: Marketingcampagnes instellen  in Dynamics NAV
 description: Hier wordt beschreven hoe u marketingcampagnes in Dynamics NAV instelt en uitvoert om prospects te vinden en aan te trekken en klanten vast te houden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

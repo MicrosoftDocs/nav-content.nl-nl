@@ -3,7 +3,7 @@ title: De testrapporten afdrukken voor kasboeken, bankboeken of giroboeken
 description: U kunt het rapport **KBG-boekingen - Test** gebruiken om de afschriftregels te bewerken en het effect ervan te bekijken voordat u kasboeken en bank- of giroboeken boekt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Artikelen verzenden
 description: "Afhankelijk van de magazijnconfiguratie, kunt u de verzending direct registreren in het gerelateerde uitgaande bedrijfsdocument, zoals een verkooporder, of magazijnverzendingsdocumenten gebruiken die deel uitmaken van een werkstroom en met verschillende magazijnactiviteiten zijn geïntegreerd."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

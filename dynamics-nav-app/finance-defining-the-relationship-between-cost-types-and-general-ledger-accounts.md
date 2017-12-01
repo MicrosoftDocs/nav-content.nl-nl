@@ -3,7 +3,7 @@ title: "De relatie tussen de kostensoorten en grootboekrekeningen definiëren"
 description: Leer hoe u de relatie tussen de kostensoort en de grootboekrekening definieert.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

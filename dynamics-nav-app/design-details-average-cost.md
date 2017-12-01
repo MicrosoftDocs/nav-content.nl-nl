@@ -2,7 +2,7 @@
 title: 'Ontwerpdetails: Gemiddelde kostprijs'
 description: De gemiddelde kostprijs van een artikel wordt berekend met een periodiek gewogen gemiddelde, dat wordt gebaseerd op de periode voor gemiddelde kostprijsberekening die in Dynamics NAV is ingesteld.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

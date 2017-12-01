@@ -3,7 +3,7 @@ title: Onderdelen verplaatsen naar een bewerkingsgebied in standaardmagazijnconf
 description: Indien artikelbewerkingen plaatsvinden in uw magazijnvestiging, moet u mogelijk artikelen tussen interne opslaglocaties verplaatsen om te reageren op interne brondocumenten, zoals productie-, assemblage- of serviceorders in de vestiging.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

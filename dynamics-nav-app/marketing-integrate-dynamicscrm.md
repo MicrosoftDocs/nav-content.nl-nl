@@ -3,7 +3,7 @@ title: Klanten beheren met Dynamics 365 for Sales
 description: "U kunt Dynamics 365 for Sales vanuit Dynamics NAV gebruiken om gegevens te koppelen en naadloze integratie en synchronisatie te hebben in het potentiële klant-naar-contanten proces."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

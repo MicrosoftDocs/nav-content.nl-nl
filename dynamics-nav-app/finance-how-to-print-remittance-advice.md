@@ -3,7 +3,7 @@ title: 'Procedure: Overschrijvingsbericht afdrukken'
 description: U kunt leveranciers helpen bij het uitvoeren van reconciliaties door het overschrijvingsbericht af te drukken voordat u een betalingsdagboek boekt en nadat u een betaling hebt geboekt.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

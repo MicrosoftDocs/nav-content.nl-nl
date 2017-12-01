@@ -3,7 +3,7 @@ title: Voorraad tellen, corrigeren en herindelen
 description: Beschrijft hoe u inventarisaties uitvoert, negatieve of positieve correcties uitvoert, en gegevens wijzigt, zoals locatie of lotnummer, in artikelposten of magazijnposten.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

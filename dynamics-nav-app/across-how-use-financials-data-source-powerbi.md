@@ -2,7 +2,7 @@
 title: Met Dynamics NAV een Power BI-gegevensbron maken
 description: U kunt uw Dynamics NAV-gegevens als gegevensbron in Power BI beschikbaar maken en krachtige rapporten maken van de status van uw bedrijf.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

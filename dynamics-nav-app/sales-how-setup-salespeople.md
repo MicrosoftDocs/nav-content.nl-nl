@@ -2,7 +2,7 @@
 title: Een verkoper instellen
 description: U kunt een identificatie voor elk van uw verkopers instellen, zodat u de prestaties van een individuele werknemer kunt bijhouden of een verkoper aan een contact kunt toewijzen.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

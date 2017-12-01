@@ -2,7 +2,7 @@
 title: Gebruikersmachtigingen toewijzen en machtigingensets maken of wijzigen
 description: Hier wordt beschreven hoe u Office 365-gebruikers toevoegt aan Dynamics NAV en vervolgens machtigingen, toegangsrechten en beveiligingsinstellingen toewijst.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

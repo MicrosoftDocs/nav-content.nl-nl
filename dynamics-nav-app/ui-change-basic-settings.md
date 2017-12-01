@@ -3,7 +3,7 @@ title: Basisinstellingen bekijken en bewerken in Dynamics NAV
 description: Leer hoe u enkele basisinstellingen in Dynamics NAV wijzigt, bijvoorbeeld het rolcentrum, bedrijf of de werkdatum.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

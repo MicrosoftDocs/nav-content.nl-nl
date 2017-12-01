@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Verschil'
 description: Verschil wordt gedefinieerd als het verschil tussen de werkelijke kosten en de vaste verrekenprijs, zoals in de volgende formule wordt beschreven.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

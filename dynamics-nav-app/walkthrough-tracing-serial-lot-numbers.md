@@ -3,7 +3,7 @@ title: 'Procedure: Serie-/lotnummers traceren'
 description: Als er productdefecten optreden, moeten de fouten worden opgespoord en de betreffende artikelen mogen het bedrijf niet verlaten. Als er al defecte artikelen zijn geleverd, is het belangrijk om bij te houden wie ze heeft ontvangen, zodat ze zo nodig kunnen worden teruggehaald.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

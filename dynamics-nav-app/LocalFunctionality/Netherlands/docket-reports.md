@@ -3,7 +3,7 @@ title: Borderelrapporten
 description: "Met de Nederlandse toepassing voor telebankieren kunt u posten voor dezelfde klant of leverancier die dezelfde transactiewijze hebben tot één betaal- of verzamelopdracht voor de bank combineren."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

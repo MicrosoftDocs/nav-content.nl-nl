@@ -3,7 +3,7 @@ title: Uitleenartikelen instellen
 description: U kunt uitleenartikelen instellen die u kunt uitlenen aan klanten ter vervanging van serviceartikelen waarvoor service wordt uitgevoerd.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'Best Practices voor instellen: Waarderingsmethode'
 description: De **Waarderingsmethode** op de artikelkaart definieert hoe de kostenstroom van het artikel wordt geregistreerd en of een werkelijke of gebudgetteerde waarde wordt gekapitaliseerd en gebruikt in de kostenberekening.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

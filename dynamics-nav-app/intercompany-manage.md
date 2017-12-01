@@ -3,7 +3,7 @@ title: Transacties tussen bedrijven binnen dezelfde organisatie
 description: Met de intercompany-functionaliteit kunt u zakelijke processen en transacties tussen bedrijven binnen dezelfde organisatie vereenvoudigen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

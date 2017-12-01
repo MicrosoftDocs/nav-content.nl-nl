@@ -2,7 +2,7 @@
 title: Overzicht van taken om Dynamics NAV in te stellen
 description: Beschrijft taken om Dynamics NAV in te stellen, te initialiseren en te configureren naar uw behoeften.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

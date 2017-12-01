@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Werken met orders voor de geplande begindatum'
 description: In dit onderwerp worden de regels beschreven die door planning op orders worden toegepast in de vaste zone.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

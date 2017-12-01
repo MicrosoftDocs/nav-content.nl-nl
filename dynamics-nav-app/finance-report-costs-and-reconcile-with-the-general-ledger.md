@@ -3,7 +3,7 @@ title: Kosten rapporteren en afstemmen met het grootboek
 description: "Aan het einde van boekhoudperioden (maandelijks, jaarlijks of anderszins) moet een reeks kostenbeheersings- en audittaken worden uitgevoerd om een juiste en gebalanceerde voorraadwaarde te rapporteren aan de financiële afdeling. Naast de boekingsroutine waarmee de afzonderlijke artikelwaardeposten worden overgebracht naar speciale grootboekrekeningen, zijn diverse lijsten, traceerfuncties en een speciaal reconciliatiehulpmiddel beschikbaar voor de auditor of controller die verantwoordelijk is voor dit bedrijfskritieke werk."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Veldtoewijzing voor het exporteren van bankbetalingbestanden
 description: Wanneer u betalingsbestanden exporteert met de functie Conversieservice voor bankgegevens, worden de gegevens die u exporteert, zichtbaar voor de aanbieder van de conversiefunctie.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

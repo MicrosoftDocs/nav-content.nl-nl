@@ -3,7 +3,7 @@ title: Planning met of zonder vestigingen
 description: Het is belangrijk dat u planningen met of zonder vestigingscodes op vraagregels begrijpt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

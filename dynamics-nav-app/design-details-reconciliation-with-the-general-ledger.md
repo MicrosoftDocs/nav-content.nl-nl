@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Reconciliatie met het grootboek'
 description: In dit onderwerp wordt beschreven hoe u het grootboek reconcilieert wanneer u voorraadtransacties, zoals verkoopverzendingen, productie-output of negatieve herwaarderingen, boekt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

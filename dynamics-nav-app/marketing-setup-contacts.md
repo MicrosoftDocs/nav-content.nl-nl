@@ -3,7 +3,7 @@ title: Informatie instellen voor contactpersonen
 description: Schetst de taken voor het opgeven van informatie en codes, bijvoorbeeld over sectorgroepen en zakenrelaties, voordat u contactpersonen instelt.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

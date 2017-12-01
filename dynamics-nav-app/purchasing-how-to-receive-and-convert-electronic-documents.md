@@ -2,7 +2,7 @@
 title: Elektronische documenten ontvangen en converteren
 description: U kunt elektronische documenten rechtstreeks van handelspartners of via een OCR-service ontvangen.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Een klantenkaart maken om nieuwe klanten te registreren
 description: Meer informatie over hoe u een leverancierskaart maakt om een nieuwe leverancier te registreren.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

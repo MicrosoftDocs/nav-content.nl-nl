@@ -3,7 +3,7 @@ title: Magazijntoewijzingen zoeken
 description: Als u uw magazijntoewijzingen wilt weergeven, opent u het kaartvenster voor een geselecteerd artikel. Als er magazijninstructies zijn gemaakt, zijn de Nemen- en Plaatsen-regels zichtbaar en kunt u beginnen aan een toewijzing. In sommige magazijnen heeft de manager wellicht specifieke instructies toegewezen aan elke werknemer.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

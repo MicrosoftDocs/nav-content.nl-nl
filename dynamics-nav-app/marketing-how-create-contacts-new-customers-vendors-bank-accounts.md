@@ -3,7 +3,7 @@ title: Een klant of leverancier maken van een contact
 description: U kunt een bestaand contact vastleggen als klant, leverancier of bankrekening met bestaande gegevens en een zakenrelatie opgeven.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

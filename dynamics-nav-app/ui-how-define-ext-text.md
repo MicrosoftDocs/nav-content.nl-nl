@@ -3,7 +3,7 @@ title: "Extra regels toevoegen om uitgebreide tekst te definiëren voor een arti
 description: U kunt extra regels toevoegen om de standaardtekst uit te breiden die een artikel beschrijft.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

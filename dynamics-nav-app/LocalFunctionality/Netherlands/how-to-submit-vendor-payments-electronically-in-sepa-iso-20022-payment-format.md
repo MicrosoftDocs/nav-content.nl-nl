@@ -3,7 +3,7 @@ title: Leveranciersbetalingen elektronisch versturen in de betalingsindeling SEP
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u elektronische SEPA-leveranciersbetalingen (Single Euro Payments Area) ISO 20022 maken en verzenden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

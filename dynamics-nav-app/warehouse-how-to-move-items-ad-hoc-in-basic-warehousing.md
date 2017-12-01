@@ -3,7 +3,7 @@ title: Artikelen ad hoc verplaatsen in standaardmagazijnconfiguraties
 description: Mogelijk moet u soms artikelen verplaatsen tussen interne opslaglocaties, opslaglocaties voor ontvangst of verzending uitgezonderd, zonder een specifieke vraag uit een brondocument. U kunt deze ad hoc verplaatsingen bijvoorbeeld uitvoeren om het magazijn te herstructureren, items naar een inspectiegebied te brengen of extra items naar en van een productiegebied te verplaatsen zonder een relatie in het systeem met het brondocument van de productieorder.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

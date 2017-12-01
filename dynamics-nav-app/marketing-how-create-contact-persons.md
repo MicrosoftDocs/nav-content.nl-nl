@@ -3,7 +3,7 @@ title: Contacten maken
 description: Beschrijft hoe u een contactkaart maakt voor elke nieuw persoon of prospect waarmee u contact onderhoudt of een zakelijke relatie hebt.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

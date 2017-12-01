@@ -3,7 +3,7 @@ title: Voorkeursmethoden voor verzending van verkoopdocumenten instellen
 description: Beschrijft hoe u voor elke klant de voorkeursmethode voor het verzenden van verkoopdocumenten instelt, bijvoorbeeld e-mailadres, PDF, elektronisch document, enzovoort.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

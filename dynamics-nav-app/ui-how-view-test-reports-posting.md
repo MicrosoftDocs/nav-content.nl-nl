@@ -3,7 +3,7 @@ title: Een testrapport controleren voordat u een verkoop- of inkoopdocument boek
 description: Voordat u een document boekt, bijvoorbeeld, een order of een creditnota, kunt u het testen en controleren op fouten die boeking kunnen blokkeren.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

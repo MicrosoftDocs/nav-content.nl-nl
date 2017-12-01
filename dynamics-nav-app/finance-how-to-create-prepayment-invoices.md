@@ -3,7 +3,7 @@ title: Vooruitbetalingsfacturen maken
 description: Leer omgaan met situaties waarin u of uw leverancier vooruitbetaling verlangt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

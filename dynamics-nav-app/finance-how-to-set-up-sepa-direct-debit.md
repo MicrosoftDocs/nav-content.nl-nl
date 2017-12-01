@@ -2,7 +2,7 @@
 title: Automatische incasso via SEPA instellen
 description: Leer hoe u automatische incasso door SEPA kunt instellen in Dynamics NAV
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

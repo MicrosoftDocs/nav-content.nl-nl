@@ -3,7 +3,7 @@ title: Contacten koppelen aan klanten en leveranciers
 description: Beschrijft hoe u een contact met een klant, leverancier of bankrekening van hetzelfde bedrijf koppelt, zodat u algemene gegevens kunt synchroniseren.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

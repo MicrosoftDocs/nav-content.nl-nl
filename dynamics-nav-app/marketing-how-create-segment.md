@@ -3,7 +3,7 @@ title: Segmenten maken
 description: Beschrijft hoe u een segment maakt voor een groep contacten in Dynamics NAV, bijvoorbeeld om verschillende contacten een direct mail te sturen.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

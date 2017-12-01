@@ -3,7 +3,7 @@ title: Aangepaste lay-outs voor rapporten en documenten maken en wijzigen
 description: Leren hoe u uw eigen, aangepaste lay-outs maakt om de weergave aan te passen van een rapport wanneer het wordt bekeken, afgedrukt of opgeslagen.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Interacties beheren met uw contacten
 description: U kunt alle soorten communicatie of interactie tussen uw bedrijf en uw contacten beheren. Bijvoorbeeld brieven, telefoongesprekken, vergaderingen, enzovoort.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

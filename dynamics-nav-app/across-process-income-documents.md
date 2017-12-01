@@ -3,7 +3,7 @@ title: Inkomende documenten verwerken
 description: Als u een extern document, zoals een PDF, wilt registreren in Dynamics NAV, moet u eerst een inkomende documentrecord maken of voltooien.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

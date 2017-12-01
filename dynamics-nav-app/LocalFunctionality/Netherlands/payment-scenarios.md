@@ -3,7 +3,7 @@ title: Betalingsscenario's
 description: "Op basis van een verkoop- of inkoopfactuur of van een creditnota kan een voorstel worden gegenereerd en geëxporteerd, zodat dat door onze bank kan worden verwerkt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

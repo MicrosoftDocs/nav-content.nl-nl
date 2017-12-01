@@ -3,7 +3,7 @@ title: Segmenten beheren en contacten selecteren om op te nemen
 description: Schetst de taken voor het maken van een segment om een groep contacten op basis van specifieke criteria te selecteren, bijvoorbeeld, contacten in een bepaalde branche waarop u zich wilt richten.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

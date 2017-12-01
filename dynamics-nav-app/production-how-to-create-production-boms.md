@@ -3,7 +3,7 @@ title: Productiestuklijsten maken
 description: Een productiestuklijst bevat hoofdgegevens waarmee de onderdelen en subverzamelingen worden beschreven die worden gebruikt bij de productie van een hoofdartikel. Nadat een productieorder voor dat hoofdartikel is gemaakt, bepaalt de productiestuklijst de berekening van materiaalbehoeften zoals weergegeven in het venster **Prod.-ordermaterialen**.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

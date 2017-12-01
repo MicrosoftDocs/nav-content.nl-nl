@@ -3,7 +3,7 @@ title: Interacties maken voor contacten en segmenten
 description: Beschrijft hoe u interacties maakt voor communicatie die u hebt met uw contacten en segmenten in Dynamics NAV, bijvoorbeeld direct mail.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

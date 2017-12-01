@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Maximaal aantal'
 description: Het beleid Maximum aantal is een manier om voorraad bij te houden met behulp van een bestelpunt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

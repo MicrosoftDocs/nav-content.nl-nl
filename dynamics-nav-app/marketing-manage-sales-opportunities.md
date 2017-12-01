@@ -3,7 +3,7 @@ title: "Verkoopopportunities en potentiële klanten beheren"
 description: "Beschrijft het beheren van inkomende potentiële klanten of verkoopopportunity's in Dynamics NAV en het koppelen van de opportunity aan een verkoper om toekomstige verkopen te traceren."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

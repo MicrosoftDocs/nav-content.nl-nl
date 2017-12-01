@@ -3,7 +3,7 @@ title: Kas-Bank-Giro
 description: "Met Kas/Bank/Giro kunt u zowel kas- als bank-/girotransacties op een gemakkelijkere en rechtstreeksere manier in het systeem boeken dan met de Financiële dagboeken."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

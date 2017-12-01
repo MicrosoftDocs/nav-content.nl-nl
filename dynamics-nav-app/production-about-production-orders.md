@@ -3,7 +3,7 @@ title: Informatie over productieorders
 description: Productieorders worden gebruikt voor het beheren van de conversie van ingekochte materialen naar geproduceerde artikelen. Productieorders (project- of werkorders) leiden het werk door verschillende faciliteiten (afdelingen of bewerkingsplaatsen) op de shopfloor.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

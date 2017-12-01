@@ -3,7 +3,7 @@ title: Loon- of salarisgegevens importeren met de extensie Ceridian Payroll
 description: Gebruik deze extensie om salaristransacties te importeren vanuit de services Ceridian HR/Payroll (VS) en Ceridian PowerPay (Canada).
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

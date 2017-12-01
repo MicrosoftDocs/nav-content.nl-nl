@@ -3,7 +3,7 @@ title: Plannen van opslagactiviteiten in werkbladen
 description: Als voor de vestiging zowel opslag- als ontvangstverwerking is ingesteld en u opslaginstructies wilt plannen voor een aantal ontvangsten en bovendien liever niet wilt dat de magazijnmedewerkers de instructies van het programma voor afzonderlijk geboekte ontvangsten volgen, kunt u een opslagvoorstel maken.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

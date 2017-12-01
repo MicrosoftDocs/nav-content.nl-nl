@@ -3,7 +3,7 @@ title: Manieren om problemen op te lossen of te omzeilen met aanmelden bij Self-
 description: Meer informatie over de meest voorkomende redenen waarom u de inschrijving bij Dynamics NAV niet kunt voltooien, en manieren om het op te lossen.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

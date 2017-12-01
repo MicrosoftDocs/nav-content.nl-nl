@@ -3,7 +3,7 @@ title: Vaste activa afschrijven of aflossen
 description: "U moet definiëren hoe u uw vaste activa afschrijft, in waarde vermindert of aflost."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

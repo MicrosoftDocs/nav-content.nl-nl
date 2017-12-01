@@ -3,7 +3,7 @@ title: Documenten goedkeuren of weigeren in werkstromen
 description: Goedkeuring aanvragen, weigeren of delegeren van bijvoorbeeld een inkoop- of verkoopdocument, als onderdeel van een werkstroom.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

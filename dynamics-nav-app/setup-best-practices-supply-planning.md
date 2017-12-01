@@ -3,7 +3,7 @@ title: 'Aanbevolen procedures instellen: Voorraadplanning'
 description: Voorraadplanning is essentieel zakelijk gebied. Wanneer voorraadplanning goed is ingesteld en wordt gebruikt, helpt het een bedrijf nulvoorraad te voorkomen en zowel bestelkosten als voorraadkosten te reduceren.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

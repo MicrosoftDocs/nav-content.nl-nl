@@ -3,7 +3,7 @@ title: Servicebeheerprocessen instellen
 description: Leer hoe u processen instelt om ervoor te zorgen dat uw klanten tevreden zijn over uw klantenservice.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

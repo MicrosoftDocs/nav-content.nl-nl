@@ -3,7 +3,7 @@ title: Webbronnen voor contactbedrijven instellen
 description: "U kunt internet- of webbronnen definiëren en toewijzen aan een contactbedrijf om te helpen aangeven hoe u informatie wilt zoeken over uw contacten."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Met btw werken bij verkoop en inkoop
 description: In dit onderwerp wordt beschreven hoe u taken, zoals het corrigeren van geboekte btw, uitvoert. In EU-landen/-regio's moet voor elke verkoop- en inkooptransactie btw worden berekend. In dit onderwerp wordt beschreven hoe.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

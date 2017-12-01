@@ -3,7 +3,7 @@ title: Koppelen vanuit records naar externe gegevens of programma's
 description: Koppel een hyperlink aan een document of een website aan een bepaalde record, zoals een klant of document.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

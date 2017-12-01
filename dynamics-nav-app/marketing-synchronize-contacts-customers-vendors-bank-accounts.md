@@ -3,7 +3,7 @@ title: Contacten met klanten en leveranciers synchroniseren
 description: "U koppelt of synchroniseert contactgegevens van contacten die tevens klanten, leveranciers of bankrekeningen zijn, zodat u de gegevens slechts op één locatie hoeft bij te werken."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

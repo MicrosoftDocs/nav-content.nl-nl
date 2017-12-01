@@ -2,7 +2,7 @@
 title: Gegevens in velden invoeren
 description: Er zijn veel algemene functies waarmee u snel en gemakkelijk gegevens kunt invoeren. De algemene functies voor het invoeren van gegevens worden allemaal in dit onderwerp beschreven.
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

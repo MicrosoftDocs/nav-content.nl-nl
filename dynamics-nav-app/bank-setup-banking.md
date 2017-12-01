@@ -3,7 +3,7 @@ title: Bankieren instellen
 description: Met bankrekeningkaarten kunt u uw bankrekeningen bijhouden en bankfeeds instellen om gegevens uit te wisselen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

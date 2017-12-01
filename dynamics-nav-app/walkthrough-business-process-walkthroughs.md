@@ -3,7 +3,7 @@ title: Procedures voor bedrijfsprocessen
 description: "Deze selectie van procedures biedt stapsgewijze, end-to-end bedrijfsprocessen die u kunt uitvoeren met behulp van het demobedrijf CRONUS International Ltd. De scenario's bestaan uit meerdere procedures, waarvan sommige normaliter zouden worden uitgevoerd door één gebruiker, terwijl bij andere diverse verschillende gebruikersrollen zijn betrokken. Teneinde de werkomgeving na te bootsen, bevatten sommige van de scenario's instellingsstappen die nodig zijn voor het uitvoeren van de oefeningen zoals beschreven. Deze stappen kunnen inzicht bieden in de aard van de informatie die gebruikers moeten delen met de IT-professionals van hun bedrijf."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

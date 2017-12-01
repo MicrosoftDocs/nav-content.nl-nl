@@ -3,7 +3,7 @@ title: Serviceprocessen plannen
 description: "Een overzicht van de taken om regels en waarden in te stellen om uw servicebeleid en -processen te definiëren."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Servicestatistiek
 description: Krijg een snel overzicht van de inhoud van servicedocumenten, zoals orders, offertes, facturen of creditnota's, van de details op de afzonderlijke serviceregels en van de serviceartikelen.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

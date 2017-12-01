@@ -3,7 +3,7 @@ title: Bepalen welke inkomende documenten u ziet
 description: Pas de standaardweergave aan van inkomende documenten, zoals e-facturen, om de lijst met verwerkte en onverwerkte records te verbeteren.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

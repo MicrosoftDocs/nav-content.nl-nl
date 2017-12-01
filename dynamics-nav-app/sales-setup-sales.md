@@ -3,7 +3,7 @@ title: Overzicht van taken om verkoopprocessen te configureren
 description: "Schetst taken om regels en waarden in te stellen om uw verkoopbeleid en -processen te definiëren."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

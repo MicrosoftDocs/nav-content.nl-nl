@@ -3,7 +3,7 @@ title: De extensie Afbeeldingsanalyse gebruiken
 description: Met deze extensie kunt u afbeeldingen analyseren van contacten en artikelen om kenmerken te zoeken, zodat u deze snel kunt toewijzen in Dynamics NAV.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

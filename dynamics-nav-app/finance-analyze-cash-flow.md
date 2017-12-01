@@ -3,7 +3,7 @@ title: Cashflows analyseren
 description: Beschrijft hoe u de diagrammen Cashcyclus, Inkomsten en uitgaven, Cashflow, en Cashflowprognose gebruikt om verleden en toekomstige stroom van geld in en uit uw bedrijf te analyseren.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

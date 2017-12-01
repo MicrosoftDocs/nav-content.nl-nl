@@ -3,7 +3,7 @@ title: Dynamics NAV aanpassen
 description: Uw apps en extensies maken, demonstreren en promoten voor Dynamics NAV.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'Procedure: Inkomsten en kosten uitstellen'
 description: Als u inkomsten en kosten wilt verantwoorden in andere perioden dan waarin de transactie is geboekt, kunt u kosten en inkomsten automatisch uitstellen via een opgegeven schema.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

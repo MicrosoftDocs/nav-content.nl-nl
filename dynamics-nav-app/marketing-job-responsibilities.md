@@ -3,7 +3,7 @@ title: Functiegroepen instellen voor contacten
 description: "U kunt een functiegroepcode definiëren en vervolgens toewijzen aan een contact om de taken aan te geven waarvoor uw contact verantwoordelijk is in hun bedrijf, bijvoorbeeld, IT of productie."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

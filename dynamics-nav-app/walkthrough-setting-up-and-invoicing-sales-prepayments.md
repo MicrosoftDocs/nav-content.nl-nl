@@ -3,7 +3,7 @@ title: 'Procedure: Vooruitbetalingen verkoop instellen en factureren'
 description: "Vooruitbetalingen zijn betalingen die worden gefactureerd en geboekt naar een verkoop- of inkoopvooruitbetalingsorder vóór de definitieve facturering. U kunt een aanbetaling vragen voordat u bestelde artikelen fabriceert, of u kunt een betaling vragen voordat u artikelen naar een klant verzendt. Met de vooruitbetalingsfunctionaliteit in [!INCLUDE[d365fin](includes/d365fin_md.md)] kunt u vereiste borgsommen factureren en innen van klanten of kunt u borgsommen overmaken aan leveranciers. Zodoende zorgt u dat alle betalingen worden geboekt tegen een factuur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

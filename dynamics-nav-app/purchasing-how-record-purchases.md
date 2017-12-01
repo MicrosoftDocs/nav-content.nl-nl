@@ -3,7 +3,7 @@ title: Een nieuwe inkoopfactuur maken en inkopen vastleggen
 description: Hierin wordt beschreven hoe u voorraad en serviceartikelen inkoopt door inkoopfacturen of inkooporders te maken en te boeken.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

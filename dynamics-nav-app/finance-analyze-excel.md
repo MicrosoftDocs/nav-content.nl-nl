@@ -2,7 +2,7 @@
 title: "Werken met financiële overzichten in Excel"
 description: "Leer hoe u de financiële overzichten in Microsoft Excel kunt openen vanuit Dynamics NAV voor een betere analyse."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

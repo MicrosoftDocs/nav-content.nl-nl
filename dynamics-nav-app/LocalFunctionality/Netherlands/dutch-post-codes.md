@@ -3,7 +3,7 @@ title: Nederlandse postcodes
 description: In Nederland levert een bedrijf genaamd Cendris postcodes en postcode-updates voor uw bedrijf. Deze updates zijn belangrijk voor marketing- en relatiebeheeractiviteiten.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

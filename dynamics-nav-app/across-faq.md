@@ -2,7 +2,7 @@
 title: Veelgestelde vragen over het gebruik van Dynamics NAV
 description: Antwoorden op veelgestelde vragen over hoe u zich aanmeldt voor Dynamics NAV en wat u moet doen om aan de slag te gaan.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

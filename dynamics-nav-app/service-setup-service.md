@@ -3,7 +3,7 @@ title: CRM - Service instellen
 description: Overzicht van taken om CRM - Service in te stellen op een manier die past bij de manier waarop uw organisaties hun services beheren.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

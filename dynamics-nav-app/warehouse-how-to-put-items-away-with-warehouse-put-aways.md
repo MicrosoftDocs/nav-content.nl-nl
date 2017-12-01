@@ -3,7 +3,7 @@ title: 'Procedure: artikelen opslaan met magazijnopslag'
 description: Wanneer voor de vestiging magazijnopslag- en -ontvangstverwerking is vereist, beheert u de opslag van artikelen met de functie voor magazijnopslagdocumenten.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

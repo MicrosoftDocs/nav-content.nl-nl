@@ -2,7 +2,7 @@
 title: "Klantenposten vereffenen om handmatig klantbetalingen te reconciliëren"
 description: Beschrijft hoe u kasontvangsten of terugbetalingen van klanten vereffent met een of meer openstaande klantposten en klantbetalingen reconcilieert.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Vraag en aanbod afstemmen'
 description: Om te begrijpen hoe het planningssysteem werkt, is het noodzakelijk om de prioriteitsdoelen van het planningssysteem te begrijpen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

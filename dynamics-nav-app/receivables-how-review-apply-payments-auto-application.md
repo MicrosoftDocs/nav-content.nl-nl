@@ -3,7 +3,7 @@ title: "Automatisch vereffende betalingen verifiëren en betalingen handmatig op
 description: Nadat betalingen automatisch zijn toegepast, kunt u alle posten voor een betaling controleren en handmatig de posten die verkeerd zijn vereffend, opnieuw vereffenen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

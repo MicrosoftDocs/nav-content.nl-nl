@@ -3,7 +3,7 @@ title: Verkoopcycli instellen voor opportunities en cyclusfasen
 description: Beschrijft hoe u verkoopstadia definieert, van eerste contact tot sluiten, om een verkoopcyclus te maken en toe te wijzen aan opportunities in Dynamics NAV.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

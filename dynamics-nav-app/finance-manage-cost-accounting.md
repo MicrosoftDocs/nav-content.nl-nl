@@ -3,7 +3,7 @@ title: Kosten verantwoorden
 description: Kostprijsboekhouding wordt gebruikt om te begrijpen welke kosten er verbonden zijn aan het runnen van een bedrijf. Om aan de slag te gaan met kostprijsboekhouding kunt u de volgende onderwerpen raadplegen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Velden toevoegen aan een Word-rapport-lay-out
 description: Hier wordt beschreven hoe u velden uit een rapportgegevensset toevoegt aan een bestaande Word-rapportlay-out voor een rapport.
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

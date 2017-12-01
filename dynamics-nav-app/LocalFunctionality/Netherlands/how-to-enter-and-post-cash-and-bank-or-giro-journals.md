@@ -3,7 +3,7 @@ title: Kasboeken, bankboeken of giroboeken invoeren en boeken
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u het kas- en het bankboek gebruiken om de transacties in te voeren die van invloed zijn op de kas- en bankrekening door **Kasboek** en **Bankboek** te gebruiken.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

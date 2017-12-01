@@ -2,7 +2,7 @@
 title: Objecten openstellen als webservices
 description: Publiceer [!INCLUDE[d365fin](includes/d365fin_md.md)]-objecten als webservices om ze direct beschikbaar te maken op het netwerk.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

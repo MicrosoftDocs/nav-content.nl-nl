@@ -3,7 +3,7 @@ title: Cashflowanalyse instellen
 description: De grafieken in het rolcentrum Rekeningen instellen om de geldstroom in uw bedrijf te helpen analyseren, inclusief kosten en inkomsten, liquiditeit en kasontvangsten minus contante betalingen.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: De hoeveelheid details aanpassen die u ziet in overzichten
 description: U kunt gedetailleerde weergaven in lijsten weergegeven die meer informatie bieden, of als tekens die gemakkelijk visueel te scannen zijn.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

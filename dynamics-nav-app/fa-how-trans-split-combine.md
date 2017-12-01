@@ -3,7 +3,7 @@ title: Vaste activa opnieuw classificeren
 description: U herclassificeert een vast activum om het over te brengen naar een andere afdeling, het op te splitsen of te combineren met andere vaste activa.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Werkstromen inschakelen
 description: Wanneer u een werkstroom hebt gemaakt en u zeker weet dat deze gereed is om te starten, moet u de werkstroom inschakelen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

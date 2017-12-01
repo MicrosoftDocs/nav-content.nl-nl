@@ -3,7 +3,7 @@ title: Overzicht van taken om aan servicecontracten te voldoen
 description: Hier worden de taken voor het beheren van servicecontracten met klanten beschreven.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

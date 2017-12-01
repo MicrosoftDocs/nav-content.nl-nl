@@ -3,7 +3,7 @@ title: Service- en werkuren instellen
 description: U kunt de gebruikelijke servicewerkuren in het bedrijf opgeven. Deze service-uren worden gebruikt om de responsdatum en -tijd voor serviceorders en -offertes te berekenen, en om responstijdwaarschuwingen te verzenden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

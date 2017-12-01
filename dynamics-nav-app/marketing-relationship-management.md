@@ -3,7 +3,7 @@ title: Relatiebeheer
 description: "De functies van het relatiebeheer in Dynamics NAV ondersteunen uw verkoopinspanningen en u kunt gegevens over contacten en prospects openen zodat u klanten efficiënter kunt bedienen."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

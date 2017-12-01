@@ -3,7 +3,7 @@ title: Dynamics NAV gebruiken zonder Outlook
 description: "U kunt Dynamics NAV gebruiken als uw bedrijfsinbox, omdat deze is geïntegreerd met Office 365. U kunt echter ook zonder Outlook in een browser werken, of op uw mobiele apparaat."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

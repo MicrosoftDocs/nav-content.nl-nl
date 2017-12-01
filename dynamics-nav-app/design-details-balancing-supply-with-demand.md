@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Vraag en aanbod afstemmen'
 description: De kern van het planningssysteem omvat het afstemmen van vraag en voorziening via het voorstellen van gebruikeracties om de voorzieningenorders te wijzigen als er geen evenwicht is. Dit vindt plaats per combinatie van variant en vestiging.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

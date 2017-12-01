@@ -3,7 +3,7 @@ title: Overzicht dagboekboekingsregel
 description: In dit onderwerp worden de wijzigingen beschreven die zijn doorgevoerd in Codeunit 12, **Dagboek - Boekingsregel**, het belangrijkste toepassingsobject voor grootboekboekingen en de enige plaats om grootboek-, btw-, klanten- en leveranciersposten in te voegen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Overzicht van vooraf sluiten van rapporten om rekeningnauwkeurigheid te 
 description: "Biedt een overzicht van de rapporten die u kunt gebruiken om de nauwkeurigheid te verifiëren van rekeningen voordat de boeken worden gesloten aan het eind van een jaar of een periode."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

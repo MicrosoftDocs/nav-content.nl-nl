@@ -3,7 +3,7 @@ title: Productieorders maken op basis van verkooporders
 description: U kunt productieorders van verkooporders maken in de module Verkoop & Marketing.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Werken met slimme berichten en opgeven wanneer u deze ziet
 description: U kunt berichten ontvangen die u informeren over statusveranderingen of gebeurtenissen, bijvoorbeeld een achterstallig saldo of lage voorraad.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

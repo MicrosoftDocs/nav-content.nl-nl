@@ -3,7 +3,7 @@ title: 'Procedure: Werknemersafwezigheid beheren'
 description: Beschrijft hoe u werknemersafwezigheid registreert en afwezigheidsstatistieken analyseert.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Voorraad- en productiekosten verwerken
 description: Hoewel de functionaliteit voor kostenadministratie grotendeels wordt uitgedrukt in onderliggende processen zonder interactie van de gebruiker, zoals vereffening van posten en automatische herwaardering van kosten, is een aantal velden, vensters en lijsten gericht op gebruikers die direct of indirect de kosten van artikelen en bewerkingen beheren.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

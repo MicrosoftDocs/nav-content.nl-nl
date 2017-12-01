@@ -2,7 +2,7 @@
 title: Dynamics NAV en Power BI Content Packs
 description: Inzicht, bedrijfsinformatie en KPI's krijgen uit uw Dynamics NAV-gegevens is gemakkelijk met Power BI en de Dynamics NAV Content Packs.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

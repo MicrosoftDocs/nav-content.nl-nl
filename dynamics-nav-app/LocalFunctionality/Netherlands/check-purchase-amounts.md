@@ -3,7 +3,7 @@ title: Inkoopbedragen controleren
 description: Voordat u een inkoopfactuur of creditnota boekt, wordt gecontroleerd of het 'bedrag incl. btw' en het 'btw-bedrag' die vermeld staan op het inkooporderdocument gelijk zijn aan het totaalbedrag van de ingevoegde inkoopregels.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

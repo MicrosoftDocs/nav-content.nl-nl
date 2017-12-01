@@ -3,7 +3,7 @@ title: HRM-functionaliteit gebruiken
 description: U kunt nieuwe medewerkers registreren, informatie over werknemers bewerken en afwezigheid registreren en analyseren.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

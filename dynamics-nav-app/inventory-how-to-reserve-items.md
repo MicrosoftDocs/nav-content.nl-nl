@@ -3,7 +3,7 @@ title: Artikelen reserveren
 description: U kunt artikelen reserveren voor verkooporders, inkooporders en productieorders. U kunt artikelen in voorraad reserveren of inkomend op openstaande documentregels.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

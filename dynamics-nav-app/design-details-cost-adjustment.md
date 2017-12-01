@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Kostenwaardering'
 description: Het belangrijkste doel van kostenherwaardering is wijzigingen in kosten van kostenbronnen door te sturen naar kostenontvangers, volgens de waarderingsmethode van een artikel, om de juiste voorraadwaardering te bieden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

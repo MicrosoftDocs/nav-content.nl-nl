@@ -3,7 +3,7 @@ title: Werken met urenstaten voor projecten
 description: Beschrijft hoe u een urenstaat voor een project maakt, er planningsregels naar kopieert, werksoorten definieert, de urenstaat invult en deze verzendt voor goedkeuring.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

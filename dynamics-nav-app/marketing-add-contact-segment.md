@@ -3,7 +3,7 @@ title: "De contacten in een segment definiëren"
 description: "Nadat u een segment hebt gemaakt, kunt u contacten toevoegen aan het segment, bijvoorbeeld als onderdeel van een marketingcampagne die is gericht op specifieke klanten of cliënten."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Rapporten instellen om te worden afgedrukt op specifieke printers
 description: Leren over het opgeven van een printer voor een lijst en het gebruik van het venster Printerselecties.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

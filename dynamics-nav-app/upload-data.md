@@ -2,7 +2,7 @@
 title: Uw oude bedrijfsgegevens importeren in Dynamics NAV
 description: U kunt gegevens voor klanten, leveranciers en voorraad importeren, bijvoorbeeld uit Excel, QuickBooks of Dynamics GP, in Dynamics NAV.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

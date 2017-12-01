@@ -2,7 +2,7 @@
 title: Informatie voor uzelf toevoegen aan records
 description: U kunt een notitie aan een record in de toepassing toevoegen. Stel dat u extra informatie hebt over een verkooporder die niet in een van de velden op de verkooporder kan worden ingevoerd.
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

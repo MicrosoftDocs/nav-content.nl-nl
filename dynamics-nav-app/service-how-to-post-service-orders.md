@@ -3,7 +3,7 @@ title: Serviceorders boeken
 description: "Wanneer u een serviceorder hebt gemaakt, de benodigde gegevens hebt ingevuld en eventuele wijzigingen hebt aangebracht, kunt u de serviceorder boeken. De order moet minimaal één serviceartikelregel en één serviceregel bevatten voordat u deze kunt boeken. Als de order meer dan één serviceregel bevat, worden alle regels tegelijk geboekt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

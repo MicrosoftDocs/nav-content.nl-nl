@@ -2,7 +2,7 @@
 title: Verkoopraamcontracten maken
 description: Gebruik raamcontracten als een klant ermee heeft ingestemd grote hoeveelheden te kopen die in meerdere kleinere zendingen moeten worden geleverd gedurende een bepaalde periode.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

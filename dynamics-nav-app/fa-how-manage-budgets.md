@@ -3,7 +3,7 @@ title: Budgetten voor vaste actvia beheren
 description: U stelt gegevens over toekomstige investeringen, buitengebruikstellingen en afschrijvingen van vaste activa in om te helpen budgetten en prognoses voor te bereiden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Tabelstructuur'
 description: Om te begrijpen hoe de functie voor opslag en boekingen van dimensieposten opnieuw wordt ontworpen, is het belangrijk om de tabelstructuur te begrijpen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

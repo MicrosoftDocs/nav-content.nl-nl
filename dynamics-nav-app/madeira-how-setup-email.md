@@ -3,7 +3,7 @@ title: E-mail instellen
 description: Hier wordt beschreven hoe u de SMTP-server van het bedrijf gebruikt om e-mailberichten te verzenden en ontvangen binnen Dynamics NAV, of hoe u de e-mailserverinstellingen gebruikt die met het Office 365-abonnement zijn gemaakt.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

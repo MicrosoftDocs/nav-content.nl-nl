@@ -3,7 +3,7 @@ title: Saldi tussen kostensoort, kostenplaats en kostenobject
 description: Wanneer u kostprijsboekhouding instelt, moet u ervoor zorgen dat alle posten zijn toegewezen aan een kostensoort , alsmede een kostenplaats of kostenobject. Dat betekent dat aan elke kostenpost een kostensoort moet zijn toegewezen evenals een kostenplaatscode of kostenobject. Deze regel zorgt ervoor dat elke kostenpost wordt weergegeven in hetzij de kostenplaatsen of de kostenobjecten, maar nooit op beide locaties.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Gegevens ordenen met de sorteerfunctie
 description: U kunt de sorteerfunctie gebruiken om een overzicht van uw gegevens te krijgen. U kunt bijvoorbeeld klanten sorteren op valutacode om een bepaalde selectie van klanten te krijgen.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

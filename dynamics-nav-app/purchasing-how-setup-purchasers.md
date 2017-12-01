@@ -3,7 +3,7 @@ title: Inkopers instellen en toewijzen aan leveranciers
 description: Als meerdere inkopers of inkoopagents bij uw bedrijf werken, kunt u deze voor statistische analyses organiseren.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Uw externe accountant toevoegen aan uw Dynamics NAV
 description: Leer hoe u uw externe accountant kunt uitnodigen voor uw Dynamics NAV.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

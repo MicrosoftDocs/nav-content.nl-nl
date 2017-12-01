@@ -2,7 +2,7 @@
 title: Het jaarlijkse bedrag van servicecontracten of servicecontractofferten wijzigen
 description: U kunt het bedrag wijzigen dat jaarlijks wordt gefactureerd in servicecontracten of servicecontractoffertes.
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

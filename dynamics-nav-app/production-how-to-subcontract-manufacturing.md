@@ -2,7 +2,7 @@
 title: Productie uitbesteden
 description: Zodra de inkooporder is gemaakt vanuit het uitbestedingsvoorstel, kan deze worden geboekt.
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: De manier aanpassen waarop informatie wordt weergegeven voor een gebruike
 description: Beschrijft hoe u de weergave van Dynamics NAV wilt aanpassen voor uw gebruikersaccount.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

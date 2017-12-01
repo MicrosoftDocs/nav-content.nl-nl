@@ -3,7 +3,7 @@ title: Werken met dimensies
 description: U gebruikt dimensies om posten te categoriseren, bijvoorbeeld per afdeling of project, zodat u gemakkelijk gegevens kunt traceren en analyseren.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

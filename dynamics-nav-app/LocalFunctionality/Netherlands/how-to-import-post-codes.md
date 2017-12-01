@@ -3,7 +3,7 @@ title: Postcodes importeren
 description: U kunt een bestand importeren dat postcodes opgeeft voor marketing- en relatiebeheeractiviteiten. De postcodegegevens die u importeert, worden in de tabel **Postcodebereik** opgeslagen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

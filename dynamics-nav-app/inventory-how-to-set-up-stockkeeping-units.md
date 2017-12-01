@@ -3,7 +3,7 @@ title: SKU's instellen
 description: In SKU's kunt u gegevens opnemen over de artikelen voor een bepaalde vestiging of een bepaalde variantcode.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: nl-nl
 ms.lasthandoff: 10/16/2017
 
 ---
-# Procedure: SKU's instellen:
+# <a name="how-to-set-up-stockkeeping-units"></a>Procedure: SKU's instellen:
 In SKU's kunt u gegevens opnemen over de artikelen voor een bepaalde vestiging of een bepaalde variantcode.  
 
  SKU's zijn een aanvulling op de artikelkaarten. Ze vervangen ze niet, hoewel ze wel zijn gekoppeld. Met SKU's kunt u voor een bepaald artikel onderscheid maken tussen gegevens betreffende een bepaalde vestiging (bijvoorbeeld een magazijn of distributiecentrum) of een bepaalde variant (bijvoorbeeld verschillende opslaglocatienummers of aanvullingsgegevens).  
 
-## SKU's instellen  
+## <a name="to-set-up-a-stockkeeping-unit"></a>SKU's instellen  
 
 1.  Klik op het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "Zoeken naar pagina of rapport"), voer **SKU's** in en klik vervolgens op de gerelateerde koppeling.  
 2.  Kies de actie **Nieuw**.  
@@ -36,7 +36,7 @@ Als u meerdere SKU's voor een artikel wilt maken, kunt u de batchverwerking **SK
 > [!NOTE]  
 >  De gegevens op de **SKU**-kaart hebben voorrang op de gegevens op de **artikelkaart**.  
 
-## Zie ook  
+## <a name="see-also"></a>Zie ook  
 [Procedure: Nieuwe artikelen registreren](inventory-how-register-new-items.md)  
 [Magazijnbeheer instellen](warehouse-setup-warehouse.md)  
 [Magazijnbeheer](warehouse-manage-warehouse.md)  

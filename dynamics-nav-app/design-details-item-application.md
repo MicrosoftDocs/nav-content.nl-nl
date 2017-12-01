@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Artikelvereffening'
 description: In dit onderwerp wordt beschreven waar het voorraadaantal en de voorraadwaarde worden geregistreerd wanneer u een voorraadtransactie boekt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

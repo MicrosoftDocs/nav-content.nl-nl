@@ -3,7 +3,7 @@ title: Overzicht van rapporten om ultimoafschriften te helpen voorbereiden
 description: "Levert een overzicht van de lijsten die u kunt gebruiken om gegevens te verzamelen om de ultimoafschriften van uw bedrijf voor te bereiden wanneer het financiële jaar wordt gesloten."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

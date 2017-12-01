@@ -3,7 +3,7 @@ title: Dynamics NAV gebruiken met Outlook
 description: "Dynamics NAV is nauw geïntegreerd met Office 365. U kunt al uw bedrijfs- en e-mailcommunicatie met klanten en leveranciers rechtstreeks in Outlook beheren."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

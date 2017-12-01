@@ -3,7 +3,7 @@ title: Aangepaste Power BI-rapporten weergeven
 description: U kunt Power BI-rapporten gebruiken om extra inzicht te krijgen in gegevens in lijsten in Dynamics NAV.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: De extensie Tax-bestandsindelingen (DK) gebruiken
 description: Deze extensie maakt het eenvoudig bestanden te exporteren die vooraf zijn ingedeeld om te voldoen aan de vereisten van de bank betreffende elektronische verzendingen.
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

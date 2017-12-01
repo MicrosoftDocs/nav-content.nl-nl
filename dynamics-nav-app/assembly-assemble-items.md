@@ -3,7 +3,7 @@ title: Assemblagebeheer
 description: "Ondersteun bedrijven die via eenvoudige processen, zonder noodzaak voor productiefunctionaliteit, componenten combineren om hun klanten van producten te voorzien, maar met functies om artikelen te assembleren, die worden geïntegreerd met bestaande functies, zoals verkoop, planning, reserveringen en magazijnbeheer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

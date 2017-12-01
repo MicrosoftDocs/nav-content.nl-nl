@@ -3,7 +3,7 @@ title: 'Ontwerpdetails: Voorraadwaardering'
 description: Voorraadwaardering XE "Voorraadwaardering" is de bepaling van de kosten die worden toegewezen aan een voorraadartikel, zoals uitgedrukt met de volgende vergelijking.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

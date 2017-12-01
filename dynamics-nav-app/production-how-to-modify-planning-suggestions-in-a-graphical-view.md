@@ -3,7 +3,7 @@ title: Planningsuggesties in een grafische weergave wijzigen
 description: Een typische planningsactiviteit is het wijzigen of toevoegen van planningsvoorstelregels om de voorgestelde aanvulorders te wijzigen voordat u ze vastlegt door de functie **Planningsboodschap uitvoeren** uit te voeren. In plaats van dit in het planningsvoorstel te doen, kunt u ook een grafische weergave te gebruiken.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

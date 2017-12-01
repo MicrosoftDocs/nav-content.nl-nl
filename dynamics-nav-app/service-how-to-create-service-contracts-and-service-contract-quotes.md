@@ -3,7 +3,7 @@ title: Werken met servicecontracten en servicecontractofferten
 description: U kunt een servicecontract handmatig of uit een servicecontractofferte maken. U kunt een contract op basis van een servicecontractofferte maken.
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

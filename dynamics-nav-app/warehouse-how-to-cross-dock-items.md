@@ -3,7 +3,7 @@ title: Artikelen cross-docken
 description: De cross-dockfunctionaliteit is beschikbaar als u voor de vestiging hebt ingesteld dat magazijnontvangst- en magazijnopslagverwerking is vereist.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

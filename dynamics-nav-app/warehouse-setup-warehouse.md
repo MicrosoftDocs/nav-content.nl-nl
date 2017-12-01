@@ -3,7 +3,7 @@ title: Magazijnprocessen configureren
 description: "De distributiestrategie van een bedrijf wordt weerspiegeld in de configuratie van zijn magazijnprocessen. Dit betreft onder andere definiëren hoe verschillende artikelen op verschillende magazijnlocaties worden afgehandeld, zoals de mate van opslaglocatiecontrole en de omvang van de werkstroom die nodig is voor activiteiten tussen magazijnen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

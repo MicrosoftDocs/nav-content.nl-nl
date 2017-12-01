@@ -3,7 +3,7 @@ title: Productieoutput en bewerkingstijden in batches boeken
 description: Het outputaantal geeft het gereedgemelde aantal van onderhanden werk aan.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

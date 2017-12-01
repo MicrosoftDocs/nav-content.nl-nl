@@ -3,7 +3,7 @@ title: Overzicht van taken om service te leveren
 description: Hier wordt een overzicht van de taken gegeven die u moet instellen om ervoor te zorgen dat u kwaliteitsservice levert en afspraken met klanten nakomt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

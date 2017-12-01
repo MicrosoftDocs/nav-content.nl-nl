@@ -2,7 +2,7 @@
 title: Beheertaken in Dynamics NAV
 description: Sommige taken in [!INCLUDE[d365fin](includes/d365fin_md.md)] moeten centraal worden beheerd en ingesteld. Zie om welke taken het gaat en wat u hiermee doet.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

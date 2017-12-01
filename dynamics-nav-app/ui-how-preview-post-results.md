@@ -3,7 +3,7 @@ title: Een voorbeeld van posten bekijken voordat u een document of dagboek boekt
 description: U kunt ervoor zorgen dat posten voor documenten en dagboeken correct zijn voordat u ze naar het grootboek boekt.
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

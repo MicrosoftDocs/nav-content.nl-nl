@@ -3,7 +3,7 @@ title: Ordertoezeggingsdatums berekenen
 description: Met de functie Ordertoezegging wordt de vroegst mogelijke datum berekend waarop een artikel beschikbaar is voor verzending of levering. Met deze functie worden ook behoefteregels gemaakt voor de datums die u accepteert.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
