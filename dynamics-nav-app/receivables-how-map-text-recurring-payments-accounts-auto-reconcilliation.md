@@ -1,9 +1,8 @@
 ---
-title: Tekst-aan-rekening koppeling instellen voor periodieke betalingen
+title: Tekst-aan-rekening koppeling instellen voor periodieke betalingen | Microsoft Docs
 description: Koppel tekst aan betalingen met bepaalde rekeningen, zodat betalingen naar de rekeningen geboekt worden als u het betalingsreconciliatiedagboek boekt.
-documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,17 +11,14 @@ ms.search.keywords: account linking, direct payment posting, automatic payment p
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: de3042d13ff280617c43075df705f86bbba7b013
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 284dcac805ef34b433b4cb18499d47249dc8d01b
 ms.contentlocale: nl-nl
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Procedure: Tekst op herhalende betalingen aan rekeningen toewijzen voor automatische afstemming
 In het venster **Toewijzing tekst aan rekening**, dat u opent vanuit het venster **Dagboek betalingsreconciliatie** , kunt u toewijzingen instellen tussen tekst op betalingen en specifieke debet-, credit- en tegenrekeningen zodat dergelijke betalingen worden geboekt naar de opgegeven rekeningen wanneer u het betalingsreconciliatiedagboek boekt.
-
-> [!NOTE]  
->   Dit onderwerp is ook van toepassing wanneer u de functie **Tekst afstemmen op rekening** van een inkomende documentrecord gebruikt om u te helpen bij het converteren van elektronische documenten die zijn ontvangen van externe services, naar documenten in [!INCLUDE[d365fin](includes/d365fin_md.md)]. Zie [Procedure: OCR gebruiken om PDF- en afbeeldingsbestanden te converteren naar elektronische documenten](across-how-use-ocr-pdf-images-files.md) voor meer informatie.   
 
 Er bestaat vergelijkbare functionaliteit om te grote bedragen op de dagboekregels voor betalingreconciliatie op ad-hocbasis te reconciliëren. Zie [Procedure: Betalingen reconciliëren die niet automatisch kunnen worden vereffend](receivables-how-reconcile-payments-cannot-apply-auto.md) voor meer informatie.
 
@@ -40,13 +36,15 @@ Op een dagboekregel van een betalingsreconciliatie waar de betaling is ingesteld
 4. Voer in het veld **Toewijzingstekst** willekeurige tekst in die voorkomt op betalingen die u, zonder deze met een openstaande post te vereffenen, wilt boeken naar opgegeven rekeningen. U kunt maximaal 50 tekens invoeren.
 
     > [!NOTE]  
->   Als er geen andere betalingen of inkomende documenten met de betreffende koppelingstekst zijn, vindt de tekst-aan-rekening toewijzing zelfs ook plaats wanneer slechts een deel van de tekst op de betaling of inkomend document als toewijzingstekst bestaat.
-5. Voer in het veld **Leveranciersnr.** de leverancier op voor wie inkomende documenten met de toewijzingstekst worden gemaakt of naar wie betalingen worden geboekt. Zie [Procedure: OCR gebruiken om PDF- en afbeeldingsbestanden te converteren naar elektronische documenten](across-how-use-ocr-pdf-images-files.md) voor meer informatie.      
-6. Voer in het veld **Debetrekeningnr.** de rekening in waarnaar betalingen die de toewijzingstekst bevatten, worden geboekt als het inkomende betalingen zijn. Voor inkomende voor betalingen is het teken van de waarde in het **Afschrifttotaal** positief.
-7. Voer in het veld **Credittrekeningnr.** de rekening in waarnaar betalingen die de toewijzingstekst bevatten, worden geboekt als het uitgaande betalingen zijn. Voor uitgaande betalingen is het teken van de waarde in het **Afschrifttotaal** negatief.
-8. Geef in het veld **Bronsoort saldo** op of de betaling naar een grootboekrekening of een klanten- of een leveranciersrekening wordt geboekt.
-9. Geef in het veld **Bronnr. saldo** de rekening op waarnaar de betaling wordt geboekt, afhankelijk van uw keuze in het veld **Bronsoort saldo**.
-10. Herhaal stap 4 tot en met 8 voor alle tekst op betalingen die u aan rekeningen wilt toewijzen voor directe boeking zonder vereffening.
+>   Als er geen andere betalingen met de betreffende koppelingstekst zijn, vindt de toewijzing van tekst aan rekening ook plaats wanneer slechts een deel van de tekst op de betaling als toewijzingstekst bestaat.
+5. Voer in het veld **Leveranciersnr.** de leverancier in waarnaar de betalingen worden geboekt.
+6. Geef in het veld **Bronsoort saldo** op of de betaling naar een grootboekrekening of een klanten- of een leveranciersrekening wordt geboekt.
+7. Geef in het veld **Bronnr. saldo** de rekening op waarnaar de betaling wordt geboekt, afhankelijk van uw keuze in het veld **Bronsoort saldo**.
+
+    > [!NOTE]
+    > Gebruik de velden **Debetrekeningnr.** en **Creditrekeningnr.** niet in combinatie met betalingsreconciliatie. Deze worden alleen gebruikt voor inkomende documenten. Zie [Procedure: OCR gebruiken om PDF- en afbeeldingsbestanden te converteren naar elektronische documenten](across-how-use-ocr-pdf-images-files.md) voor meer informatie.
+
+8. Herhaal stap 3 tot en met 7 voor alle tekst op betalingen die u aan rekeningen wilt toewijzen voor directe boeking zonder vereffening.
 
 De volgende keer dat u een bankafschriftbestand importeert of de actie **Automatisch vereffenen** kiest in het venster **Dagboek betalingsreconciliatie**, zullen dagboekregels voor de betalingen die de opgegeven toewijzingstekst bevatten, de toegewezen rekeningen bevatten in de velden **Rekeningsoort** en **Rekeningnr.** Het veld **Zekerheid afstemming** bevat **Hoog - Toewijzing tekst aan rekening**. Hiervoor geldt de voorwaarde dat de automatische vereffeningsfunctie slechts een afstemmingszekerheid van **Laag** of **Gemiddeld** kan bieden.
 
@@ -63,7 +61,6 @@ Als u brandstofkosten die bij Shell-benzinestations worden betaald, altijd wilt 
 ## <a name="see-also"></a>Zie ook
 [Tegoeden beheren](receivables-manage-receivables.md)  
 [Verkoop](sales-manage-sales.md)  
-[Procedure: Conversieservice voor bankgegevens instellen](bank-how-setup-bank-data-conversion-service.md)    
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] aanpassen met behulp van extensies](ui-extensions.md)  
 [Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
